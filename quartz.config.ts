@@ -6,9 +6,12 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+const isPreview = process.env.QUARTZ_PREVIEW === "true"
+console.log("🧪 isPreview =", isPreview)
+
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Infinite Mind Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,39 +19,39 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "axyl-casc.github.io/Infinite-Mind-Wiki",
+    baseUrl: isPreview ? "localhost/" : "axyl-casc.github.io/Infinite-Mind-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Orbitron", // Sci-fi / gaming feel
+        body: "Inter",       // Clean and modern
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f3f3f7",
+          lightgray: "#d8d8e0",
+          gray: "#a0a0b0",
+          darkgray: "#444458",
+          dark: "#1b1b25",
+          secondary: "#005f99",       // Primary brand color
+          tertiary: "#00b2ca",        // Accent
+          highlight: "rgba(0, 95, 153, 0.1)",
+          textHighlight: "#ffff0080", // Yellow glow
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1b1d23",
+          lightgray: "#2e3139",
+          gray: "#5c5f69",
+          darkgray: "#c2c6d3",
+          dark: "#e4e6ed",
+          secondary: "#3db2ff",
+          tertiary: "#00b2ca",
+          highlight: "rgba(0, 178, 202, 0.2)",
+          textHighlight: "#ffd70066", // Gold glow
         },
       },
     },
@@ -88,8 +91,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(), // Customize these for each game or article
     ],
   },
 }

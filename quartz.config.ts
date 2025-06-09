@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: isPreview ? "localhost/" : "axyl-casc.github.io/Infinite-Mind-Wiki",
+    baseUrl: "axyl-casc.github.io/Infinite-Mind-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

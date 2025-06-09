@@ -1,3 +1,3 @@
 ---
-Day 1
+title: Day 1
 ---

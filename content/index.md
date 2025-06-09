@@ -6,7 +6,7 @@ Welcome to **Infinite Mind Wiki** — a collection of interactive learning modul
 
 ## Labs
 
-### 🚀 [RoboCode Lab](./robocode)
+### 🚀 [RoboCode Lab](./robocode/)
 
 Explore the fundamentals of programming and combat AI using Robocode.
 

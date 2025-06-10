@@ -1,10 +1,11 @@
 ---
 title: "2 - Choose Your Animal"
-tags: ["minecraft", "sustainability", "day1"]
+tags: ["minecraft", "sustainability"]
 ---
+
 # Choose Your Animal
 
-Pick a special animal companion for your adventure. Teleport to the biome where it naturally lives and start building a small shelter for it.
+Pick a special animal companion for your adventure. Build a small shelter or habitat that fits its natural environment.
 
 ## Next Steps
 

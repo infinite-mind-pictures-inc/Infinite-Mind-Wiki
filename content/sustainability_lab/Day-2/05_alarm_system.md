@@ -9,4 +9,4 @@ Use bells or redstone contraptions to warn citizens when a disaster is coming.
 ## Next Steps
 
 ⬅️ [Back: Flood Prep](/sustainability_lab/Day-2/04_flood)
-➡️ [Next: Renewable Energy Plan](/sustainability_lab/Day-2/06_renewable_plan)
+➡️ [Next: Day 3 Introduction](/sustainability_lab/Day-3/00_intro)

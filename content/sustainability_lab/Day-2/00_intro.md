@@ -7,7 +7,9 @@ tags: ["minecraft", "sustainability", "day2"]
 
 **"A" is for Adventure.** Use a short window in creative mode to build a bunker before switching to adventure mode. Can you survive a new disaster—or even a zombie invasion? Bunker creation introduces life skills like hydration, nutrition, and self-defense.
 
-Make sure all Day 1 tasks are green on your board. Today we prepare for natural disasters and plan a sustainable power source.
+Make sure all Day 1 tasks are green on your board. Once your instructor checks them off, clear yesterday's board and start fresh. Today we prepare for natural disasters and plan a sustainable power source.
+
+Sketch a bunker—or even a full escape room—to ride out future calamities. Think about community defenses and how you'll keep order if danger strikes.
 
 Confirm **one** of the disasters to prepare for:
 

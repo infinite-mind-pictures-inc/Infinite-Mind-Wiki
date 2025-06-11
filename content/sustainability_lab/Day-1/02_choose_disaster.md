@@ -4,7 +4,7 @@ tags: ["minecraft", "sustainability", "day1"]
 ---
 # Choose a Natural Disaster
 
-Decide which disaster your village must prepare for: tornado, tsunami, earthquake, or flood.
+Decide which disaster your village must prepare for: tornado, tsunami, earthquake, or flood. Pick a location where you'll take shelter and note the `/tp` coordinates so you can return quickly.
 
 ## Next Steps
 

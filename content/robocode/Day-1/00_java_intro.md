@@ -10,7 +10,7 @@ Welcome to the **Robocode Lab**! Today is all about installing Java and getting 
 
 ## What You'll Learn
 
-- How to set up Java in VS Code or Eclipse
+- How to set up Java in [VS Code](/robocode/Day-1/01_setup_vscode) or [Eclipse](/robocode/Day-1/02_setup_eclipse)
 - How to compile and run a simple program
 
 ---

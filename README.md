@@ -77,24 +77,10 @@ This repo uses **GitHub Actions** to auto-deploy Quartz to GitHub Pages whenever
 * Deploy via GitHub Actions from the `public/` folder
 * Use `baseUrl: "axyl-casc.github.io/Infinite-Mind-Wiki"` in `quartz.config.ts`
 
----
-
-## 🔁 Manually Trigger a Build
-
-```bash
-npx quartz build
-git add .
-git commit -m "Update site"
-git push
-```
-
-The GitHub Action will build and deploy the updated site.
-
----
 
 ## 🤖 Deployment Workflow
 
-Found in `.github/workflows/deploy.yml`:
+Found in `.github/workflows/jekyll-gh-pages.yml`:
 
 * Installs Node
 * Builds Quartz
@@ -102,39 +88,6 @@ Found in `.github/workflows/deploy.yml`:
 * Deploys with `actions/deploy-pages@v4`
 
 You do **not** need to manage this manually unless customizing.
-
----
-
-## 🔀 Preview Mode (Handling `baseUrl`)
-
-Quartz uses the `baseUrl` config to generate links for GitHub Pages. To make links work properly in local preview, a `QUARTZ_PREVIEW` environment variable is used to control this behavior.
-
-### 🔧 In `quartz.config.ts`
-
-```ts
-const isPreview = process.env.QUARTZ_PREVIEW === "true"
-baseUrl: isPreview ? "" : "axyl-casc.github.io/Infinite-Mind-Wiki",
-```
-
-### ✅ To Preview Locally (Windows CMD)
-
-```cmd
-set QUARTZ_PREVIEW=true && npx quartz build --serve
-```
-
-### ✅ To Preview Locally (PowerShell)
-
-```powershell
-$env:QUARTZ_PREVIEW="true"; npx quartz build --serve
-```
-
-### ✅ To Build for Production
-
-```bash
-npx quartz build
-```
-
-When `QUARTZ_PREVIEW` is not set or false, the site builds using the `baseUrl` for GitHub Pages.
 
 ---
 

@@ -5,6 +5,8 @@ tags: ["minecraft", "sustainability", "day3"]
 
 # Sustainability Lab: Day 3 – Sustainable Energy
 
+**"R" is for Renewables.** After the chaos of Day 2, return to creative mode to engineer a renewable energy system. Whether decorative builds or functioning redstone circuits, you'll explore numeracy, logic, and the physics of power generation.
+
 Move beyond redstone torches and create a new power source for your village. Solar arrays, windmills, or anything creative is welcome.
 
 Sketch how you'll represent your power source in Minecraft. Will you build spinning wind turbines or solar panels that light up with redstone?

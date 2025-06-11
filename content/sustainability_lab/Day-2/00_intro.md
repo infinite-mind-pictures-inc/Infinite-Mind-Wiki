@@ -5,7 +5,7 @@ tags: ["minecraft", "sustainability", "day2"]
 
 # Sustainability Lab: Day 2 – Disaster Preparation
 
-Make sure all Day 1 tasks are green on your board. Today we prepare for natural disasters and plan a renewable power source.
+Make sure all Day 1 tasks are green on your board. Today we prepare for natural disasters and plan a sustainable power source.
 
 Choose **one** of the disasters to prepare for:
 

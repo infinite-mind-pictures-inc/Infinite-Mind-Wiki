@@ -13,8 +13,8 @@ Hydropower uses the force of moving water—like rivers or waterfalls—to gener
 - Use water flow to activate redstone contraptions downstream
 
 ## Real-World Connection
-Hydropower is a reliable and renewable energy source that doesn’t produce pollution. It’s often used in mountainous or river-filled regions.
+Hydropower is a reliable and sustainable energy source that doesn’t produce pollution. It’s often used in mountainous or river-filled regions.
 
 ## Next Steps
-⬅️ [Back to Renewable Energy Overview](/sustainability_lab/Day-3/00_intro)
+⬅️ [Back to Sustainable Energy Overview](/sustainability_lab/Day-3/00_intro)
 ➡️ [Next: Write a Backstory](/sustainability_lab/Day-3/01_backstory)

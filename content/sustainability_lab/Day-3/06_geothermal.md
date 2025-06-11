@@ -13,8 +13,8 @@ Geothermal energy comes from the heat stored beneath the Earth's surface. It's u
 - Build tunnels with steam vents and piping to mimic heat transfer
 
 ## Real-World Connection
-Geothermal energy is constant and clean, especially effective in volcanic areas. It's a powerful renewable source that doesn't rely on weather conditions.
+Geothermal energy is constant and clean, especially effective in volcanic areas. It's a powerful sustainable source that doesn't rely on weather conditions.
 
 ## Next Steps
-⬅️ [Back to Renewable Energy Overview](/sustainability_lab/Day-3/00_intro)
+⬅️ [Back to Sustainable Energy Overview](/sustainability_lab/Day-3/00_intro)
 ➡️ [Next: Write a Backstory](/sustainability_lab/Day-3/01_backstory)

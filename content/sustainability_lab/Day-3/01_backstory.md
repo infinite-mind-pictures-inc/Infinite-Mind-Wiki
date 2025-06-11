@@ -8,5 +8,5 @@ Describe the environmental catastrophe that led survivors to your settlement. Ho
 
 ## Next Steps
 
-⬅️ [Back: Renewable Energy](/sustainability_lab/Day-3/00_intro)
+⬅️ [Back: Sustainable Energy](/sustainability_lab/Day-3/00_intro)
 ➡️ [Next: Build a Market](/sustainability_lab/Day-4/00_market)

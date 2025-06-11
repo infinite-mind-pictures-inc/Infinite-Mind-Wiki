@@ -32,22 +32,20 @@ Use this table to standardize tags across your Quartz-based lab content. You can
 |                      | `cs`             | Computer Science-specific                                   |
 |                      | `ethics`         | Involves discussion of ethical issues (e.g., AI ethics)     |
 |                      | `design`         | Covers UX, UI, or software/game design concepts             |
-| Outcome Type         | `code-output`    | Produces source code as the main output                     |
-|                      | `gameplay`       | Produces or modifies a game                                 |
-|                      | `discussion`     | Centers on written or verbal reflection                     |
-|                      | `artifact`       | Creates a visible product (e.g. poster, report, model)      |
 | Execution Style      | `asynchronous`   | Can be completed at any time, self-paced                    |
 |                      | `synchronous`    | Designed to be done in real-time with a group or instructor |
 | Status / Label       | `wip`            | This content is a Work in Progress                          |
 | Page Type            | `intro`          | Introduction or overview of a topic or project              |
 |                      | `contents`       | Table of contents or structured index for a section         |
 |                      | `tutorial`       | Step-by-step instructional content                          |
+| Category             | `sustainability` | Focus on sustainable energy                                 |
+|                      | `programming   ` | Focus on learning programming                               |
 
 You can mix and match tags as needed for clarity and filtering. For example:
 
 ```yaml
 ---
 title: "Introduction to Robocode"
-tags: [java, robocode, all-ages, beginner, hands-on, cs, code-output]
+tags: [java, robocode, all-ages, beginner, cs]
 ---
 ```

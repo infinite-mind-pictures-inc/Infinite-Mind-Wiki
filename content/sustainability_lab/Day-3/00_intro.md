@@ -16,7 +16,7 @@ Sketch how you'll represent your power source in Minecraft. Will you build spinn
 - ☀️ [Solar Power](/sustainability_lab/Day-3/02_solar)
 - 🌬️ [Wind Power](/sustainability_lab/Day-3/03_wind)
 - 🌊 [Hydropower](/sustainability_lab/Day-3/04_hydro)
-- 🌊🌊 [Tidal Power](/sustainability_lab/Day-3/08_tidal)
+- 🐋 [Tidal Power](/sustainability_lab/Day-3/08_tidal)
 - 🌱 [Biomass](/sustainability_lab/Day-3/05_biomass)
 - 🌋 [Geothermal](/sustainability_lab/Day-3/06_geothermal)
 - ⚛️ [Nuclear Power](/sustainability_lab/Day-3/07_nuclear)

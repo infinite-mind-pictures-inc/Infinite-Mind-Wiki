@@ -1,5 +1,5 @@
 ---
-title: "3 - Tsunami Prep"
+title: "Tsunami Prep"
 tags: ["minecraft", "sustainability", "day2"]
 ---
 # Prepare for Tsunamis

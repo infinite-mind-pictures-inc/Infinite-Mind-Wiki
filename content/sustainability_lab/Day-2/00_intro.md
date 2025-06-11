@@ -9,7 +9,7 @@ tags: ["minecraft", "sustainability", "day2"]
 
 Make sure all Day 1 tasks are green on your board. Today we prepare for natural disasters and plan a sustainable power source.
 
-Choose **one** of the disasters to prepare for:
+Confirm **one** of the disasters to prepare for:
 
 - 🌪️ [Tornado Prep](/sustainability_lab/Day-2/01_tornado)
 - 🌊 [Tsunami Prep](/sustainability_lab/Day-2/02_tsunami)

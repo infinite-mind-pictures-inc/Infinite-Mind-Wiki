@@ -1,5 +1,5 @@
 ---
-title: "4 - Earthquake Prep"
+title: "Earthquake Prep"
 tags: ["minecraft", "sustainability", "day2"]
 ---
 # Prepare for Earthquakes

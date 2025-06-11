@@ -13,7 +13,7 @@ Begin with an **orientation tour** of an existing sustainable village. Pick a su
 Start recording the basics of your settlement:
 
 - **Village name and biome**
-- **Nether station coordinates**
+- **Trade station coordinates**
 - **Disaster you fled and the animal companion that came with you**
 - **Ideas for floating homes or other evolved dwellings**
 

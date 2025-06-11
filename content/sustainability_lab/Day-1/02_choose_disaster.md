@@ -1,10 +1,21 @@
 ---
+
 title: "3 - Choose a Disaster"
 tags: ["minecraft", "sustainability", "day1"]
----
+----------------------------------------------
+
 # Choose a Natural Disaster
 
-Decide which disaster your village must prepare for: tornado, tsunami, earthquake, or flood. Pick a location where you'll take shelter and note the `/tp` coordinates so you can return quickly.
+Your EARTH Knight’s story continues with a critical choice: **What kind of natural disaster will your village prepare for?**
+
+* 🌪 **Tornado** – Fast and destructive, with strong winds. What materials will stand up to this?
+* 🌊 **Tsunami** – Water rises quickly and crashes down. Is your village near the sea or up high?
+* 🌍 **Earthquake** – The ground shakes and cracks. How will you build something stable?
+* 🌧 **Flood** – Rising water from rain or rivers. What can you do to protect your resources?
+
+This choice sets the stage for Day 2 — where you’ll need to survive what you’ve imagined. Think like a storyteller and a city planner: What would your character fear? What would they prepare for?
+
+Pick a biome and safe spot to shelter, and make sure to record your `/tp` coordinates so you can return when the storm hits.
 
 ## Next Steps
 

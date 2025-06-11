@@ -9,4 +9,4 @@ Design sturdy underground shelters and practice seeking cover quickly.
 ## Next Steps
 
 ⬅️ [Back: Day 2 Overview](/sustainability_lab/Day-2/00_intro)
-➡️ [Next: Tsunami Prep](/sustainability_lab/Day-2/02_tsunami)
+➡️ [Next: Alarm Systems](/sustainability_lab/Day-2/05_alarm_system)

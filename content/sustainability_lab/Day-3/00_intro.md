@@ -1,15 +1,15 @@
 ---
-title: "1 - Renewable Energy"
+title: "1 - Sustainable Energy"
 tags: ["minecraft", "sustainability", "day3"]
 ---
 
-# Sustainability Lab: Day 3 – Renewable Energy
+# Sustainability Lab: Day 3 – Sustainable Energy
 
 Move beyond redstone torches and create a new power source for your village. Solar arrays, windmills, or anything creative is welcome.
 
 Sketch how you'll represent your power source in Minecraft. Will you build spinning wind turbines or solar panels that light up with redstone?
 
-**Choose a renewable energy idea to explore:**
+**Choose a sustainable energy idea to explore:**
 
 - ☀️ [Solar Power](/sustainability_lab/Day-3/02_solar)
 - 🌬️ [Wind Power](/sustainability_lab/Day-3/03_wind)

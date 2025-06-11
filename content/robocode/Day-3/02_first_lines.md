@@ -2,7 +2,7 @@
 title: "3 - First Lines of Code"
 tags: ["robocode", "beginner", "java"]
 ---
-# Robocode Lab: Day 1 – First Lines of Code
+# Robocode Lab: Day 3 – First Lines of Code
 
 Now that your workspace is set up and the files are ready, it's time to write your first robot in **Visual Studio Code**.
 
@@ -60,4 +60,4 @@ Watch your robot in action as it follows your logic and fires energy beams at op
 
 ## Navigation
 
-⬅️ [Back: Setting Up](/robocode/Day-1/01_setting_up)
+⬅️ [Back: Setting Up](/robocode/Day-3/01_setting_up)

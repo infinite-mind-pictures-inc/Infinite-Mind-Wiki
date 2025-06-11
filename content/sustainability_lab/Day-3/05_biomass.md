@@ -13,8 +13,8 @@ Biomass energy is produced by burning organic materials like plants, wood, or fo
 - Use hoppers, droppers, and redstone to automate your biomass conversion
 
 ## Real-World Connection
-Biomass is a renewable resource as long as plants are regrown. It's widely used in rural areas and can help manage waste while producing energy.
+Biomass is a sustainable resource as long as plants are regrown. It's widely used in rural areas and can help manage waste while producing energy.
 
 ## Next Steps
-⬅️ [Back to Renewable Energy Overview](/sustainability_lab/Day-3/00_intro)
+⬅️ [Back to Sustainable Energy Overview](/sustainability_lab/Day-3/00_intro)
 ➡️ [Next: Write a Backstory](/sustainability_lab/Day-3/01_backstory)

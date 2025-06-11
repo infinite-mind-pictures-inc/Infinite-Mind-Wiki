@@ -13,8 +13,8 @@ Solar energy comes from the sun and can be turned into electricity using solar p
 - Create solar panel fields on rooftops or in open areas
 
 ## Real-World Connection
-Solar power is one of the cleanest sources of renewable energy. It reduces the need for fossil fuels and works best in sunny regions.
+Solar power is one of the cleanest sources of sustainable energy. It reduces the need for fossil fuels and works best in sunny regions.
 
 ## Next Steps
-⬅️ [Back to Renewable Energy Overview](/sustainability_lab/Day-3/00_intro)
+⬅️ [Back to Sustainable Energy Overview](/sustainability_lab/Day-3/00_intro)
 ➡️ [Next: Write a Backstory](/sustainability_lab/Day-3/01_backstory)

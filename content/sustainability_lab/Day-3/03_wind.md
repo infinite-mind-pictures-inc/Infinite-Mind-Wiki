@@ -13,8 +13,8 @@ Wind energy is created by the movement of air and can be converted into electric
 - Use observers and redstone to simulate movement or activation by wind
 
 ## Real-World Connection
-Wind power is a clean and renewable energy source. It works well in open, windy areas and helps reduce greenhouse gas emissions.
+Wind power is a clean and sustainable energy source. It works well in open, windy areas and helps reduce greenhouse gas emissions.
 
 ## Next Steps
-⬅️ [Back to Renewable Energy Overview](/sustainability_lab/Day-3/00_intro)
+⬅️ [Back to Sustainable Energy Overview](/sustainability_lab/Day-3/00_intro)
 ➡️ [Next: Write a Backstory](/sustainability_lab/Day-3/01_backstory)

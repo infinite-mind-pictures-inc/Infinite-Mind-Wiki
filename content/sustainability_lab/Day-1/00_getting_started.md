@@ -8,6 +8,17 @@ tags: ["minecraft", "sustainability", "day1"]
 
 Begin with an **orientation tour** of an existing sustainable village. Pick a sustainable energy source, teleport to a biome, and see how students before you built their towns. New arrivals get this tour on their first day so they can join ongoing builds.
 
+### Community Village Setup
+
+Start recording the basics of your settlement:
+
+- **Village name and biome**
+- **Nether station coordinates**
+- **Disaster you fled and the animal companion that came with you**
+- **Ideas for floating homes or other evolved dwellings**
+
+Keep these details handy—they will guide the tasks on later days.
+
 ## Next Steps
 
 ➡️ [Next: Choose Your Animal](/sustainability_lab/Day-1/01_choose_animal)

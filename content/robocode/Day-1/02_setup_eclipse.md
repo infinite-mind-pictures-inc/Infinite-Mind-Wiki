@@ -1,5 +1,5 @@
 ---
-title: "2 - Setup with Eclipse"
+title: "3 - Setup with Eclipse"
 tags: ["robocode", "beginner", "java", "eclipse"]
 ---
 # Set Up Java with Eclipse

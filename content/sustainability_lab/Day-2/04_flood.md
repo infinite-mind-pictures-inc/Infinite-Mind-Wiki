@@ -1,5 +1,5 @@
 ---
-title: "5 - Flood Prep"
+title: "Flood Prep"
 tags: ["minecraft", "sustainability", "day2"]
 ---
 # Prepare for Floods

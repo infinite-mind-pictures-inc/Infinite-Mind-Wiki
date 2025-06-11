@@ -1,5 +1,5 @@
 ---
-title: "2 - Tornado Prep"
+title: "Tornado Prep"
 tags: ["minecraft", "sustainability", "day2"]
 ---
 # Prepare for Tornadoes

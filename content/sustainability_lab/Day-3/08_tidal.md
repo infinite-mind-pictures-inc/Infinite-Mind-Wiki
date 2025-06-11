@@ -3,14 +3,13 @@ title: "Tidal Power"
 tags: ["minecraft", "sustainability", "day3", "energy"]
 ---
 
-# Tidal Power 🌊🌊
+# Tidal Power 🐋
 
 Tidal energy harnesses the rise and fall of ocean tides to generate electricity. In Minecraft, you can simulate tidal power with alternating water levels and redstone machines.
 
 ## Build Ideas
 - Build a piston-driven gate that opens and closes with the tide
-- Use sensors or timers to mimic rising and falling water
-- Create decorative underwater turbines or water wheels
+- Create underwater turbines or water wheels
 
 ## Real-World Connection
 Tidal power is a predictable form of sustainable energy that works best in coastal areas with strong tidal currents.

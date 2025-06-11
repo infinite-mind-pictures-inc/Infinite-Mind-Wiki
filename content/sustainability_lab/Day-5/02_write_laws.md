@@ -9,4 +9,4 @@ Record proposed laws in a book and discuss them with classmates. Decide which ru
 ## Next Steps
 
 ⬅️ [Back: Voting Mini-Game](/sustainability_lab/Day-5/01_voting)
-➡️ [Next: Ongoing Challenges](/sustainability_lab/Day-6/00_ongoing_challenges)
+➡️ [Next: Movie Knight](/sustainability_lab/Day-5/03_movie_knight)

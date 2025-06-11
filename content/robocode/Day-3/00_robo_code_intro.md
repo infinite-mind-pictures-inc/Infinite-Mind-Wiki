@@ -3,7 +3,7 @@ title: "1 - Outline"
 tags: ["robocode", "beginner", "java", "intro"]
 ---
 
-# Robocode Lab: Day 1 – Introduction
+# Robocode Lab: Day 3 – Introduction
 
 Welcome to the **Robocode Lab**! In this module, you'll get a high-level overview of what you'll be doing across the coming days.
 
@@ -19,4 +19,4 @@ Welcome to the **Robocode Lab**! In this module, you'll get a high-level overvie
 
 ## Next Steps
 
-➡️ [Next: Setting Up](/robocode/Day-1/01_setting_up)
+➡️ [Next: Setting Up](/robocode/Day-3/01_setting_up)

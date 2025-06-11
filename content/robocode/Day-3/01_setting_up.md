@@ -3,7 +3,7 @@ title: "2 - Setting Up"
 tags: ["robocode", "beginner", "java"]
 ---
 
-# Robocode Lab: Day 1 – Setting Up
+# Robocode Lab: Day 3 – Setting Up
 
 Before we start programming robots, let's make sure your environment is ready.
 
@@ -34,5 +34,5 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ## Navigation
 
-⬅️ [Back: Introduction](/robocode/Day-1/00_robo_code_intro)  
-➡️ [Next: First Lines of Code](/robocode/Day-1/02_first_lines)
+⬅️ [Back: Introduction](/robocode/Day-3/00_robo_code_intro)  
+➡️ [Next: First Lines of Code](/robocode/Day-3/02_first_lines)

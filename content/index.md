@@ -1,5 +1,5 @@
 ---
-title: "Infinite Mind Wiki"
+title: "Home"
 ---
 
 Welcome to **Infinite Mind Wiki** — a collection of interactive learning modules and experiments.

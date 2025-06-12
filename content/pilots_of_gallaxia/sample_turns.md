@@ -24,4 +24,4 @@ tags: ["unplugged", "gallaxia"]
 
 ## Navigation
 
-⬅️ [Back: Card Definitions](./card_definitions) | ⬆️ [Return to Index](./)
+⬅️ [Back: Card Definitions](./card_definitions)

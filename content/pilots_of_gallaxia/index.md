@@ -2,6 +2,7 @@
 title: "Pilots of Gallaxia"
 tags: ["unplugged", "all-ages", "contents"]
 ---
+<img src="/images/galaxia/mainpage.png" alt="Galaxia Main Image" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
 **Pilots of Gallaxia** is a tabletop game of interstellar daring. Command your starships, rescue your lost scientist and return home before your rivals do.
 

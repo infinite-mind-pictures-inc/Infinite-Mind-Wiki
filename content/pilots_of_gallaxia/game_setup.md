@@ -1,6 +1,7 @@
 ---
 title: "Game Setup"
 tags: ["unplugged", "gallaxia"]
+showToc: true
 ---
 
 ## Objective

@@ -7,6 +7,8 @@ Far-off **Gallaxia** is filled with adventure and danger. Durriken invaders stri
 
 On the battle-hardened outer planets, mercenary Durriken are hired to sabotage routes and fight for the highest bidder. As your sector's top pilot, you must build trade route warps and deploy these mercenaries to reach your scientist, stranded after a failed **Teleprism** experiment. Recovering them before your rivals ensures control of their research—and victory.
 
+
+
 ## Navigation
 
 ➡️ [Next: Game Setup](./game_setup)

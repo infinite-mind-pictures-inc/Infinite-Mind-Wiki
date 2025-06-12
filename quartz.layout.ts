@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Infinite Mind Games": "https://www.infinitemind.games/",
+      "Outschool": "https://outschool.com/teachers/Infinite-Mind-Pictures-Inc"
     },
   }),
 }

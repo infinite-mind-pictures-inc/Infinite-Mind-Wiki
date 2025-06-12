@@ -14,9 +14,6 @@ Explore the fundamentals of programming and combat AI using Robocode.
 
 Investigate environmental systems, green tech, and sustainable practices.
 
-### 🌱 [Sustainability Maze](./sustainability_maze/)
-
-Investigate environmental systems, green tech, and sustainable practices.
 
 ### 🎬 [Minecraft Movie Course](./minecraft_movie_course/)
 

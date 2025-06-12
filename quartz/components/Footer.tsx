@@ -7,6 +7,10 @@ interface Options {
   links: Record<string, string>
 }
 
+interface Options {
+  links: Record<string, string>
+}
+
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
@@ -24,6 +28,9 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p style="font-size: 0.875rem; opacity: 0.7; margin-top: 1em;">
+          This project is not affiliated with, endorsed by, or associated with Mojang or Microsoft.
+        </p>
       </footer>
     )
   }

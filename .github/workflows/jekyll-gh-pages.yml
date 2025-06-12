@@ -2,8 +2,8 @@ name: Deploy Quartz site to GitHub Pages
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # Daily at 05:00 UTC
-  workflow_dispatch:       # Manual trigger
+    - cron: '0 22 * * *'          # 4 pm MDT / 3 pm MST
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -15,32 +15,37 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # ---------- 1) did anything relevant change? ----------
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - id: diff
+        run: |
+          git fetch origin main
+          # diff against the commit deployed by the previous run (if any)
+          PREV=$(git rev-parse HEAD~1 || echo "")
+          if [ -n "$PREV" ] && \
+             git diff --quiet "$PREV" HEAD -- \
+               content/ quartz/ quartz.config.ts package.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  # ---------- 2) build only when changed or on manual trigger ----------
   build:
+    needs: check
+    if: needs.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2  # So we can compare to the previous commit
-
-      - name: Check for relevant file changes
-        id: changes
-        run: |
-          echo "Checking for changes in content/, quartz/, or config files..."
-          if git diff --quiet HEAD^ HEAD -- content/ quartz/ quartz.config.ts package.json; then
-            echo "No relevant changes detected."
-            echo "should_skip=true" >> $GITHUB_OUTPUT
-          else
-            echo "Changes detected."
-            echo "should_skip=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Exit if nothing changed
-        if: steps.changes.outputs.should_skip == 'true'
-        run: echo "Skipping build – no changes detected." && exit 0
-
       - uses: actions/setup-node@v4
-        with:
-          node-version: 22
+        with: { node-version: 22 }
 
       - name: Install dependencies
         run: npm ci
@@ -50,15 +55,18 @@ jobs:
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
+        with: { path: public }
 
+  # ---------- 3) deploy (only runs if build ran) ----------
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}  # supported by the action :contentReference[oaicite:1]{index=1}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

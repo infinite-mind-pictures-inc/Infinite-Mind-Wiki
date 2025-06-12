@@ -10,11 +10,12 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} class="page-title-link">
         <img src="/images/icon.png" alt="Home Icon" class="page-title-icon" />
-        {title}
+        <span class="page-title-text">{title}</span>
       </a>
     </h2>
   )
 }
+
 
 PageTitle.css = `
 .page-title {
@@ -35,6 +36,17 @@ PageTitle.css = `
   width: 5rem;
   height: 5rem;
 }
+
+.page-title-text {
+  display: inline;
+}
+
+@media (max-width: 600px) {
+  .page-title-text {
+    display: none;
+  }
+}
+
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor

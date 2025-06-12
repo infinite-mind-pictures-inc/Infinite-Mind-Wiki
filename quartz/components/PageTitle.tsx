@@ -9,26 +9,13 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} class="page-title-link">
-        <img src={`${baseDir}/images/icon.png`} alt="Home Icon" class="page-title-icon" />
+        {/* Hardcoded absolute path to icon due to baseUrl issues in Quartz */}
+        <img src={`/Infinite-Mind-Wiki/images/icon.png`} alt="Home Icon" class="page-title-icon" />
         <span class="page-title-text">{title}</span>
       </a>
-
-      {/* Inline script runs only in the browser */}
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `<script>
-            console.log("=== Base URL Debug ===")
-            console.log("cfg.baseUrl:", "${cfg.baseUrl}")
-            console.log("pathToRoot(fileData.slug!):", "${baseDir}")
-            console.log("window.location.origin:", window.location.origin)
-            console.log("window.location.href:", window.location.href)
-            console.log("window.location.pathname:", window.location.pathname)
-            console.log("========================")</script>
-          `,
-        }}
-      />
     </h2>
   )
+
 }
 
 

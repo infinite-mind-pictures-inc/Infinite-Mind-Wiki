@@ -6,8 +6,6 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-const isPreview = process.env.QUARTZ_PREVIEW === "true"
-console.log("🧪 isPreview =", isPreview)
 
 const config: QuartzConfig = {
   configuration: {
@@ -86,6 +84,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssSlug: "rss"
       }),
       Plugin.Assets(),
       Plugin.Static(),
@@ -95,5 +94,6 @@ const config: QuartzConfig = {
     ],
   },
 }
+
 
 export default config

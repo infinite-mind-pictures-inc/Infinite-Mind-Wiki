@@ -34,5 +34,5 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ## Navigation
 
-⬅️ [Back: Introduction](/robocode/Day-3/00_robo_code_intro)  
+⬅️ [Back: Introduction](/robocode/Day-3/00_robocode_intro)
 ➡️ [Next: First Lines of Code](/robocode/Day-3/02_first_lines)

@@ -59,4 +59,4 @@ As an extra exercise, try modifying the loop so that your tank travels in a tria
 ## Navigation
 
 ⬅️ [Back: First Lines of Code](/robocode/Day-3/02_first_lines)
-➡️ [Next: Tournament Format](/robocode/tournament_format)
+➡️ [Next: Robocode Intro](/robocode/Day-3/00_robo_code_intro)

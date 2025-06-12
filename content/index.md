@@ -19,3 +19,7 @@ Investigate environmental systems, green tech, and sustainable practices.
 
 Learn the basics of filmmaking by creating your own Minecraft movie from script to final edit.
 
+### 🛰️ [Pilots of Gallaxia](./pilots_of_gallaxia/)
+
+Race across the stars to rescue your scientist in this tabletop adventure.
+

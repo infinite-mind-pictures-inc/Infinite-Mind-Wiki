@@ -35,4 +35,4 @@ Your robot fires when an enemy is close; otherwise it moves forward.
 ## Navigation
 
 ⬅️ [Back: Variables and Datatypes](/robocode/Day-2/00_variables_and_datatypes)
-➡️ [Next: Day 3](/robocode/Day-3/00_robo_code_intro)
+➡️ [Next: Day 3](/robocode/Day-3/00_robocode_intro)

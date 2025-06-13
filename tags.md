@@ -37,6 +37,7 @@ Use this table to standardize tags across your Quartz-based lab content. You can
 | Status / Label       | `wip`            | This content is a Work in Progress                          |
 | Page Type            | `intro`          | Introduction or overview of a topic or project              |
 |                      | `contents`       | Table of contents or structured index for a section         |
+|                      | `story`       | Table of contents or structured index for a section            |
 |                      | `tutorial`       | Step-by-step instructional content                          |
 | Category             | `sustainability` | Focus on sustainable energy                                 |
 |                      | `programming   ` | Focus on learning programming                               |

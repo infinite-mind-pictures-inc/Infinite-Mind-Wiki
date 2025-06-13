@@ -6,18 +6,36 @@ import { i18n } from "../i18n"
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
+  const siteBase = cfg.baseUrl ? new URL(`https://${cfg.baseUrl}`).pathname : ""
+  const defaultIcon = `${siteBase}/images/low/icon.webp`
+
+  // Render <script> for client-side logging and icon path adjustment
+  const clientScript = `
+    console.log("🔍 URL Debug Info:");
+    console.log("window.location.href:", window.location.href);
+    console.log("window.location.origin:", window.location.origin);
+    console.log("window.location.hostname:", window.location.hostname);
+    console.log("window.location.port:", window.location.port);
+    console.log("window.location.pathname:", window.location.pathname);
+    console.log("window.location.protocol:", window.location.protocol);
+    console.log("document.baseURI:", document.baseURI);
+
+    const icon = document.querySelector(".page-title-icon");
+    if (icon && (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1")) {
+      icon.src = "/images/low/icon.webp";
+    }
+  `
+
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} class="page-title-link">
-        {/* Hardcoded absolute path to icon due to baseUrl issues in Quartz: <img src={`/Infinite-Mind-Wiki/images/low/icon.webp`} alt="Home Icon" class="page-title-icon" /> */}
-        <img src={`/Infinite-Mind-Wiki/images/low/icon.webp`} alt="Home Icon" class="page-title-icon" />
+        <img src={defaultIcon} alt="Home Icon" class="page-title-icon" />
         <span class="page-title-text">{title}</span>
       </a>
+      <script dangerouslySetInnerHTML={{ __html: clientScript }} />
     </h2>
   )
-
 }
-
 
 PageTitle.css = `
 .page-title {
@@ -52,7 +70,6 @@ PageTitle.css = `
     height: 3rem;
   }
 }
-
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor

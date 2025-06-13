@@ -9,8 +9,8 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} class="page-title-link">
-        {/* Hardcoded absolute path to icon due to baseUrl issues in Quartz */}
-        <img src={`/Infinite-Mind-Wiki/images/icon.png`} alt="Home Icon" class="page-title-icon" />
+        {/* Hardcoded absolute path to icon due to baseUrl issues in Quartz: <img src={`/Infinite-Mind-Wiki/images/icon.png`} alt="Home Icon" class="page-title-icon" /> */}
+        <img src={`/images/icon.png`} alt="Home Icon" class="page-title-icon" />
         <span class="page-title-text">{title}</span>
       </a>
     </h2>
@@ -46,6 +46,10 @@ PageTitle.css = `
 @media (max-width: 600px) {
   .page-title-text {
     display: none;
+  }
+  .page-title-icon {
+    width: 3rem;
+    height: 3rem;
   }
 }
 

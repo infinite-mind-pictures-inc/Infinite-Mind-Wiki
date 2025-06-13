@@ -1,6 +1,6 @@
 ---
 title: "Geothermal"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 
 # Geothermal 🌋

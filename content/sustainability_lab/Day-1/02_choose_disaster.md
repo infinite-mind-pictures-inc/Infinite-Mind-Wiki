@@ -1,7 +1,7 @@
 ---
 
 title: "3 - Choose a Disaster"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 -------------------------------------------
 

@@ -1,6 +1,6 @@
 ---
 title: "4 - Movie Knight"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Movie Knight
 

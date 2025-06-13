@@ -1,6 +1,6 @@
 ---
 title: "1 - Variables and Datatypes"
-tags: [robocode, programming, beginner]
+tags: ["programming", "contents"]
 ---
 # Java Basics
 

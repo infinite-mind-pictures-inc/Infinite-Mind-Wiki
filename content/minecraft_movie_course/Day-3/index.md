@@ -1,5 +1,5 @@
 ---
 title: Day 3
 
-tags: [minecraft, arts, film, contents]
+tags: ["programming", "contents"]
 ---

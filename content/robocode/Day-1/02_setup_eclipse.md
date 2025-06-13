@@ -1,6 +1,6 @@
 ---
 title: "3 - Setup with Eclipse"
-tags: [robocode, programming, beginner]
+tags: ["programming", "contents"]
 ---
 # Set Up Java with Eclipse
 

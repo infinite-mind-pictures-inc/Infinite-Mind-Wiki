@@ -1,6 +1,6 @@
 ---
 title: "Card Definitions"
-tags: [unplugged, tutorial]
+tags: ["programming", "contents"]
 enableToc: true
 ---
 

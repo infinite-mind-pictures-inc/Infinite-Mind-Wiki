@@ -1,6 +1,6 @@
 ---
 title: "3 - First Lines of Code"
-tags: [robocode, programming, beginner]
+tags: ["programming", "contents"]
 ---
 # Robocode Lab: Day 3 – First Lines of Code
 

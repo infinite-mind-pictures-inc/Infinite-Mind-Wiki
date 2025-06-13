@@ -1,6 +1,6 @@
 ---
 title: "4 - Create a Task Board"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Create a Task Board
 

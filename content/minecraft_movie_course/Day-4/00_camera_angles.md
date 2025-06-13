@@ -1,6 +1,6 @@
 ---
 title: "3 - Camera Angles"
-tags: [minecraft, arts, film, tutorial]
+tags: ["programming", "contents"]
 ---
 # Camera Angles
 

@@ -1,6 +1,6 @@
 ---
 title: "Earthquake Prep"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Prepare for Earthquakes
 

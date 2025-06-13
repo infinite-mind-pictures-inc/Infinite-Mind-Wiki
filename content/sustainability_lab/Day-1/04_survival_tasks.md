@@ -1,6 +1,6 @@
 ---
 title: "5 - Survival Tasks"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Survival Tasks
 

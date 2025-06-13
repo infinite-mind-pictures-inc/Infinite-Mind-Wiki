@@ -1,6 +1,6 @@
 ---
 title: "Tidal Power"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 
 # Tidal Power 🐋

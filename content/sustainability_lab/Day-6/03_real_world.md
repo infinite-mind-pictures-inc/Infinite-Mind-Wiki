@@ -1,6 +1,6 @@
 ---
 title: "4 - Real-World Inspiration"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Real-World Inspiration
 

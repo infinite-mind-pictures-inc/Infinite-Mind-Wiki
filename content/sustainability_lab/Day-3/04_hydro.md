@@ -1,6 +1,6 @@
 ---
 title: "Hydropower"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 
 # Hydropower 🌊

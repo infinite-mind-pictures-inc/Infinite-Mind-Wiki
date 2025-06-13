@@ -1,7 +1,8 @@
 ---
 title: "Day 5 – Highlight"
 
-tags: [minecraft, sustainability, contents]---
+tags: ["programming", "contents"]
+---
 
 ## "H" is for Highlight!
 

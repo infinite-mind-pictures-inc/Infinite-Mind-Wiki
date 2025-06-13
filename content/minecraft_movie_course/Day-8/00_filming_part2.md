@@ -1,6 +1,6 @@
 ---
 title: "7 - Filming (PART 2)"
-tags: [minecraft, arts, film, tutorial]
+tags: ["programming", "contents"]
 ---
 # Filming (PART 2)
 

@@ -1,6 +1,6 @@
 ---
 title: "2 - Conditions"
-tags: ["robocode", "beginner", "java"]
+tags: [robocode, programming, beginner]
 ---
 # Using Conditions
 

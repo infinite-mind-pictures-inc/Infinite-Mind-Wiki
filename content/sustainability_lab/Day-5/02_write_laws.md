@@ -1,6 +1,6 @@
 ---
 title: "3 - Write the Laws"
-tags: ["minecraft", "sustainability", "day5"]
+tags: [minecraft, sustainability]
 ---
 # Write the Laws
 

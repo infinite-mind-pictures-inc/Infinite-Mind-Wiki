@@ -1,6 +1,6 @@
 ---
 title: "2 - Voting Mini-Game"
-tags: ["minecraft", "sustainability", "day5"]
+tags: [minecraft, sustainability]
 ---
 # Voting Mini-Game
 

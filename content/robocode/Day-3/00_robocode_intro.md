@@ -1,6 +1,6 @@
 ---
 title: "1 - Outline"
-tags: ["robocode", "beginner", "java", "intro"]
+tags: [robocode, programming, beginner, intro]
 ---
 
 # Robocode Lab: Day 3 – Introduction

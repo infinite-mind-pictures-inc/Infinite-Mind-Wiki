@@ -34,7 +34,9 @@ Use this table to standardize tags across your Quartz-based lab content. You can
 |                      | `story`       | Table of contents or structured index for a section            |
 |                      | `tutorial`       | Step-by-step instructional content                          |
 | Category             | `sustainability` | Focus on sustainable energy                                 |
-|                      | `programming   ` | Focus on learning programming                               |
+|                      | `programming` | Focus on learning programming                               |
+|                      | `arts`           | Focus on creative arts projects |
+|                      | `film`           | Involves filmmaking or video production |
 
 You can mix and match tags as needed for clarity and filtering. For example:
 

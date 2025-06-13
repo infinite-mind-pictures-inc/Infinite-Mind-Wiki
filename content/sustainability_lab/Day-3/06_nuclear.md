@@ -1,8 +1,9 @@
 ---
 
 title: "Nuclear Fusion"
-tags: ["minecraft", "sustainability", "day3", "energy"]
---------------------------------------------------------
+tags: [minecraft, sustainability]
+---
+-----------------------------------------------------
 
 # Nuclear Fusion ⚛️
 

@@ -1,6 +1,6 @@
 ---
 title: "1 - Market Day"
-tags: ["minecraft", "sustainability", "day4"]
+tags: [minecraft, sustainability, intro]
 ---
 # Build a Market
 

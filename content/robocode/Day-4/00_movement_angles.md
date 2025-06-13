@@ -1,6 +1,6 @@
 ---
 title: "1 - Movement and Angles"
-tags: ["robocode", "beginner", "java", "movement"]
+tags: [robocode, programming, beginner]
 ---
 # Robocode Lab: Day 4 – Movement and Angles
 

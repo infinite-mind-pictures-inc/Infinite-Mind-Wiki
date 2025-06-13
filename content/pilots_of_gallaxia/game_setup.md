@@ -1,6 +1,6 @@
 ---
 title: "Game Setup"
-tags: ["unplugged", "gallaxia"]
+tags: [unplugged, tutorial]
 showToc: true
 ---
 

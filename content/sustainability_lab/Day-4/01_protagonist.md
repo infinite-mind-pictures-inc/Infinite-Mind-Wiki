@@ -1,6 +1,6 @@
 ---
 title: "2 - The Protagonist"
-tags: ["minecraft", "sustainability", "day4"]
+tags: [minecraft, sustainability]
 ---
 # Develop a Protagonist
 

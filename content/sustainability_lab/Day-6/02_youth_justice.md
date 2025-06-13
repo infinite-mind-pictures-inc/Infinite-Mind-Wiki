@@ -1,6 +1,6 @@
 ---
 title: "3 - Youth Justice"
-tags: ["minecraft", "sustainability", "day6"]
+tags: [minecraft, sustainability]
 ---
 # Youth Justice
 

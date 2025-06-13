@@ -1,6 +1,6 @@
 ---
 title: "1 - Getting Started"
-tags: ["minecraft", "sustainability", "day1"]
+tags: [minecraft, sustainability, intro]
 ---
 # Sustainability Lab: Day 1 – Getting Started
 

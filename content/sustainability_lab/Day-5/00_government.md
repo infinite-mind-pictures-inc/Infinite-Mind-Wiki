@@ -1,6 +1,6 @@
 ---
 title: "1 - Community Government"
-tags: ["minecraft", "sustainability", "day5"]
+tags: [minecraft, sustainability, intro]
 ---
 # Plan a Government
 

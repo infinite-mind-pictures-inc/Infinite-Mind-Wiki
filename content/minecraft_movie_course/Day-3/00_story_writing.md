@@ -1,6 +1,6 @@
 ---
 title: "2 - Story Writing"
-tags: ["minecraft", "movie", "day3"]
+tags: [minecraft, arts, film, tutorial]
 ---
 # Story Writing
 

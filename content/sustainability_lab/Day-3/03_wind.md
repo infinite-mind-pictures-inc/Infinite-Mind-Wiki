@@ -1,6 +1,6 @@
 ---
 title: "Wind Power"
-tags: ["minecraft", "sustainability", "day3", "energy"]
+tags: [minecraft, sustainability]
 ---
 
 # Wind Power 🌬️

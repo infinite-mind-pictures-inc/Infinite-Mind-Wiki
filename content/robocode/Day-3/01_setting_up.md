@@ -1,6 +1,6 @@
 ---
 title: "2 - Setting Up"
-tags: ["robocode", "beginner", "java"]
+tags: [robocode, programming, beginner]
 ---
 
 # Robocode Lab: Day 3 – Setting Up

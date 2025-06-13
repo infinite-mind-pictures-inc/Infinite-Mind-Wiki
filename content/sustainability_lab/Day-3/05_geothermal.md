@@ -1,6 +1,6 @@
 ---
 title: "Geothermal"
-tags: ["minecraft", "sustainability", "day3", "energy"]
+tags: [minecraft, sustainability]
 ---
 
 # Geothermal 🌋

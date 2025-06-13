@@ -1,6 +1,6 @@
 ---
 title: "5 - Costume Design"
-tags: ["minecraft", "movie", "day6"]
+tags: [minecraft, arts, film, tutorial]
 ---
 # Costume Design
 

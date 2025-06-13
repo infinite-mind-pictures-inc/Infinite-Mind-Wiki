@@ -1,8 +1,9 @@
 ---
 
 title: "3 - Choose a Disaster"
-tags: ["minecraft", "sustainability", "day1"]
-----------------------------------------------
+tags: [minecraft, sustainability]
+---
+-------------------------------------------
 
 # Choose a Natural Disaster
 

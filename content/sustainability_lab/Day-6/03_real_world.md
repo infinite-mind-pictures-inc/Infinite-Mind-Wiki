@@ -1,6 +1,6 @@
 ---
 title: "4 - Real-World Inspiration"
-tags: ["minecraft", "sustainability", "day6"]
+tags: [minecraft, sustainability]
 ---
 # Real-World Inspiration
 

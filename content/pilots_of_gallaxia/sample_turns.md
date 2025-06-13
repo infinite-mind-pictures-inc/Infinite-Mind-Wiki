@@ -1,6 +1,6 @@
 ---
 title: "Sample Turns"
-tags: ["unplugged", "gallaxia"]
+tags: [unplugged, tutorial]
 ---
 
 ### Sample Turn A

@@ -1,6 +1,6 @@
 ---
 title: "Flood Prep"
-tags: ["minecraft", "sustainability", "day2"]
+tags: [minecraft, sustainability]
 ---
 # Prepare for Floods
 

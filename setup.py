@@ -1,4 +1,4 @@
-from setuptools import setup, py_modules
+from setuptools import setup
 
 setup(
     name='img-compress',

@@ -4,12 +4,6 @@ Use this table to standardize tags across your Quartz-based lab content. You can
 
 | **Category**         | **Tag**          | **Purpose / Meaning**                                       |
 | -------------------- | ---------------- | ----------------------------------------------------------- |
-| Programming Language | `java`           | Uses Java code                                              |
-|                      | `csharp`         | Uses C# code                                                |
-|                      | `python`         | Uses Python code                                            |
-|                      | `javascript`     | Uses JavaScript                                             |
-|                      | `typescript`     | Uses TypeScript                                             |
-|                      | `cpp`            | Uses C++                                                    |
 | Game / Platform      | `robocode`       | Involves Robocode                                           |
 |                      | `minecraft`      | Based in Minecraft (e.g. with redstone or mods)             |
 |                      | `scratch`        | Based on Scratch                                            |

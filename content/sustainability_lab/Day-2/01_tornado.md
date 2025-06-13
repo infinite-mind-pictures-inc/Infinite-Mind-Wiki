@@ -1,6 +1,6 @@
 ---
 title: "Tornado Prep"
-tags: ["minecraft", "sustainability", "day2"]
+tags: [minecraft, sustainability]
 ---
 # Prepare for Tornadoes
 

@@ -1,6 +1,6 @@
 ---
 title: "1 - Ongoing Challenges"
-tags: ["minecraft", "sustainability", "day6"]
+tags: [minecraft, sustainability, intro]
 ---
 # Day 6+ – Ongoing Challenges
 

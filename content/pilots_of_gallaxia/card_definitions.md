@@ -1,6 +1,6 @@
 ---
 title: "Card Definitions"
-tags: ["unplugged", "gallaxia"]
+tags: [unplugged, tutorial]
 enableToc: true
 ---
 

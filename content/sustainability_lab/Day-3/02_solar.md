@@ -1,6 +1,6 @@
 ---
 title: "Solar Power"
-tags: ["minecraft", "sustainability", "day3", "energy"]
+tags: [minecraft, sustainability]
 ---
 
 # Solar Power ☀️

@@ -1,6 +1,6 @@
 ---
 title: "Tournament Format"
-tags: ["robocode", "tournament"]
+tags: [robocode, programming, tutorial]
 ---
 # Robocode 1 vs 1 Tournament
 

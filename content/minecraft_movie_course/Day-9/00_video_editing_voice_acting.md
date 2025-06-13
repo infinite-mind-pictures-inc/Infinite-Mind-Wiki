@@ -1,6 +1,6 @@
 ---
 title: "8 - Video Editing / Voice Acting"
-tags: ["minecraft", "movie", "day9"]
+tags: [minecraft, arts, film, tutorial]
 ---
 # Video Editing / Voice Acting
 

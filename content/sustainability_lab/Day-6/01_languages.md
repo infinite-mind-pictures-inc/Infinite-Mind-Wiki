@@ -1,8 +1,9 @@
 ---
 
 title: "2 - Invent Languages"
-tags: ["minecraft", "sustainability", "day6"]
-----------------------------------------------
+tags: [minecraft, sustainability]
+---
+-------------------------------------------
 
 # Invent Languages
 

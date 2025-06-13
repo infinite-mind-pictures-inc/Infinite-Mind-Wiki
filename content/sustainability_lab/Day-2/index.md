@@ -1,4 +1,4 @@
 ---
 title: Day 2
-tags: ["minecraft", "sustainability"]
+tags: [minecraft, sustainability, contents]
 ---

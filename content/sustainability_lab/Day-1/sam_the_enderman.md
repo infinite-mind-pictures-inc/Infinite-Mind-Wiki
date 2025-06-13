@@ -1,6 +1,6 @@
 ---
 title: "Sam the enderman"
-tags: ["minecraft", "sustainability", "day1", "story"]
+tags: [minecraft, sustainability]
 ---
 **The Story of Sam the Enderman**
 

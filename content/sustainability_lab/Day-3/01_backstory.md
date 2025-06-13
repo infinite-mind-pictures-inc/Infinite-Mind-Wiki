@@ -1,6 +1,6 @@
 ---
 title: "2 - Village Backstory"
-tags: ["minecraft", "sustainability", "day3"]
+tags: [minecraft, sustainability]
 ---
 # Write Your Village Backstory
 

@@ -47,11 +47,21 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
 
-      - name: Install dependencies
+      - name: Install Node dependencies
         run: npm ci
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install .
 
       - name: Build Quartz
         run: npx quartz build
+
+      - name: Compress images
+        run: python build.py
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
@@ -66,7 +76,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}  # supported by the action :contentReference[oaicite:1]{index=1}
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

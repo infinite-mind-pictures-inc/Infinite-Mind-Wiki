@@ -1,6 +1,6 @@
 ---
 title: "2 - Alarm Systems"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Build an Alarm System
 

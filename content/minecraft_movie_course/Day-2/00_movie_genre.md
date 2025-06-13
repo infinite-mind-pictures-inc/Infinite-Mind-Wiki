@@ -1,6 +1,6 @@
 ---
 title: "1 - Genres"
-tags: [minecraft, arts, film, tutorial]
+tags: ["programming", "contents"]
 ---
 # Genres
 

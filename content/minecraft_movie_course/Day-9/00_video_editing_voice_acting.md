@@ -1,6 +1,6 @@
 ---
 title: "8 - Video Editing / Voice Acting"
-tags: [minecraft, arts, film, tutorial]
+tags: ["programming", "contents"]
 ---
 # Video Editing / Voice Acting
 

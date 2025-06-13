@@ -1,4 +1,5 @@
 ---
 title: Day 1
 
-tags: [robocode, programming, contents]---
+tags: ["programming", "contents"]
+---

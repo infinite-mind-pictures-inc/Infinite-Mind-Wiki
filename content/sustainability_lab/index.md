@@ -1,6 +1,6 @@
 ---
 title: "Sustainability Lab"
-tags: [minecraft, sustainability, contents]
+tags: ["programming", "contents"]
 ---
 
 Welcome to the **Sustainability Lab**, a hands-on series of Minecraft challenges focused on sustainable energy and collaborative play. The course begins with an orientation tour of an existing sustainable village. You'll pick a sustainable energy source, teleport to a biome, and choose a special animal to join your adventure.

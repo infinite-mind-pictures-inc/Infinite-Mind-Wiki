@@ -1,6 +1,6 @@
 ---
 title: "Tsunami Prep"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 # Prepare for Tsunamis
 

@@ -1,7 +1,7 @@
 ---
 
 title: "2 - Choose Your Animal"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 -----------------------------------
 

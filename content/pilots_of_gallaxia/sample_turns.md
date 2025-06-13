@@ -1,6 +1,6 @@
 ---
 title: "Sample Turns"
-tags: [unplugged, tutorial]
+tags: ["programming", "contents"]
 ---
 
 ### Sample Turn A

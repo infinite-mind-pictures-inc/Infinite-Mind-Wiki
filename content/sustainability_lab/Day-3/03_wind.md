@@ -1,6 +1,6 @@
 ---
 title: "Wind Power"
-tags: [minecraft, sustainability]
+tags: ["programming", "contents"]
 ---
 
 # Wind Power 🌬️

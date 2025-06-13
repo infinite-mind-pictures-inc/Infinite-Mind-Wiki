@@ -1,6 +1,6 @@
 ---
 title: "2 - Setup with VS Code"
-tags: [robocode, programming, beginner]
+tags: ["programming", "contents"]
 ---
 # Set Up Java with Visual Studio Code
 

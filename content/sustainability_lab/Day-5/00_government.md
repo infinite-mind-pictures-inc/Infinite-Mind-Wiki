@@ -1,6 +1,6 @@
 ---
 title: "1 - Community Government"
-tags: [minecraft, sustainability, intro]
+tags: ["programming", "contents"]
 ---
 # Plan a Government
 

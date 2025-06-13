@@ -83,7 +83,9 @@ This repo uses **GitHub Actions** to auto-deploy Quartz to GitHub Pages whenever
 Found in `.github/workflows/jekyll-gh-pages.yml`:
 
 * Installs Node
+* Installs Python and Pillow
 * Builds Quartz
+* Compresses images via `build.py`
 * Uploads `public/` as a GitHub Pages artifact
 * Deploys with `actions/deploy-pages@v4`
 

@@ -21,3 +21,7 @@ Learn the basics of filmmaking by creating your own Minecraft movie from script 
 ### 🚀 [RoboCode Lab](./robocode/)
 
 Explore the fundamentals of programming and combat AI using Robocode.
+
+### 🏅 [EarthCraft Olympiad](./earthcraft_olympiad/)
+
+A five-day camp of collaborative Minecraft competitions focused on ecology, energy, and economy.

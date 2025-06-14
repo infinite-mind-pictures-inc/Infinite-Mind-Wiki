@@ -1,6 +1,6 @@
 ---
 title: "2 - Village Backstory"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 # Write Your Village Backstory
 

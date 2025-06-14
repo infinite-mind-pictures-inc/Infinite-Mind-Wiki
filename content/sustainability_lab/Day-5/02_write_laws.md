@@ -1,6 +1,6 @@
 ---
 title: "3 - Write the Laws"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 # Write the Laws
 

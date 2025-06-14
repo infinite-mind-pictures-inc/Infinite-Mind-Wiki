@@ -1,5 +1,5 @@
 ---
 title: Day 8
 
-tags: ["programming", "contents"]
+tags: ["minecraft", "film", "contents"]
 ---

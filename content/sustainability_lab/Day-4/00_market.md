@@ -1,6 +1,6 @@
 ---
 title: "1 - Market Day"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 # Build a Market
 

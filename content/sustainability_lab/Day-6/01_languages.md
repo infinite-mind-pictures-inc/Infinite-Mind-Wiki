@@ -1,7 +1,7 @@
 ---
 
 title: "2 - Invent Languages"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 -------------------------------------------
 

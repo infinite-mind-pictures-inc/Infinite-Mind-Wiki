@@ -1,6 +1,6 @@
 ---
 title: "Solar Power"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
 # Solar Power ☀️

@@ -1,5 +1,5 @@
 ---
 title: Day 1
 
-tags: ["programming", "contents"]
+tags: ["robocode", "contents", "cs", "beginner"]
 ---

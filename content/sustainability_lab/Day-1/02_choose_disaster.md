@@ -1,7 +1,7 @@
 ---
 
 title: "3 - Choose a Disaster"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 -------------------------------------------
 

@@ -1,6 +1,6 @@
 ---
 title: "1 - Outline"
-tags: ["programming", "contents"]
+tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
 # Robocode Lab: Day 3 – Introduction

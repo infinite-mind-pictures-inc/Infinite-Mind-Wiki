@@ -1,6 +1,6 @@
 ---
 title: "1 - Sustainable Energy"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
 # Sustainability Lab: Day 3 – Sustainable Energy

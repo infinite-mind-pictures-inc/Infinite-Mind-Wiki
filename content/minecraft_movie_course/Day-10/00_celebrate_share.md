@@ -1,6 +1,6 @@
 ---
 title: "1 - Celebrate and Share"
-tags: ["programming", "contents"]
+tags: ["minecraft", "film", "tutorial", "hands-on", "arts"]
 ---
 # Celebrate and Share!
 

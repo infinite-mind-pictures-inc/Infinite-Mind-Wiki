@@ -1,4 +1,4 @@
 ---
 title: Day 3
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "contents", "hands-on"]
 ---

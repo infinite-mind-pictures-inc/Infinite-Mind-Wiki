@@ -1,6 +1,6 @@
 ---
 title: "2 - Setting Up"
-tags: ["programming", "contents"]
+tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
 # Robocode Lab: Day 3 – Setting Up

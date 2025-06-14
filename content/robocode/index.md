@@ -1,6 +1,6 @@
 ---
 title: "Robocode Lab"
-tags: ["programming", "contents"]
+tags: ["robocode", "contents", "cs"]
 ---
 
 Welcome to the **RoboCode Lab** — a progressive series of programming challenges using Robocode.

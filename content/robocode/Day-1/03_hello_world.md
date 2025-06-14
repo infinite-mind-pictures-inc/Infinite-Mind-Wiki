@@ -1,6 +1,6 @@
 ---
 title: "4 - Hello World"
-tags: ["programming", "contents"]
+tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 # Your First Java Program
 

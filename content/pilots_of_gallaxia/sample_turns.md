@@ -24,4 +24,4 @@ tags: ["unplugged", "tutorial", "all-ages"]
 
 ## Navigation
 
-⬅️ [Back: Card Definitions](./card_definitions)
+⬅️ [Back: Card Definitions](/pilots_of_gallaxia/card_definitions)

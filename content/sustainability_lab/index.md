@@ -11,22 +11,22 @@ The **Sustainability Summer Camp** is a five‑day journey where each day highli
 
 Step into the role of an **E.A.R.T.H. Knight** and explore a Minecraft world shaped by story, sustainability, and collective action. Each day blends storytelling, survival, creativity, and celebration. Click below to jump into each immersive experience:
 
-* [**Day 1 – E is for Empathize: Getting Started**](./sustainability_lab/Day-1/00_getting_started)
+* [**Day 1 – E is for Empathize: Getting Started**](/sustainability_lab/Day-1/00_getting_started)
   Meet *Sam the Enderman* in a climate cautionary tale. Then, in Creative Mode, build a shelter for your Knight and animal companion — both fleeing a disaster. Begin your quest by practicing empathy through story.
 
-* [**Day 2 – A is for Adventure: Disaster Prep**](./sustainability_lab/Day-2/00_intro)
+* [**Day 2 – A is for Adventure: Disaster Prep**](/sustainability_lab/Day-2/00_intro)
   Enter Adventure Mode and prepare for survival! Construct a bunker focused on hydration, nutrition, and protection. Navigate a new challenge and test your real-life skills in a Minecraft emergency.
 
-* [**Day 3 – R is for Renewables: Sustainable Energy**](./sustainability_lab/Day-3/00_intro)
+* [**Day 3 – R is for Renewables: Sustainable Energy**](/sustainability_lab/Day-3/00_intro)
   Use Creative Mode to build clean energy systems with Redstone or decorative elements. Design with purpose as you explore the logic and justice behind renewable power.
 
-* [**Day 4 – T is for Trade Fair: Market Day**](./sustainability_lab/Day-4/00_market)
+* [**Day 4 – T is for Trade Fair: Market Day**](/sustainability_lab/Day-4/00_market)
   Join a village marketplace where trading, banners, and fair exchanges take center stage. Discover how Doughnut Economics helps balance social equity and ecological limits.
 
-* [**Day 5 – H is for Highlight: Community Government**](./sustainability_lab/Day-5/00_government)
+* [**Day 5 – H is for Highlight: Community Government**](/sustainability_lab/Day-5/00_government)
   Celebrate your week of learning! Create a storyboard of your adventure and earn a personal certificate. Reflect, dance, and share in the joy of community-led sustainability.
 
-* [**Day 6+ – Ongoing Challenges**](./sustainability_lab/Day-6/00_ongoing_challenges)
+* [**Day 6+ – Ongoing Challenges**](/sustainability_lab/Day-6/00_ongoing_challenges)
   Ready for more? Take on bonus missions in storytelling, youth justice, language, and Indigenous knowledge. Keep your world growing and become a mentor for future EARTH Knights.
 
 

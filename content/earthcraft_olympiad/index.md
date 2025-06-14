@@ -7,8 +7,8 @@ tags: ["minecraft", "sustainability", "synchronous", "contents"]
 
 ## Camp Schedule
 
-- [Day 1 – Orientation & Teams](./Day-1/)
-- [Day 2 – Natural Anthems](./Day-2/)
-- [Day 3 – Challenges & Bosses](./Day-3/)
-- [Day 4 – Speak Friend & Enter](./Day-4/)
-- [Day 5 – Finale & Tools](./Day-5/)
+- [Day 1 – Orientation & Teams](/earthcraft_olympiad/Day-1/)
+- [Day 2 – Natural Anthems](/earthcraft_olympiad/Day-2/)
+- [Day 3 – Challenges & Bosses](/earthcraft_olympiad/Day-3/)
+- [Day 4 – Speak Friend & Enter](/earthcraft_olympiad/Day-4/)
+- [Day 5 – Finale & Tools](/earthcraft_olympiad/Day-5/)

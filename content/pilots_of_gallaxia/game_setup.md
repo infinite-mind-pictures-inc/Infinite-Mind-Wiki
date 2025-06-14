@@ -30,4 +30,4 @@ Roll a die. The highest roller begins, then play moves clockwise. The first play
 
 ## Navigation
 
-⬅️ [Back: Backstory](./backstory) | ➡️ [Next: Card Definitions](./card_definitions)
+⬅️ [Back: Backstory](/pilots_of_gallaxia/backstory) | ➡️ [Next: Card Definitions](/pilots_of_gallaxia/card_definitions)

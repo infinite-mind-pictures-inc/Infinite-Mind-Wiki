@@ -59,4 +59,4 @@ Any time you land on or cross a coloured triangle in the centre of the board, ro
 
 ## Navigation
 
-⬅️ [Back: Game Setup](./game_setup) | ➡️ [Next: Sample Turns](./sample_turns)
+⬅️ [Back: Game Setup](/pilots_of_gallaxia/game_setup) | ➡️ [Next: Sample Turns](/pilots_of_gallaxia/sample_turns)

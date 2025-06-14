@@ -11,4 +11,4 @@ On the battle-hardened outer planets, mercenary Durriken are hired to sabotage r
 
 ## Navigation
 
-➡️ [Next: Game Setup](./game_setup)
+➡️ [Next: Game Setup](/pilots_of_gallaxia/game_setup)

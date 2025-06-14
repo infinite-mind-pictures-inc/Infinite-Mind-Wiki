@@ -8,9 +8,9 @@ tags: ["unplugged", "contents", "all-ages"]
 
 ## Sections
 
-- [Backstory](./backstory)
-- [Game Setup](./game_setup)
-- [Card Definitions](./card_definitions)
-- [Sample Turns](./sample_turns)
+- [Backstory](/pilots_of_gallaxia/backstory)
+- [Game Setup](/pilots_of_gallaxia/game_setup)
+- [Card Definitions](/pilots_of_gallaxia/card_definitions)
+- [Sample Turns](/pilots_of_gallaxia/sample_turns)
 
 Each page explains a part of the rules so you can quickly learn how to play.

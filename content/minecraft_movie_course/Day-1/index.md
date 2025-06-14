@@ -1,5 +1,5 @@
 ---
 title: Day 1
 
-tags: ["programming", "contents"]
+tags: ["minecraft", "film", "contents"]
 ---

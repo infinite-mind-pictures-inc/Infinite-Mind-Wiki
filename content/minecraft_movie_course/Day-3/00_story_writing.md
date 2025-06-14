@@ -1,6 +1,6 @@
 ---
 title: "2 - Story Writing"
-tags: ["programming", "contents"]
+tags: ["minecraft", "film", "tutorial", "hands-on", "arts"]
 ---
 # Story Writing
 

@@ -1,6 +1,6 @@
 ---
 title: "2 - The Protagonist"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 # Develop a Protagonist
 

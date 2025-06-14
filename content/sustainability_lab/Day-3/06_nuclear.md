@@ -1,7 +1,7 @@
 ---
 
 title: "Nuclear Fusion"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 -----------------------------------------------------
 

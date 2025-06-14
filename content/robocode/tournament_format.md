@@ -1,6 +1,6 @@
 ---
 title: "Tournament Format"
-tags: ["programming", "contents"]
+tags: ["robocode", "tutorial", "cs", "group-activity"]
 ---
 # Robocode 1 vs 1 Tournament
 

@@ -1,6 +1,6 @@
 ---
 title: "Sam the enderman"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 **The Story of Sam the Enderman**
 

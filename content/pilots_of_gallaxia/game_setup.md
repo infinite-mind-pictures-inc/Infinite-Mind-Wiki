@@ -1,6 +1,6 @@
 ---
 title: "Game Setup"
-tags: ["programming", "contents"]
+tags: ["unplugged", "tutorial", "hands-on", "all-ages"]
 showToc: true
 ---
 

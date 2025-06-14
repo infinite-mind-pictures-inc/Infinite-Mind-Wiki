@@ -1,7 +1,7 @@
 ---
 
 title: "2 - Choose Your Animal"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 -----------------------------------
 

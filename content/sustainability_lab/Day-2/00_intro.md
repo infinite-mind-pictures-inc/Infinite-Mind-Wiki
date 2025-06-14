@@ -1,6 +1,6 @@
 ---
 title: "1 - Day 2 Overview"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
 # Sustainability Lab: Day 2 – Disaster Preparation

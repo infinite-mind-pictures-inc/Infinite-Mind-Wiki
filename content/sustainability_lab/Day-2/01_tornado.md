@@ -1,6 +1,6 @@
 ---
 title: "Tornado Prep"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 # Prepare for Tornadoes
 

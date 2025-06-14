@@ -1,6 +1,6 @@
 ---
 title: "1 - Ongoing Challenges"
-tags: ["programming", "contents"]
+tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 # Day 6+ – Ongoing Challenges
 

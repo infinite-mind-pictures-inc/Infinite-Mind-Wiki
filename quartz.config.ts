@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Infinite Mind Wiki",
+    pageTitle: "infinite mind pictures",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

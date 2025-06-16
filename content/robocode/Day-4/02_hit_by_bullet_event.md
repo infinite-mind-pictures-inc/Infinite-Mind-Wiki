@@ -21,4 +21,4 @@ Debug prints make it clear how often you are hit and from which direction, helpi
 ## Navigation
 
 ⬅️ [Back: ScannedRobotEvent](/robocode/Day-4/01_scanned_robot_event)
-➡️ [Next: Day 5](/robocode/Day-5/index)
+➡️ [Next: Boolean Basics](/robocode/Day-5/00_boolean_basics)

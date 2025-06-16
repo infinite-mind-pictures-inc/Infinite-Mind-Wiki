@@ -33,4 +33,4 @@ If you see the message `Hello, world!`, everything is set up correctly.
 ## Navigation
 
 ⬅️ [Back: Introduction](/robocode/Day-1/00_java_intro)
-➡️ [Next: Hello World program](/robocode/Day-1/03_hello_world)
+➡️ [Next: Hello World program](/robocode/Day-1/02_hello_world)

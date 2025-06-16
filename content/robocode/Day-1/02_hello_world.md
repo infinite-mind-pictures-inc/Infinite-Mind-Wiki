@@ -1,5 +1,5 @@
 ---
-title: "4 - Hello World"
+title: "3 - Hello World"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 # Your First Java Program
@@ -29,5 +29,5 @@ You should see the text `Hello, world!` printed in the terminal. Once this works
 
 ## Navigation
 
-⬅️ [Back: Setup with VSCode](/robocode/Day-1/02_setup_vscode)
+⬅️ [Back: Setup with VSCode](/robocode/Day-1/01_setup_vscode)
 ➡️ [Next: Day 2](/robocode/Day-2/00_robocode_intro)

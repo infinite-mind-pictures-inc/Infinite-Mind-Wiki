@@ -2,7 +2,7 @@
 
 title: "2 - ScannedRobotEvent"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
------------------------------------------------------------------
+---
 
 # Working with ScannedRobotEvent
 

@@ -5,7 +5,31 @@ tags: ["robocode", "contents", "cs"]
 
 # Java Robocode Course Outline
 
-Welcome to the Java **Robocode** course! This ten-day camp teaches core programming concepts through the fun and engaging platform of Robocode. Each of the first eight days focuses on a specific Java concept applied through robot design and battle mechanics. The final two days are dedicated to a capstone project and tournament.
+Welcome to the Java **Robocode** course! This ten-day camp teaches core programming concepts through the fun and engaging platform of Robocode. Each day combines theory and hands-on coding experience, letting students design, build, and battle their own virtual robots. Students who have taken an introductory programming course in a similar, object-oriented language such as Python, C++, or JavaScript may also choose to start directly with Week 2.
+
+### Week 1 (Days 1–5): Java Fundamentals & Robocode Basics
+
+The first week focuses on foundational Java programming and getting comfortable with Robocode. Each day introduces a core Java topic and immediately applies it in the context of robot programming. By the end of the week, students will understand how to:
+
+* Set up a Java environment and the Robocode platform
+* Write basic Java programs with variables, conditions, and loops
+* Create their first robot, explore robot events, and control movement and firing
+* Use output and debugging tools like `System.out.println`
+
+This week builds essential skills that will serve as the backbone for more advanced robot behavior. It is ideal for students with little to no programming background. However, students who already have experience with Java or another programming language can skip ahead to Week 2.
+
+### Week 2 (Days 6–10): AI Strategies & Robocode Implementation
+
+The second week dives deeper into Robocode and artificial intelligence concepts. Students will learn to make their robots smarter, more reactive, and more strategic by using Java constructs and Robocode's event-driven model. Key topics include:
+
+* Writing custom algorithms for opponent detection, dodging, and targeting
+* Managing robot state and optimizing energy usage
+* Implementing simple forms of machine logic and predictive movement
+* Using UML diagrams to plan robot behavior and structure
+
+By the end of the course, students will complete a **capstone project**: designing an advanced robot to compete in a final-day **Robocode tournament**.
+
+This structure ensures students learn real-world programming while having fun and developing problem-solving and strategic thinking skills.
 
 ---
 

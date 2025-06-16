@@ -64,5 +64,4 @@ This program moves the tank forward and then turns right. Understanding variable
 
 ## Navigation
 
-⬅️ [Back: Day 1](/robocode/Day-1/03_hello_world)
-➡️ [Next: Examples](/robocode/Day-2/)
+➡️ [Next: Examples](/robocode/Day-3/01_datatype_examples)

@@ -3,7 +3,7 @@ title: "1 - Outline"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
-# Robocode Lab: Day 3 – Introduction
+# Robocode Lab: Day 2 – Introduction
 
 Welcome to the **Robocode Lab**! In this module, you'll get a high-level overview of what you'll be doing across the coming days.
 
@@ -19,4 +19,4 @@ Welcome to the **Robocode Lab**! In this module, you'll get a high-level overvie
 
 ## Next Steps
 
-➡️ [Next: Setting Up](/robocode/Day-2/00_variables_and_datatypes)
+➡️ [Next: Setting Up](/robocode/Day-2/01_setting_up)

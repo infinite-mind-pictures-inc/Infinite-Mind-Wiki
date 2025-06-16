@@ -2,7 +2,7 @@
 
 title: "1 - System.out.println for Debugging"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
------------------------------------------------------------------
+---
 
 # Using System.out.println
 
@@ -96,5 +96,4 @@ Try adding `System.out.println` to other events like `onBulletHit`, `onBulletMis
 
 ## Navigation
 
-⬅️ [Back: Conditions](/robocode/Day-3/01_conditions)
 ➡️ [Next: ScannedRobotEvent](/robocode/Day-4/01_scanned_robot_event)

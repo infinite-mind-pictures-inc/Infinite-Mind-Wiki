@@ -1,5 +1,5 @@
 ---
-title: Day 3
+title: Day 2
 
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---

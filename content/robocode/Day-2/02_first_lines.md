@@ -60,5 +60,5 @@ Watch your robot in action as it follows your logic and fires energy beams at op
 
 ## Navigation
 
-⬅️ [Back: Setting Up](/robocode/Day-3/01_setting_up)
-➡️ [Next: Movement and Angles](/robocode/Day-4/00_movement_angles)
+⬅️ [Back: Setting Up](/robocode/Day-2/01_setting_up)
+➡️ [Next: Movement and Angles](/robocode/Day-3/00_variables_and_datatypes)

@@ -29,5 +29,5 @@ You should see the text `Hello, world!` printed in the terminal. Once this works
 
 ## Navigation
 
-⬅️ [Back: Setup with Eclipse](/robocode/Day-1/02_setup_eclipse)
-➡️ [Next: Day 2](/robocode/Day-2/00_variables_and_datatypes)
+⬅️ [Back: Setup with VSCode](/robocode/Day-1/02_setup_vscode)
+➡️ [Next: Day 2](/robocode/Day-2/00_robocode_intro)

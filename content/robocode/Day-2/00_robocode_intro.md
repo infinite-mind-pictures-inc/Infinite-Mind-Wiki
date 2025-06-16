@@ -19,4 +19,4 @@ Welcome to the **Robocode Lab**! In this module, you'll get a high-level overvie
 
 ## Next Steps
 
-➡️ [Next: Setting Up](/robocode/Day-3/01_setting_up)
+➡️ [Next: Setting Up](/robocode/Day-2/00_variables_and_datatypes)

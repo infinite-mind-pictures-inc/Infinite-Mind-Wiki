@@ -14,6 +14,7 @@ enableToc: true
 
 Welcome to TheRenewal! This guide walks you through how to connect from any system — whether you're on Java, Bedrock, or console.
 
+Note: a Minecraft Java edition account will always be required.
 ---
 
 ## 🖥️ PC (Java & Bedrock Editions)

@@ -114,9 +114,7 @@ Use the **DNS Method** with **BedrockConnect**:
 
 5. Return to the **Friends** tab.
 
-6. Look for **"Join to Open Server List"** or **BCMain** under **Online**.
-
-7. Join and enter from TheRenewal account.
+6. Join and enter from TheRenewal account.
 
 ---
 

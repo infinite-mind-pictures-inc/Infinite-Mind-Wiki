@@ -4,6 +4,8 @@ title: "1 - System.out.println for Debugging"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Let's jump into **1 - System.out.println for Debugging** 😎
+
 # Using System.out.println
 
 Robocode runs your robot inside a Java VM, so the standard way to print messages is with `System.out.println`. These messages show up in the Robocode console window while your robot is running. This is a very useful feature for debugging and understanding what your robot is doing at any moment.

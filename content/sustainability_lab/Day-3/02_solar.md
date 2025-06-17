@@ -3,6 +3,8 @@ title: "Solar Power"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> Let's tackle **Solar Power** 🎉
+
 # Solar Power ☀️
 
 Solar energy comes from the sun and can be turned into electricity using solar panels. In Minecraft, you can simulate solar power using daylight sensors, redstone lamps, and pistons or observers.

@@ -3,6 +3,8 @@ title: "2 - If Statements"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Curious about **2 - If Statements** 😎
+
 # Making Decisions with `if`
 
 Use `if`, `else if`, and `else` blocks to control actions. The robot can react differently based on battle data.

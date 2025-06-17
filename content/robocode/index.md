@@ -12,6 +12,8 @@ Students who have taken an introductory programming course in a similar, object-
 
 ---
 
+> Let's tackle **Robocode Lab** 🤖
+
 ## ✨ Week 1 (Days 1–5): Java Fundamentals & Robocode Basics
 
 The first week builds a strong foundation in Java programming while introducing Robocode step-by-step. Each day covers an essential concept that is immediately applied to robot design. By the end of the week, students will:

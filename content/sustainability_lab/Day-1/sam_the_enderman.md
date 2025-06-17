@@ -2,6 +2,8 @@
 title: "Sam the enderman"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Let's tackle **Sam the enderman** 🚀
 **The Story of Sam the Enderman**
 
 Long ago, before humanity ever carved steel into the sky, the planet Venus was ruled by ancient beings: the Endermen and their dragon overlords. Wrapped in toxic clouds and smothering heat, Venus was perfect—a sweltering greenhouse world that nourished their dark, otherworldly biology.

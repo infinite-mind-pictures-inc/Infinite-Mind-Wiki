@@ -2,6 +2,8 @@
 title: "1 - Variables and Datatypes"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
+
+> It's time for **1 - Variables and Datatypes** 😀
 # Java Basics
 
 Robocode robots are written in Java, so you need a grasp of basic syntax.

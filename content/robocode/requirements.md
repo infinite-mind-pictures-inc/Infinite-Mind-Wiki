@@ -1,5 +1,5 @@
 ---
-title: "Requirements / Recommendations"
+title: "Requirements"
 
 ---
 

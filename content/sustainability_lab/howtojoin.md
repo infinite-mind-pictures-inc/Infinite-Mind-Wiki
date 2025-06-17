@@ -3,6 +3,7 @@
 title: "Joining the Server"
 tags: ["minecraft", "sustainability"]
 enableToc: true
+
 ---
 
 # ✨ How to Join **TheRenewal.Earth** Minecraft Server
@@ -14,7 +15,8 @@ enableToc: true
 
 Welcome to TheRenewal! This guide walks you through how to connect from any system — whether you're on Java, Bedrock, or console.
 
-Note: a Minecraft Java edition account will always be required.
+> ℹ️ **Note:** While you can connect from Bedrock platforms, you'll still need a **Minecraft Java Edition account** to access the server.
+
 ---
 
 ## 🖥️ PC (Java & Bedrock Editions)
@@ -133,13 +135,23 @@ Use the **BedrockTogether** app (iOS & Android):
 6. Select the LAN game called **BedrockTogether**.
 7. You’ll be redirected to a server list. Select **TheRenewal** to connect.
 
-Note: Both **Minecraft** and **BedrockTogether** must be running on the same local network.
+> ⚠️ **Note:** Both **Minecraft** and **BedrockTogether** must be running on the same local network.
 
 ---
 
 ## 🚀 Just Visiting?
 
-You can view the map in real time and watch the world expand at **[TheRenewal Map](http://therenewal.earth:25109/)**
+You can view the map in real time and watch the world expand at
+**[TheRenewal Map](http://therenewal.earth:25109/)**
+
+---
+
+## ⚠️ Troubleshooting
+
+* Double-check the server address and port.
+* Ensure your firewall or parental controls aren’t blocking connections.
+* Restart Minecraft and your device.
+* Still stuck? Reach out to a staff member.
 
 ---
 

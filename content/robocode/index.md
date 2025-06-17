@@ -1,6 +1,6 @@
 ---
 
-title: "Robocode Lab (D20 Aligned)"
+title: "Robocode Lab"
 tags: ["robocode", "contents", "cs", "inclusive", "d20"]
 ---------------------------------------------------------
 

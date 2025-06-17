@@ -17,9 +17,9 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
+        <hr />
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          infinite mind pictures © {year}
+          <a href="https://www.infinitemind.games/">infinite mind pictures</a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
@@ -30,6 +30,10 @@ export default ((opts?: Options) => {
         </ul>
         <p style="font-size: 0.875rem; opacity: 0.7; margin-top: 1em;">
           This project is not affiliated with, endorsed by, or associated with Mojang or Microsoft.
+        </p>
+                <p>
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
       </footer>
     )

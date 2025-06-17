@@ -1,108 +1,112 @@
 ---
 
-title: "Robocode Lab"
-tags: ["robocode", "contents", "cs"]
--------------------------------------
+title: "Robocode Lab (D20 Aligned)"
+tags: \["robocode", "contents", "cs", "inclusive", "d20"]
+---------------------------------------------------------
 
-# 🤖 Java Robocode Course Outline
+# 🤖 Inclusive Java Robocode Course
 
-Welcome to the Java **Robocode** course! This ten-day coding camp teaches core programming concepts through the fun and fast-paced world of **robot battles** ⚔️. Each day combines theory with hands-on coding, letting students **design, build, and battle** their own virtual robots in Robocode!
+Welcome to the Java **Robocode** course! This ten-day creative coding journey blends hands-on learning, story-building, and game design as students **build, test, and battle** their own virtual robots. In this space, every learner’s story matters — we create community, celebrate curiosity, and embrace challenges together.
 
-Students who have taken an introductory programming course in a similar, object-oriented language (like Python, C++, or JavaScript) ✨ may choose to start directly with **Week 2**.
+> ✨ **Creative Mode from Day 1**
 
----
-
-> Let's tackle **Robocode Lab** 🤖
-
-## ✨ Week 1 (Days 1–5): Java Fundamentals & Robocode Basics
-
-The first week builds a strong foundation in Java programming while introducing Robocode step-by-step. Each day covers an essential concept that is immediately applied to robot design. By the end of the week, students will:
-
-* ⚙️ Set up Java and the Robocode platform
-* ✍️ Write Java code using variables, conditions, and loops
-* 🤖 Build their first robot and make it move and fire
-* 📃 Use output tools like `System.out.println` to debug
-
-Perfect for students with **little or no programming experience**, this week gets everyone battle-ready!
+Students with prior programming experience (in Python, C++, or JavaScript) may choose to begin directly with **Week 2** — respecting learner agency and offering **real choice**.
 
 ---
 
-## 🥷 Week 2 (Days 6–10): AI Strategies & Robocode Implementation
+## 🌱 Week 1 (Days 1–5): Foundations & First Robots
 
-The second week focuses on making robots **smarter, faster, and more strategic** 🧠. Students will level up their Java knowledge and apply **AI concepts** to Robocode's event system. Topics include:
+A gentle, supportive start for all learners. This week emphasizes **accessibility**, **debugging through discovery**, and **scaffolded growth**.
 
-* 🕵️‍♂️ Creating algorithms for scanning, dodging, and targeting
-* ⚡ Managing robot energy and state
-* 🧐 Predictive movement and reaction logic
-* 🖋️ Sketching UML diagrams for planning behavior
+Students will:
 
-Students finish with a **capstone project**: designing a battle-ready robot to enter in our **Robocode tournament** 🏆.
+* 💻 Set up Java and Robocode using multiple entry points 
+* ✍️ Write simple programs with variables, loops, and conditions
+* ⚙️ Build and move their first robot — safely and creatively
+* 📃 Practice `System.out.println` debugging as a reflection tool
+
+This week fosters **relationships**, **confidence**, and a sense of **belonging** through shared coding milestones.
 
 ---
 
-## 📅 Daily Breakdown
+## 🤝 Week 2 (Days 6–10): Smarter Bots, Stronger Voices
 
-### 🔢 Day 1 – Setting Up Java
+Students deepen their understanding of Java and design **AI-driven robot behavior**, applying **strategy, empathy, and planning**.
 
-* Install Java (JDK) and test with `HelloWorld`
-* Set up Robocode and explore the interface
-* See how Robocode and Java are connected
+They will:
 
-### 🤖 Day 2 – Introducing Robocode
+* 🎯 Create scanning and dodging logic
+* 🧠 Learn to manage robot energy/state — modeling resilience
+* ✏️ Sketch robot behavior using visual tools (UML, flowcharts)
+* 🌍 Explore diverse narratives and challenge dominant coding archetypes
 
-* Create and compile your first robot
-* Battle sample robots and learn the basics
-* Learn about methods like `run`, `ahead`, and `turnGunRight`
+Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback**, and **shared joy**.
 
-### 📊 Day 3 – Java Variables in a Robot
+---
 
-* Learn about `int`, `double`, and `String`
-* Track state like energy and direction
-* Use variables to improve robot decision-making
+## 📆 Day-by-Day Highlights
 
-### ✏️ Day 4 – Input, Output, and Events
+### 🧭 Day 1: Begin the Journey
 
-* Dive into events like `ScannedRobotEvent`, `HitByBulletEvent`
-* Use `System.out.println` for powerful debugging
-* Make your robot react to the environment
+* Install Java & Robocode
+* Run a "Hello World" test
+* Explore the Robocode arena (offline & online options)
 
-### 🌐 Day 5 – Conditionals and Loops
+### 🤖 Day 2: First Robot
 
-* Use `if`, `else`, `while`, and `for` loops
-* Code flexible robot strategies and behaviors
-* Program reactionary responses to battle input
+* Code and compile a robot
+* Meet Robocode methods like `run()` and `turnGunRight()`
+* Engage in cooperative "robot story battles"
 
-### 📚 Day 6 – Classes and Methods
+### 🌿 Day 3: Variables & Values
 
-* Use `AdvancedRobot` for more control
-* Break code into custom helper methods
-* Understand `public`, `private`, and scope
+* Learn `int`, `double`, `String`
+* Use variables to track energy and direction
+* Design robots with identity
 
-### ⚠️ Day 7 – Error Handling
+### 🌀 Day 4: Events & Output
 
-* Learn to fix and prevent bugs
-* Understand stack traces and debugging tools
-* Use `try/catch` to handle unexpected issues
+* React to `ScannedRobotEvent`, `HitByBulletEvent`
+* Use print statements as narrative tools
+* Celebrate every bug as a clue
 
-### 📏 Day 8 – Strategy, UML & Battle Design
+### 🔁 Day 5: Logic & Loops
 
-* Brainstorm strategies for dodging and aiming
+* Apply `if`, `else`, `while`, `for`
+* Build bots that adapt
+* Invite feedback from peers and elders (Principles #11, #16)
+
+---
+
+### ✨ Day 6: Methods & Classes
+
+* Break code into helper methods
+* Discuss ownership and naming in code
+
+### 🧯 Day 7: Debugging & Error Care
+
+* Practice `try/catch`
+* Understand basic debugging
+* Model problem-solving through **patience and friendliness**
+
+### 📐 Day 8: Strategy Design
+
+* Plan robot behavior with UML
+* Brainstorm strategies for survival, not just attack
 * Refactor your robot for cleaner performance
-* Draw UML diagrams to plan robot structure
-* Prepare for the final tournament!
 
-### 💪 Day 9 – Final Project Build Day
+### 🛠️ Day 9: Project Build
 
-* Design and code your own custom robot
-* Test, debug, and improve your creation
-* Get help and feedback from instructors and peers
+* Full build day with mentors
+* Encourage cascade mentorship
+* Invite community check-ins and progress showcases
 
-### 🎉 Day 10 – Showcase & Tournament
+### 🌈 Day 10: Tournament & Reflection
 
-* Enter the ultimate **Robocode Battle Tournament** 🌟
-* Watch robots compete and learn from others
-* Reflect on your journey and get feedback
+* Celebrate through a **friendly competition**
+* Showcase unique robot designs and strategies
+* Reflect on journey using peer & self-assessment tools
 
 ---
 
-🎓 Let the coding begin!
+🎓 **Let the coding begin — together, in a safe and just space to learn, dream, and code.**

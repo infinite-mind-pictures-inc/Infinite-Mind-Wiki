@@ -85,7 +85,7 @@ Use the **DNS Method** with **BedrockConnect**:
 
 ## 🍌 Xbox Series X|S / Xbox One
 
-### Method 1: DNS Method
+Use the **DNS Method** with **BedrockConnect**:
 
 1. Go to **Settings > Network Settings > Advanced Settings > DNS Settings**.
 2. Set DNS to **Manual**.
@@ -100,21 +100,6 @@ Use the **DNS Method** with **BedrockConnect**:
    * **Port:** `19132`
 
 [Video Walkthrough](https://www.youtube.com/watch?v=g8mHvasVHMs)
-
-### Method 2: Add Friend (MCXboxBroadcast)
-
-1. On your Xbox, add the account:
-   [https://www.xbox.com/en-CA/play/user/TheRenewal](https://www.xbox.com/en-CA/play/user/TheRenewal)
-
-2. Open **Minecraft > Friends** tab.
-
-3. Select **"Find Cross-Platform Friends"**.
-
-4. Return to main menu and wait \~20 seconds.
-
-5. Return to the **Friends** tab.
-
-6. Join and enter from TheRenewal account.
 
 ---
 
@@ -136,6 +121,23 @@ Use the **BedrockTogether** app (iOS & Android):
 > ⚠️ **Note:** Both **Minecraft** and **BedrockTogether** must be running on the same local network.
 
 ---
+
+### Method 2: Alternative Method for Xbox & Switch (MCXboxBroadcast)
+
+1. On your System, add the account:
+   [https://www.xbox.com/en-CA/play/user/TheRenewal](https://www.xbox.com/en-CA/play/user/TheRenewal)
+
+2. Open **Minecraft > Friends** tab.
+
+3. Select **"Find Cross-Platform Friends"**.
+
+4. Return to main menu and wait \~20 seconds.
+
+5. Return to the **Friends** tab.
+
+6. Join your friend TheRenewal
+
+
 
 ## 🚀 Just Visiting?
 

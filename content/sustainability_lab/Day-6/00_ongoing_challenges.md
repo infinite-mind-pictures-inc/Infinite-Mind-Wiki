@@ -2,6 +2,8 @@
 title: "1 - Ongoing Challenges"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Ready to dive into **1 - Ongoing Challenges** 🛠️
 # Day 6+ – Ongoing Challenges
 
 Keep the momentum going by creating new tasks or pulling ideas from a shared board. Build libraries, pirate ships, rocket ships—anything that expands your world. Encourage classmates to post optional challenges like roller coasters, mini games, or Olympic-style events. The goal is a student-driven community that keeps growing after day five.

@@ -3,6 +3,8 @@ title: "Hydropower"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> Buckle up for **Hydropower** 🎉
+
 # Hydropower 🌊
 
 Hydropower uses the force of moving water—like rivers or waterfalls—to generate electricity. In Minecraft, you can simulate this using flowing water, water wheels, and redstone components.

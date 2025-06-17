@@ -3,6 +3,8 @@ title: "Wind Power"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> Curious about **Wind Power** 🎉
+
 # Wind Power 🌬️
 
 Wind energy is created by the movement of air and can be converted into electricity using wind turbines. In Minecraft, you can represent wind power with tall spinning structures made of blocks and animated with redstone.

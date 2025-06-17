@@ -3,6 +3,8 @@ title: "Geothermal"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> It's time for **Geothermal** 🎉
+
 # Geothermal 🌋
 
 Geothermal energy comes from the heat stored beneath the Earth's surface. It's used to generate electricity or provide direct heating. In Minecraft, you can represent geothermal power with lava, magma blocks, and underground bases.

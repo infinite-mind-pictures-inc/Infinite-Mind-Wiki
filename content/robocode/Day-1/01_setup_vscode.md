@@ -2,6 +2,8 @@
 title: "2 - Setup with VS Code"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
+
+> Ready to dive into **2 - Setup with VS Code** 😀
 # Set Up Java with Visual Studio Code
 
 Follow these steps to configure Java locally using **Visual Studio Code**.

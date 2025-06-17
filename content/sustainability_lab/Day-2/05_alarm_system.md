@@ -2,6 +2,8 @@
 title: "2 - Alarm Systems"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Let's jump into **2 - Alarm Systems** 🎉
 # Build an Alarm System
 
 Use bells or redstone contraptions to warn citizens when a disaster is coming.

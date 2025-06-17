@@ -3,6 +3,8 @@ title: "Sustainability Lab"
 tags: ["minecraft", "sustainability", "contents", "hands-on"]
 ---
 
+> Let's tackle **Sustainability Lab** 🛠️
+
 Welcome to the **Sustainability Lab**, a hands-on series of Minecraft challenges focused on sustainable energy and collaborative play. The course begins with an orientation tour of an existing sustainable village. You'll pick a sustainable energy source, teleport to a biome, and choose a special animal to join your adventure.
 
 The **Sustainability Summer Camp** is a five‑day journey where each day highlights a letter from **EARTH**. Ready to begin your adventure as an EARTH Knight through the lens of sustainability? Let's get started!

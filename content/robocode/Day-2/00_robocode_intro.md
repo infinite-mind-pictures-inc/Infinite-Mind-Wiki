@@ -3,6 +3,8 @@ title: "1 - Outline"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Get pumped for **1 - Outline** 😀
+
 # Robocode Lab: Day 2 – Introduction
 
 Welcome to the **Robocode Lab**! In this module, you'll get a high-level overview of what you'll be doing across the coming days.

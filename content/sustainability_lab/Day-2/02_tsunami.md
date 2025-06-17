@@ -2,6 +2,8 @@
 title: "Tsunami Prep"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> It's time for **Tsunami Prep** 🚀
 # Prepare for Tsunamis
 
 Build high ground structures and plan evacuation routes away from the shoreline.

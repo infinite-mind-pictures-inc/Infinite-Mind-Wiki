@@ -3,6 +3,8 @@ title: "1 - Day 2 Overview"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> Curious about **1 - Day 2 Overview** 🚀
+
 # Sustainability Lab: Day 2 – Disaster Preparation
 
 **"A" is for Adventure.** Use a short window in creative mode to build a bunker before switching to adventure mode. Can you survive a new disaster—or even a zombie invasion? Bunker creation introduces life skills like hydration, nutrition, and self-defense.

@@ -3,6 +3,8 @@ title: "3 - Truth Tables"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Buckle up for **3 - Truth Tables** 😎
+
 # Building Truth Tables
 
 Truth tables show how boolean expressions evaluate. They help predict what an `if` statement will do.

@@ -2,6 +2,8 @@
 title: "2 - The Protagonist"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Excited to learn about **2 - The Protagonist** 🔥
 # Develop a Protagonist
 
 Describe how the past catastrophe harmed one main character and what goal drives them now. This adds depth to the story behind your sustainable market.

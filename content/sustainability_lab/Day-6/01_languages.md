@@ -3,6 +3,8 @@
 title: "2 - Invent Languages"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Let's jump into **2 - Invent Languages** 🛠️
 -------------------------------------------
 
 # Invent Languages

@@ -2,6 +2,8 @@
 title: "3 - Hello World"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
+
+> Let's jump into **3 - Hello World** 😀
 # Your First Java Program
 
 After installing Java and setting up your editor, test the environment with a simple program.

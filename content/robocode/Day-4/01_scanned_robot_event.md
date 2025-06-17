@@ -4,6 +4,8 @@ title: "2 - ScannedRobotEvent"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Gear up for **2 - ScannedRobotEvent** 😎
+
 # Working with ScannedRobotEvent
 
 `ScannedRobotEvent` is a key event in Robocode, fired automatically whenever your robot's radar detects another robot. Almost every robot should override this method to respond to detected opponents.

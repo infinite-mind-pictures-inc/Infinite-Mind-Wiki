@@ -11,6 +11,8 @@ Welcome to Day 3! Today’s the day you bring your robot to life with its very f
 
 ---
 
+> Curious about **3 - First Lines of Code** 😀
+
 ## 🧰 Initial Setup (Make Robocode Recognize Your Bot!)
 
 Before your robot can roll into battle, Robocode needs to know it exists. Let’s build its identity and home base.

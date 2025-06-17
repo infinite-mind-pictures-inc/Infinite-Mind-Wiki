@@ -1,7 +1,7 @@
 ---
 
 title: "Robocode Lab (D20 Aligned)"
-tags: \["robocode", "contents", "cs", "inclusive", "d20"]
+tags: ["robocode", "contents", "cs", "inclusive", "d20"]
 ---------------------------------------------------------
 
 # 🤖 Inclusive Java Robocode Course

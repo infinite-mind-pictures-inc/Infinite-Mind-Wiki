@@ -122,7 +122,7 @@ Use the **BedrockTogether** app (iOS & Android):
 
 ---
 
-### Method 2: Alternative Method for Xbox & Switch (MCXboxBroadcast)
+### Alternative Method for Xbox & Switch (MCXboxBroadcast)
 
 1. On your System, add the account:
    [https://www.xbox.com/en-CA/play/user/TheRenewal](https://www.xbox.com/en-CA/play/user/TheRenewal)

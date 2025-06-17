@@ -3,6 +3,8 @@ title: "Requirements / Recommendations"
 
 ---
 
+> Curious about **Requirements / Recommendations** 🤖
+
 ## Requirements
 
 To participate in this course, students will need the following:

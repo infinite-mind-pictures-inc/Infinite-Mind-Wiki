@@ -4,6 +4,8 @@ title: "2 - Data Type Examples"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 
+> Time to explore **2 - Data Type Examples** 😎
+
 # Examples with Numbers and Strings
 
 This lesson explores core Java data types: integers, doubles, characters, and strings. We'll demonstrate common operations and explain how they behave in Java. Boolean logic is saved for the next lesson on conditions.

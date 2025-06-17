@@ -2,6 +2,8 @@
 title: "Tournament Format"
 tags: ["robocode", "tutorial", "cs", "group-activity"]
 ---
+
+> Buckle up for **Tournament Format** 🤖
 # Robocode 1 vs 1 Tournament
 
 At the end of the week, we host a **round-robin** style tournament where every student competes against every other student. Each participant enters their custom robot, and matches are played to determine a final leaderboard.

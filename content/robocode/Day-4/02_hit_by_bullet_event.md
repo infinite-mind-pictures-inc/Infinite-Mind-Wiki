@@ -3,6 +3,8 @@ title: "3 - HitByBulletEvent"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Excited to learn about **3 - HitByBulletEvent** 😎
+
 # Handling HitByBulletEvent
 
 `HitByBulletEvent` is triggered when an enemy bullet strikes your robot. The event tells you the bullet's bearing so you can react or log what happened.

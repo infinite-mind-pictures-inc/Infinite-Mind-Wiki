@@ -2,6 +2,8 @@
 title: "1 - Market Day"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Gear up for **1 - Market Day** 🔥
 # Build a Market
 
 **"T" is for Trade Fair.** Design banners to represent your sustainable village and trade goods or prosocial services with fellow players. You can even explore youth justice themes while discovering "Doughnut Economics"—a sprinkle doughnut seeking balance between the ecological ceiling and social equity.

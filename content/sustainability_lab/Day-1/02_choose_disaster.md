@@ -3,6 +3,8 @@
 title: "3 - Choose a Disaster"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Let's jump into **3 - Choose a Disaster** 🚀
 -------------------------------------------
 
 # Choose a Natural Disaster

@@ -3,6 +3,8 @@ title: "2 - Setting Up"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Let's tackle **2 - Setting Up** 😀
+
 # Robocode Lab: Day 3 – Setting Up
 
 Before we start programming robots, let's make sure your environment is ready.

@@ -3,6 +3,8 @@ title: "1 - Sustainable Energy"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> Excited to learn about **1 - Sustainable Energy** 🎉
+
 # Sustainability Lab: Day 3 – Sustainable Energy
 
 **"R" is for Renewables.** After the chaos of Day 2, return to creative mode to engineer a renewable energy system. Whether decorative builds or functioning redstone circuits, you'll explore numeracy, logic, and the physics of power generation.

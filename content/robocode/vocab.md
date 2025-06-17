@@ -3,6 +3,8 @@ title: "Vocabulary"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 enableToc: true
 ---
+
+> It's time for **Vocabulary** 🤖
 Java Concepts Glossary
 
 ## 1.1 Class

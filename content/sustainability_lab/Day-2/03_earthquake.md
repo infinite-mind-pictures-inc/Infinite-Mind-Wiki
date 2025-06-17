@@ -2,6 +2,8 @@
 title: "Earthquake Prep"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Time to explore **Earthquake Prep** 🎉
 # Prepare for Earthquakes
 
 Reinforce buildings with strong foundations and avoid tall, unstable structures.

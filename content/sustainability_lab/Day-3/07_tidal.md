@@ -3,6 +3,8 @@ title: "Tidal Power"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
 
+> Ready to dive into **Tidal Power** 🔥
+
 # Tidal Power 🐋
 
 Tidal energy harnesses the rise and fall of ocean tides to generate electricity. In Minecraft, you can simulate tidal power with alternating water levels and redstone machines.

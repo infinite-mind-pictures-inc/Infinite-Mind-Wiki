@@ -2,6 +2,8 @@
 title: "1 - Getting Started"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Time to explore **1 - Getting Started** 🚀
 # Sustainability Lab: Day 1 – Getting Started
 
 **"E" is for Empathize.** Students are immersed in the StoryWorld of [Sam the Enderman](/sustainability_lab/Day-1/sam_the_enderman)—a dimension ravaged by climate change. Jump into creative mode and build a shelter for your EARTH Knight protagonist and their special animal companion who have fled a disaster. This opening activity teaches empathy for the hero you'll guide through the rest of camp.

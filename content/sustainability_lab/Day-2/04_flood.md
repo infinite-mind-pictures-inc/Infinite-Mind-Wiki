@@ -2,6 +2,8 @@
 title: "Flood Prep"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Ready to dive into **Flood Prep** 🎉
 # Prepare for Floods
 
 Create levees or raised platforms to keep important buildings dry.

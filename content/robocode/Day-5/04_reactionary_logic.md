@@ -3,6 +3,8 @@ title: "5 - Reactionary Logic"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Time to explore **5 - Reactionary Logic** 🤖
+
 # Reacting to Battle Input
 
 Robocode battles are dynamic. Combine loops and conditionals to adjust behavior in real time.

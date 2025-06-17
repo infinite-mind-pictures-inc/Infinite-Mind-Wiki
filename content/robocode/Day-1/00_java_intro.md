@@ -2,6 +2,8 @@
 title: "1 - Outline"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
+
+> Time to explore **1 - Outline** 😀
 # Robocode Lab: Day 1 – Introduction
 
 Welcome to the **Robocode Lab**! Today is all about installing Java and getting your editor ready so you can run code locally.

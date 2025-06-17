@@ -2,6 +2,8 @@
 title: "Tornado Prep"
 tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
 ---
+
+> Buckle up for **Tornado Prep** 🚀
 # Prepare for Tornadoes
 
 Design sturdy underground shelters and practice seeking cover quickly.

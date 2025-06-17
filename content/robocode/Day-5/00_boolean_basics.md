@@ -3,6 +3,8 @@ title: "1 - Boolean Basics"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> Let's tackle **1 - Boolean Basics** 😎
+
 # Understanding Booleans
 
 `boolean` values represent **true** or **false**. In Robocode you often use them to track simple on/off states.

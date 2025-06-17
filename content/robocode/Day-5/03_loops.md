@@ -3,6 +3,8 @@ title: "4 - Loops"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
+> It's time for **4 - Loops** 😎
+
 # Repeating Actions with Loops
 
 A `while` loop controls your robot's main cycle, keeping it active throughout the match.

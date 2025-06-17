@@ -153,6 +153,4 @@ You can view the map in real time and watch the world expand at
 
 ---
 
-Need Help? Reach out to staff or the community.
-
 See you in-game ✨

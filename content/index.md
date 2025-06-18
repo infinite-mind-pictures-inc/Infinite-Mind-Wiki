@@ -2,7 +2,7 @@
 title: "Home"
 tags: ["intro", "contents"]
 ---
-Welcome to **Infinite Mind Wiki** — a collection of interactive learning modules and experiments.
+Welcome to **Infinite Mind Pictures Wiki** — a collection of interactive learning modules and experiments.
 
 ## Content
 

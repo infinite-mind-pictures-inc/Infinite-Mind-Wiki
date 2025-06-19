@@ -47,7 +47,7 @@ Create the following files inside `.vscode`.
   "configurations": [
     {
       "name": "Run YourBot via batch files",
-      "type": "cppvsdbg",
+      "type": "java",
       "request": "launch",
       "program": "${workspaceFolder}/YourBotFolder/YourBot.cmd",
       "args": [],

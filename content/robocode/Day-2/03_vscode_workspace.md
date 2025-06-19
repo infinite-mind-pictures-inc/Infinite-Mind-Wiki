@@ -9,6 +9,17 @@ tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 
 This lesson shows how to configure a `.vscode` folder so you can compile and run your robot directly from Visual Studio Code.
 
+## How VS Code Works
+
+VS Code is a powerful code editor that supports Java development using extensions and build tasks. When configured correctly, it can:
+
+* Detect your Java libraries
+* Run compilation scripts
+* Launch terminal commands (like running your bot)
+* Let you debug or test code using keyboard shortcuts
+
+Using the `.vscode` folder, we tell VS Code *how* to do each of those things.
+
 ## Create the `.vscode` Folder
 
 Inside your project root (`RobocodeLab`), make a new directory named `.vscode`.
@@ -16,11 +27,13 @@ Inside your project root (`RobocodeLab`), make a new directory named `.vscode`.
 ```
 C:.
 ├───.vscode
-├───Bot
+├───YourBotFolder
 │   ├───infinite
 │   │   └───mind
 │   └───lib
 ```
+
+> Replace `YourBotFolder` with the folder where your bot’s files are stored. For example: `TankBot`, `RocketBot`, etc.
 
 ## Add the Configuration Files
 
@@ -33,12 +46,12 @@ Create the following files inside `.vscode`.
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Run TankBot via batch files",
+      "name": "Run YourBot via batch files",
       "type": "cppvsdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/Bot/TankBot.cmd",
+      "program": "${workspaceFolder}/YourBotFolder/YourBot.cmd",
       "args": [],
-      "cwd": "${workspaceFolder}/Bot",
+      "cwd": "${workspaceFolder}/YourBotFolder",
       "preLaunchTask": "compile-bot",
       "console": "externalTerminal",
       "stopAtEntry": false
@@ -52,7 +65,7 @@ Create the following files inside `.vscode`.
 ```json
 {
   "java.project.referencedLibraries": [
-    "Bot/lib/*.jar"
+    "YourBotFolder/lib/*.jar"
   ]
 }
 ```
@@ -66,9 +79,9 @@ Create the following files inside `.vscode`.
     {
       "label": "compile-bot",
       "type": "shell",
-      "command": "${workspaceFolder}/Bot/compile.bat",
+      "command": "${workspaceFolder}/YourBotFolder/compile.bat",
       "options": {
-        "cwd": "${workspaceFolder}/Bot"
+        "cwd": "${workspaceFolder}/YourBotFolder"
       },
       "problemMatcher": []
     }
@@ -78,11 +91,16 @@ Create the following files inside `.vscode`.
 
 ## How It Works
 
-- **tasks.json** compiles your bot using `compile.bat`.
-- **launch.json** runs `TankBot.cmd` in an external terminal so you can see output.
-- **settings.json** ensures VS Code recognizes the libraries inside `Bot/lib`.
+* **tasks.json** tells VS Code to run `compile.bat` when you press F5. This compiles your bot’s Java code.
+* **launch.json** runs `YourBot.cmd` to start the Robocode bot in an external terminal.
+* **settings.json** ensures the Java libraries in `lib/` are recognized by the Java extension in VS Code.
 
-Press **F5** (or select **Run → Start Debugging**) to compile and launch the robot.
+## Running Your Bot
+
+1. Open your workspace folder in VS Code.
+2. Press **F5** or go to **Run → Start Debugging**.
+3. VS Code runs `compile.bat`, then starts `YourBot.cmd`.
+4. Your bot will appear in the Robocode arena or output log depending on how you launch it.
 
 ---
 
@@ -90,4 +108,5 @@ Press **F5** (or select **Run → Start Debugging**) to compile and launch the r
 
 ⬅️ [Back: First Lines of Code](/robocode/Day-2/02_first_lines)
 ➡️ [Next: Java Datatypes](/robocode/Day-3/00_variables_and_datatypes)
+
 

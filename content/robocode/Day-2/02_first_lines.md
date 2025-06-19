@@ -124,4 +124,4 @@ We’ll dive deeper into event handling and how to fine-tune your robot’s reac
 ## 🔗 Navigation
 
 ⬅️ [Back: Setting Up](/robocode/Day-2/01_setting_up)
-➡️ [Next: Java Datatypes](/robocode/Day-3/00_variables_and_datatypes)
+➡️ [Next: Using VS Code](/robocode/Day-2/03_vscode_workspace)

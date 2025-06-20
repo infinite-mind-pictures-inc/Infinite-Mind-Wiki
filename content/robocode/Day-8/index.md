@@ -14,5 +14,10 @@ tags: ["robocode", "contents", "cs", "intermediate"]
 
 We focus on design first so your next code iteration is intentional and efficient.
 
+## Pages
+- [Hit Reaction Plan](/robocode/Day-8/00_hit_reaction_plan)
+- [Survival Strategies](/robocode/Day-8/01_survival_strategies)
+- [Refactoring Tips](/robocode/Day-8/02_refactoring)
+
 ⬅️ [Back: Day 7](/robocode/Day-7/index)
 ➡️ [Next: Day 9](/robocode/Day-9/index)

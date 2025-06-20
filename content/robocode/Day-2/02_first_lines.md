@@ -9,6 +9,8 @@ enableToc: true
 
 Welcome to Day 3! Today’s the day you bring your robot to life with its very first lines of code. Let’s dive in and make it move, scan, and fire like a champ — all using **Visual Studio Code**!
 
+<img src="/images/low/robocode/robocode_home.webp" alt="robocode home" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+
 ---
 
 > Curious about **3 - First Lines of Code** 😀
@@ -24,7 +26,9 @@ Robocode looks for robots inside a special folder. Think of this as a garage for
 * **Windows:** `C:\bots`
 * **macOS/Linux:** `~/bots`
 
-Once created, open Robocode and go to **Preferences → Bot Root Configuration**. Add this folder so the game can find your creations.
+Once created, open Robocode and go to **Config → Bot Root Directories**. Add this folder so the game can find your creations.
+
+<img src="/images/low/robocode/configure_root.webp" alt="robocode root config" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
 ### 🏗️ Step 0.1: Make Your Bot's Personal Folder
 
@@ -69,25 +73,59 @@ Launch **Visual Studio Code** and use **File → Open Folder** to select the Rob
 Let’s peek inside the file and see what’s going on:
 
 ```java
-package robots;
+import dev.robocode.tankroyale.botapi.*;
+import dev.robocode.tankroyale.botapi.events.*;
 
-import robocode.Robot;
-import robocode.ScannedRobotEvent;
+// ------------------------------------------------------------------
+// MyFirstBot
+// ------------------------------------------------------------------
+// A sample bot original made for Robocode by Mathew Nelson.
+// Ported to Robocode Tank Royale by Flemming N. Larsen.
+//
+// Probably the first bot you will learn about.
+// Moves in a seesaw motion, and spins the gun around at each end.
+// ------------------------------------------------------------------
+public class MyFirstBot extends Bot {
 
-public class MyFirstRobot extends Robot {
+    // The main method starts our bot
+    public static void main(String[] args) {
+        new MyFirstBot().start();
+    }
+
+    // Constructor, which loads the bot config file
+    MyFirstBot() {
+        super(BotInfo.fromFile("MyFirstBot.json"));
+    }
+
+    // Called when a new round is started -> initialize and do some movement
+    @Override
     public void run() {
-        while (true) {
-            ahead(100);
-            turnGunRight(360);
+        // Repeat while the bot is running
+        while (isRunning()) {
+            forward(100);
+            turnGunLeft(360);
             back(100);
-            turnGunRight(360);
+            turnGunLeft(360);
         }
     }
 
-    public void onScannedRobot(ScannedRobotEvent e) {
+    // We saw another bot -> fire!
+    @Override
+    public void onScannedBot(ScannedBotEvent e) {
         fire(1);
     }
+
+    // We were hit by a bullet -> turn perpendicular to the bullet
+    @Override
+    public void onHitByBullet(HitByBulletEvent e) {
+        // Calculate the bearing to the direction of the bullet
+        var bearing = calcBearing(e.getBullet().getDirection());
+
+        // Turn 90 degrees to the bullet direction based on the bearing
+        turnRight(90 - bearing);
+    }
 }
+
 ```
 
 Here’s what’s happening:

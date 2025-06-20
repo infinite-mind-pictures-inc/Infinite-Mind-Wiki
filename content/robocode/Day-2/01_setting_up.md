@@ -17,14 +17,16 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 - A workspace folder
 - A starter Java robot template
 
+<img src="/images/low/robocode/robocode_zip_file.webp" alt="robocode file view" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+
 > 📦 If you haven't received the ZIP, ask your instructor or team lead.
 
 ## Step 2: Extract and Open the Project
 
 1. Unzip the folder to a location you can easily access (e.g. Desktop or Documents).
-2. Inside, you'll see a folder named `RobocodeLab` or similar.
+2. Inside, you'll see a folder named `RoboCode` or similar.
 3. Open your code editor or IDE.
-4. Use **File → Open Folder** and select the unzipped `RobocodeLab` directory.
+4. Use **File → Open Folder** and select the unzipped `RoboCode` directory.
 
 ## Step 3: Verify the Setup
 

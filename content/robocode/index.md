@@ -1,16 +1,16 @@
 ---
 
 title: "Robocode Lab"
-tags: ["robocode", "contents", "cs", "inclusive", "d20"]
----------------------------------------------------------
+tags: ["robocode", "contents", "cs"]
+---
 
-# 🤖 Inclusive Java Robocode Course
+# 🤖 Java Robocode Course
 
 Welcome to the Java **Robocode** course! This ten-day creative coding journey blends hands-on learning, story-building, and game design as students **build, test, and battle** their own virtual robots. In this space, every learner’s story matters — we create community, celebrate curiosity, and embrace challenges together.
 
-> ✨ **Creative Mode from Day 1**
+<img src="/images/low/robocode/example_game.webp" alt="robocode example game" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
-Students with prior programming experience (in Python, C++, or JavaScript) may choose to begin directly with **Week 2** — respecting learner agency and offering **real choice**.
+Students with prior programming experience (in Python, C++, or JavaScript) may choose to begin directly with **Week 2**.
 
 ---
 
@@ -31,14 +31,13 @@ This week fosters **relationships**, **confidence**, and a sense of **belonging*
 
 ## 🤝 Week 2 (Days 6–10): Smarter Bots, Stronger Voices
 
-Students deepen their understanding of Java and design **AI-driven robot behavior**, applying **strategy, empathy, and planning**.
+Students deepen their understanding of Java and design **AI-driven robot behavior**, applying **strategy and planning**.
 
 They will:
 
 * 🎯 Create scanning and dodging logic
-* 🧠 Learn to manage robot energy/state — modeling resilience
+* 🧠 Learn to manage robot energy/state
 * ✏️ Sketch robot behavior using visual tools (UML, flowcharts)
-* 🌍 Explore diverse narratives and challenge dominant coding archetypes
 
 Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback**, and **shared joy**.
 

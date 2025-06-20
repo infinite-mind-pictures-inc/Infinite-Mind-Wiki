@@ -91,7 +91,7 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 ### 📐 Day 8: Strategy Design
 
-* Plan robot behavior with UML
+* Plan robot behavior with diagrams and flowcharts
 * Brainstorm strategies for survival, not just attack
 * Refactor your robot for cleaner performance
 

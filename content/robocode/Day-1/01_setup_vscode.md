@@ -2,37 +2,31 @@
 title: "2 - Setup with VS Code"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
+> 🧰 Time to gear up in **2 - Setup with VS Code** 🎮
 
-> Ready to dive into **2 - Setup with VS Code** 😀
 # Set Up Java with Visual Studio Code
 
-Follow these steps to configure Java locally using **Visual Studio Code**.
+Welcome to your next quest: setting up your Java tools using **Visual Studio Code**, your ultimate robot-crafting workshop! 🛠️
 
-## Install VS Code and JDK
+## 🔌 Step 1: Get Your Tools
 
-1. Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2. Install the latest **Java Development Kit (JDK 21+)** for your operating system.
-3. Launch VS Code and install the **Extension Pack for Java** from the Extensions sidebar.
+1. 🖥️ [Download Visual Studio Code](https://code.visualstudio.com/) and install it.
+2. ☕ Install the **Java Development Kit (JDK)** — version 21 or later is perfect.
+3. 🧩 Open VS Code and grab the **Extension Pack for Java** from the Extensions panel — it’s like adding mods to make your coding life easier!
 
-## Open the Project
+## 📂 Step 2: Open Your Robot Lab
 
-1. Unzip or clone your `RobocodeLab` folder.
-2. In VS Code, choose **File → Open Folder...** and select `RobocodeLab`.
-3. Inside the workspace, open the `src` folder where your Java files will live.
+1. Open your `RobocodeLab` folder (unzip it if needed).
+2. Inside VS Code, go to **File → Open Folder...** and choose your `RobocodeLab` folder.
+3. Navigate to the `src` folder — this is where your Java magic will live!
 
-## Verify Installation
+## ✅ Step 3: Prep for First Program
 
-Create a new file named `HelloWorld.java` and paste the example from the next page. Hit **Run** or use the terminal command:
-
-```bash
-javac HelloWorld.java && java HelloWorld
-```
-
-If you see the message `Hello, world!`, everything is set up correctly.
+Make sure everything is installed and working — we’ll write our first program on the next page! 😄
 
 ---
 
-## Navigation
+## 🗺️ Navigation
 
 ⬅️ [Back: Introduction](/robocode/Day-1/00_java_intro)
-➡️ [Next: Hello World program](/robocode/Day-1/02_hello_world)
+➡️ [Next: Hello World Program](/robocode/Day-1/02_hello_world)

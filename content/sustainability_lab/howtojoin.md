@@ -146,13 +146,52 @@ You can view the map in real time and watch the world expand at
 
 ---
 
-## ⚠️ Troubleshooting
+## ⚠️ Troubleshooting Connection Issues
 
-* Double-check the server address and port.
-* Ensure your firewall or parental controls aren’t blocking connections.
-* Restart Minecraft and your device.
-* Still stuck? Reach out to a staff member.
+Having trouble joining the server? Don't worry — here are some quick fixes and tips to help you get connected.
 
 ---
 
-See you in-game ✨
+### 🔌 General Connection Problems
+
+* **"Invalid IP" or "Connection Error"**
+
+  * Double-check the server address:
+
+    * `therenewal.earth:25565` for **Java Edition**
+    * `therenewal.earth` port `19132` for **Bedrock Edition** (Geyser-compatible)
+  * Ensure your internet connection is stable.
+  * Make sure your firewall, antivirus, or parental controls aren’t blocking Minecraft.
+  * Restart your device.
+
+---
+
+### 📱 Bedrock Edition (via Geyser)
+
+* **Chunks not loading**
+
+  * Set your render distance to **9** or lower in settings.
+  * Restart your game after adjusting render distance.
+
+* **Login/authentication problems**
+  * Ensure you're signed in with a Microsoft account that has *both* Java and Bedrock editions.
+
+* **Joining community server instead of therenewal.earth**
+   * Double check DNS configuration
+   * Restart your system
+
+---
+
+### 💻 Java Edition
+
+No major issues currently reported.
+
+---
+
+### 🆘 Still Need Help?
+
+If you're still stuck, reach out to a staff member in our Discord or in-game chat. We're happy to help!
+
+---
+
+See you in-game! ✨

@@ -74,7 +74,7 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 * Apply `if`, `else`, `while`, `for`
 * Build bots that adapt
-* Invite feedback from peers and elders (Principles #11, #16)
+* Invite feedback from peers
 
 ---
 

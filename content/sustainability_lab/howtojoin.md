@@ -62,6 +62,8 @@ Use the **DNS Method** with **BedrockConnect**:
    * **IP:** `therenewal.earth`
    * **Port:** `19132`
 
+> ⚠️ **Note:** You must have an account associated with your console, an active internet connection, and multiplayer features enabled. You also need a Microsoft account that owns Minecraft Java Edition.
+
 ---
 
 ## 🌿 PlayStation (PS4/PS5)
@@ -81,6 +83,8 @@ Use the **DNS Method** with **BedrockConnect**:
    * **IP:** `therenewal.earth`
    * **Port:** `19132`
 
+> ⚠️ **Note:** You must have an account associated with your console, an active internet connection, and multiplayer features enabled. You also need a Microsoft account that owns Minecraft Java Edition.
+
 ---
 
 ## 🍌 Xbox Series X|S / Xbox One
@@ -98,6 +102,8 @@ Use the **DNS Method** with **BedrockConnect**:
 
    * **IP:** `therenewal.earth`
    * **Port:** `19132`
+
+> ⚠️ **Note:** You must have an account associated with your console, an active internet connection, and multiplayer features enabled. You also need a Microsoft account that owns Minecraft Java Edition.
 
 [Video Walkthrough](https://www.youtube.com/watch?v=g8mHvasVHMs)
 
@@ -137,7 +143,7 @@ Use the **BedrockTogether** app (iOS & Android):
 
 6. Join your friend TheRenewal
 
-
+---
 
 ## 🚀 Just Visiting?
 
@@ -174,11 +180,13 @@ Having trouble joining the server? Don't worry — here are some quick fixes and
   * Restart your game after adjusting render distance.
 
 * **Login/authentication problems**
+
   * Ensure you're signed in with a Microsoft account that has *both* Java and Bedrock editions.
 
 * **Joining community server instead of therenewal.earth**
-   * Double check DNS configuration
-   * Restart your system
+
+  * Double check DNS configuration
+  * Restart your system
 
 ---
 
@@ -188,7 +196,7 @@ No major issues currently reported.
 
 ---
 
-### 🆘 Still Need Help?
+### 🤞 Still Need Help?
 
 If you're still stuck, reach out to a staff member in our Discord or in-game chat. We're happy to help!
 

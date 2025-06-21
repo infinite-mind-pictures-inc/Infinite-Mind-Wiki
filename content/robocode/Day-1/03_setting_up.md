@@ -38,5 +38,7 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ## Navigation
 
+🤖 [Minigame](/robocode/Day-1/minigame.md)
+
 ⬅️ [Back: Hello World Program](/robocode/Day-1/02_hello_world)
 ➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)

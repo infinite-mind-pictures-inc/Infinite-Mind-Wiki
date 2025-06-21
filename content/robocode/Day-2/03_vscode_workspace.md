@@ -102,6 +102,7 @@ Create the following files inside `.vscode`.
 3. VS Code runs `compile.bat`, then starts `YourBot.cmd`.
 4. Your bot will appear in the Robocode arena or output log depending on how you launch it.
 
+[Why do we need to do all this?](/robocode/bread)
 ---
 
 ## Navigation

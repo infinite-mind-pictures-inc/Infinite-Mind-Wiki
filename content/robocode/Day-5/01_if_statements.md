@@ -11,11 +11,11 @@ Use `if`, `else if`, and `else` blocks to control actions. The robot can react d
 
 ```java
 if (getEnergy() < 30) {
-    retreat();
+    back(); 
 } else if (getGunHeat() == 0) {
     fire(2);
 } else {
-    ahead(50);
+    forward(50);
 }
 ```
 

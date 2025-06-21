@@ -13,7 +13,7 @@ A `while` loop controls your robot's main cycle, keeping it active throughout th
 public void run() {
     while (true) {
         scan();
-        ahead(50);
+        forward(50);
     }
 }
 ```

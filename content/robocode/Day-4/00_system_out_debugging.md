@@ -48,7 +48,7 @@ public class DebugBot extends Robot {
         while (true) {
             System.out.println("Turning right and scanning...");
             turnRight(45);
-            ahead(100);
+            forward(100);
             scan();
         }
     }

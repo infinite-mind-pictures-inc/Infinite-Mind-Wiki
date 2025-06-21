@@ -15,8 +15,11 @@ Welcome to your next quest: setting up your Java tools using **Visual Studio Cod
 ## 🔌 Step 1: Get Your Tools
 
 1. 🖥️ [Download Visual Studio Code](https://code.visualstudio.com/) and install it.
-2. ☕ Install the **Java Development Kit (JDK)** — version 21 or later is perfect.
+2. ☕ Install the [Java Development Kit (JDK)](https://www.oracle.com/cis/java/technologies/downloads/) — version 21 or later is perfect.
 3. 🧩 Open VS Code and grab the **Extension Pack for Java** from the Extensions panel — it’s like adding mods to make your coding life easier!
+
+<img src="/images/low/robocode/java_extensions.webp" alt="vs code download screen" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+
 
 ## 📂 Step 2: Create Your Robot Lab
 

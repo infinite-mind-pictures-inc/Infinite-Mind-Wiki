@@ -23,8 +23,9 @@ Before your robot can roll into battle, Robocode needs to know it exists. Let’
 
 Robocode looks for robots inside a special folder. Think of this as a garage for all your future bots!
 
-* **Windows:** `C:\bots`
-* **macOS/Linux:** `~/bots`
+```bash
+Documents/robocodebots
+```
 
 Once created, open Robocode and go to **Config → Bot Root Directories**. Add this folder so the game can find your creations.
 
@@ -35,7 +36,7 @@ Once created, open Robocode and go to **Config → Bot Root Directories**. Add t
 Inside your new bots garage, create a personal bot room:
 
 ```bash
-~/bots/MyFirstBot
+robocodebots/MyFirstBot
 ```
 
 Your `.java` file and a metadata file (coming up next) will go here. Everything must match the bot name exactly — it's picky like that.
@@ -51,7 +52,7 @@ Time to give your bot a name, a backstory, and a badge. Create a file inside you
   "authors": ["Your Name"],
   "description": "My first bot",
   "homepage": "https://your-robot-homepage.com",
-  "countryCodes": ["us"],
+  "countryCodes": ["ca"],
   "platform": "Java",
   "programmingLang": "Java"
 }

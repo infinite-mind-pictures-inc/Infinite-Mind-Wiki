@@ -55,7 +55,7 @@ public void run() {
     int step = 100;      // how far to move
     double angle = 90.0; // how much to turn
 
-    ahead(step);         // move forward
+    forward(step);         // move forward
     turnRight(angle);    // rotate the tank
 }
 ```

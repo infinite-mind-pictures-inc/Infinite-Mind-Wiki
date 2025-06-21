@@ -11,7 +11,7 @@ Try mixing circles and zigzags to dodge bullets:
 public void onScannedRobot(ScannedRobotEvent e) {
     setTurnRight(e.getBearing() + 90);
     if (Math.random() > 0.5) {
-        setAhead(150);
+        setForward(150);
     } else {
         setBack(150);
     }

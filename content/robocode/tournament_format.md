@@ -39,9 +39,3 @@ This continues until all matchups have been played.
 
 Good luck, and may the best code win!
 
----
-
-## Navigation
-
-🡠 ⬅️ [Back: Movement and Angles](/robocode/Day-4/00_movement_angles)
-

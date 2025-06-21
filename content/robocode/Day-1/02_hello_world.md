@@ -23,8 +23,7 @@ public class HelloWorld {
 
 ## 🏃‍♀️ Run the Program
 
-Use your terminal in VS Code (or Command Prompt/Terminal if you prefer) and type:
-
+Use your terminal in VS Code
 ```bash
 javac HelloWorld.java
 java HelloWorld
@@ -37,6 +36,8 @@ Hello, world!
 ```
 
 🎉 Woohoo! That means Java is working, and you're ready to start building robots!
+
+[What does javac and java do?](/robocode/Day-1/javacompile)
 
 ---
 

@@ -12,8 +12,7 @@
         "--serve"
       ],
       "cwd": "${workspaceFolder}",
-      "console": "integratedTerminal",
-      "postDebugTask": "python-build"
+      "console": "integratedTerminal"
     }
   ]
 }

@@ -4,6 +4,17 @@ title: Day 10+ - Advanced Upgrades
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---
 
+## Lesson Requirements
+
+* Start from your tournament-ready robot
+* Download any additional libraries mentioned in class
+
+## Lesson Outcomes
+
+* Implement predictive firing to hit moving targets
+* Experiment with advanced movement patterns
+* Lock your radar on enemies for consistent scans
+
 > Day 10+ dives deeper with **targeting and movement upgrades**.
 
 ## Lessons

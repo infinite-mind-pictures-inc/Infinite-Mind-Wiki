@@ -4,6 +4,17 @@ title: Day 9 - Build & Showcase
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---
 
+## Lesson Requirements
+
+* Bring your working robot code and design notes from **Day 8**
+* Be ready to share your screen or code snippets with peers
+
+## Lesson Outcomes
+
+* Implement movement patterns like sweeping left/right
+* Showcase your robot and gather feedback from mentors
+* Iterate based on what you learn from other teams
+
 > Today is a **full build day**. Team up with mentors and keep iterating on your robot.
 
 ## Agenda

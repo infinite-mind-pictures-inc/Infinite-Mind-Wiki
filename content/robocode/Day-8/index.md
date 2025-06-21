@@ -4,6 +4,17 @@ title: Day 8 - Strategy Design
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---
 
+## Lesson Requirements
+
+* Have your improved robot from **Day 7** ready to modify
+* Keep a notebook or whiteboard nearby for planning
+
+## Lesson Outcomes
+
+* Sketch out a full strategy using UML or flowcharts
+* Brainstorm movement and survival tactics
+* Refactor existing code to implement your new plan
+
 > Day 8 is all about **Strategy Design**. Grab pen and paper to sketch ideas before jumping back into code.
 
 ## Agenda

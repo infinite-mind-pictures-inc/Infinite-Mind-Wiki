@@ -1,11 +1,11 @@
 ---
-title: "2 - Setting Up"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+title: "3 - Setting Up Robocode"
+tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 
-> Let's tackle **2 - Setting Up** 😀
+> Let's tackle **3 - Setting Up Robocode** 😀
 
-# Robocode Lab: Day 3 – Setting Up
+# Robocode Lab: Day 1 – Setting Up Robocode
 
 Before we start programming robots, let's make sure your environment is ready.
 
@@ -38,5 +38,5 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ## Navigation
 
-⬅️ [Back: Introduction](/robocode/Day-2/00_robocode_intro)
-➡️ [Next: First Lines of Code](/robocode/Day-2/02_first_lines)
+⬅️ [Back: Hello World Program](/robocode/Day-1/02_hello_world)
+➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)

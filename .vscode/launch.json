@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Quartz and Build",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "npx",
+      "args": [
+        "quartz",
+        "build",
+        "--serve"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "postDebugTask": "python-build"
+    }
+  ]
+}

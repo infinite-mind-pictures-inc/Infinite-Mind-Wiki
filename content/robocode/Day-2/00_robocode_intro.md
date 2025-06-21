@@ -22,4 +22,4 @@ Welcome to the **Robocode Lab**! In this module, you'll get a high-level overvie
 
 ## Next Steps
 
-➡️ [Next: Setting Up](/robocode/Day-2/01_setting_up)
+➡️ [Next: First Lines of Code](/robocode/Day-2/02_first_lines)

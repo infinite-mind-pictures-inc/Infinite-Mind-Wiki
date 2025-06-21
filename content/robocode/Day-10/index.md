@@ -15,3 +15,4 @@ tags: ["robocode", "contents", "cs", "intermediate"]
 We'll run a [round-robin tournament](/robocode/tournament_format) where every student battles each other once. At the end, mark the top three finishers on each player's tank card with **1**, **2**, or **3**.
 
 ⬅️ [Back: Day 9](/robocode/Day-9/index)
+➡️ [Next: Day 10+](/robocode/Day-10+/index)

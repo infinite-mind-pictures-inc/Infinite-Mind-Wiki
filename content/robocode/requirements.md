@@ -13,3 +13,4 @@ To participate in this course, students will need the following:
 * **Java**: The most recent version of the Java Development Kit (JDK) installed.
 * **Audio Setup**: A working microphone and speaker setup for participation in discussions, asking questions, and receiving instruction during live sessions.
 * **Age Range**: This course is designed for students between the ages of 10 and 14. Prior experience is not required, although familiarity with any object-oriented programming language (like Python, C++, or JavaScript) is a plus.
+* **Able to download software**: Each student will be expected to be able to download software, such as robocode tank royale and VS code.

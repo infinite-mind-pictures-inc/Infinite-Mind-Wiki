@@ -3,84 +3,115 @@
 title: "2 - Data Type Examples"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
-
 > Time to explore **2 - Data Type Examples** 😎
 
-# Examples with Numbers and Strings
+# 📊 Examples with Numbers and Strings
 
-This lesson explores core Java data types: integers, doubles, characters, and strings. We'll demonstrate common operations and explain how they behave in Java. Boolean logic is saved for the next lesson on conditions.
-
----
-
-## Integers (`int`)
-
-Integers are whole numbers, positive or negative. Java automatically uses integer arithmetic when both operands are `int`.
-
-| Operation      | Code                    | Explanation                           | Result |
-| -------------- | ----------------------- | ------------------------------------- | ------ |
-| Addition       | `int sum = 5 + 2;`      | Adds 5 and 2                          | `7`    |
-| Subtraction    | `int diff = 5 - 2;`     | Subtracts 2 from 5                    | `3`    |
-| Multiplication | `int product = 5 * 2;`  | Multiplies 5 by 2                     | `10`   |
-| Division       | `int quotient = 5 / 2;` | Divides 5 by 2, drops decimal         | `2`    |
-| Modulo         | `int rem = 5 % 2;`      | Gives the remainder of 5 divided by 2 | `1`    |
-
-> 📝 Note: Integer division always truncates toward zero. No rounding.
+In this lesson, we’ll learn about different **data types** in Java — these are the kinds of values your robot can use, like numbers, letters, and words. Each type has its own special rules and powers. Let’s check them out!
 
 ---
 
-## Decimal Numbers (`double`)
+## 🔢 Integers (`int`)
 
-`double` values store floating-point numbers (with decimal places).
+**Integers** are whole numbers. That means they **don't** have decimals. You can use them to count things, measure scores, or store positions.
 
-| Operation      | Code                        | Explanation                           | Result |
-| -------------- | --------------------------- | ------------------------------------- | ------ |
-| Multiplication | `double r = 4.5 * 1.2;`     | Standard multiplication with decimals | `5.4`  |
-| Order of Ops   | `double r = 4.5 * 1.2 + 3;` | Uses PEMDAS: (4.5 × 1.2) + 3          | `8.4`  |
-| Division       | `double d = 5.0 / 2.0;`     | Uses floating-point division          | `2.5`  |
+```java
+int score = 10;
+int lives = 3;
+```
 
-> ✅ You must use at least one decimal (like `5.0`) to get decimal results.
+Java automatically uses **integer math** when you're working with just `int` numbers.
 
----
+| Operation      | Code                    | What It Does                         | Result |
+| -------------- | ----------------------- | ------------------------------------ | ------ |
+| Addition       | `int sum = 5 + 2;`      | 5 plus 2                             | `7`    |
+| Subtraction    | `int diff = 5 - 2;`     | 5 minus 2                            | `3`    |
+| Multiplication | `int product = 5 * 2;`  | 5 times 2                            | `10`   |
+| Division       | `int quotient = 5 / 2;` | 5 divided by 2, decimal gets cut off | `2`    |
+| Remainder      | `int rem = 5 % 2;`      | What’s left after dividing 5 by 2    | `1`    |
 
-## Characters (`char`)
-
-A `char` stores a single character, like a letter or symbol.
-
-| Operation     | Code                              | Explanation                          | Result |
-| ------------- | --------------------------------- | ------------------------------------ | ------ |
-| Assign letter | `char letter = 'A';`              | Stores capital A in a variable       | `'A'`  |
-| Next letter   | `char next = (char)(letter + 1);` | Uses ASCII math: 'A' + 1 becomes 'B' | `'B'`  |
-| Symbol        | `char symbol = '!';`              | Stores an exclamation mark           | `'!'`  |
-
-> 📌 Characters are actually stored as numbers (ASCII/Unicode). You can do math with them.
+> 📝 **Note:** If you divide `5 / 2` using `int`, you don't get 2.5 — Java **chops off** the decimal and gives just `2`.
 
 ---
 
-## Strings
+## 🧮 Decimal Numbers (`double`)
 
-Strings are sequences of characters. Java uses `+` to join them (concatenation).
+A `double` can store **decimal numbers** like `2.5` or `3.14`. It’s great for when you need **precise values**, like distances or percentages.
 
-| Operation            | Code                 | Explanation                            | Result          |
-| -------------------- | -------------------- | -------------------------------------- | --------------- |
-| Basic join           | `"Hello" + " World"` | Combines two strings                   | `"Hello World"` |
-| Add variable         | `"Hello, " + name`   | Adds variable `name` to string         | `"Hello, Robo"` |
-| Add number to string | `"Score: " + 10`     | Converts number to text before joining | `"Score: 10"`   |
-| Multi-line           | `"Line1\nLine2"`     | `\n` adds a newline                    | `Line1\nLine2`  |
+```java
+double speed = 2.5;
+double batteryLevel = 75.5;
+```
 
-> 💡 Strings are not primitive types. They're objects with methods like `.length()` and `.toUpperCase()`.
+| Operation      | Code                        | What It Does             | Result |
+| -------------- | --------------------------- | ------------------------ | ------ |
+| Multiplication | `double r = 4.5 * 1.2;`     | 4.5 times 1.2            | `5.4`  |
+| Order of Ops   | `double r = 4.5 * 1.2 + 3;` | Multiply first, then add | `8.4`  |
+| Division       | `double d = 5.0 / 2.0;`     | Divides with decimals    | `2.5`  |
+
+> ✅ **Reminder:** To get a decimal answer, **at least one number must have a `.0`** in it! If both numbers are `int`, you'll get an `int` result.
+
+---
+
+## 🔤 Characters (`char`)
+
+A `char` (short for character) stores a **single letter or symbol**. It’s surrounded by **single quotes** like `'A'` or `'%'`.
+
+```java
+char grade = 'A';
+char symbol = '!';
+```
+
+| Operation     | Code                              | What It Does                 | Result |
+| ------------- | --------------------------------- | ---------------------------- | ------ |
+| Assign letter | `char letter = 'A';`              | Stores letter A              | `'A'`  |
+| Next letter   | `char next = (char)(letter + 1);` | Adds 1 to A (ASCII code) = B | `'B'`  |
+| Symbol        | `char symbol = '!';`              | Stores exclamation mark      | `'!'`  |
+
+> 💡 **Fun Fact:** Letters are secretly stored as numbers (ASCII). `'A'` is `65`, `'B'` is `66`, and so on!
 
 ---
 
-## Summary Table
+## 🧵 Strings
 
-| Data Type | Examples                           | Notes                                       |
-| --------- | ---------------------------------- | ------------------------------------------- |
-| `int`     | `5 + 2`, `10 / 3`, `7 % 4`         | Whole numbers, integer math                 |
-| `double`  | `5.0 / 2.0`, `3.14 * 2`, `1.5 + 3` | Decimal math, automatic precision           |
-| `char`    | `'A'`, `'Z'`, `'!'`, `'1'`         | Single letters/symbols, supports ASCII math |
-| `String`  | `"Hello" + name`, `"Points: " + 5` | Text data, concatenation via `+`            |
+A `String` is a **bunch of characters** stuck together — like a **word** or **sentence**. You use **double quotes** for strings: `"Hello"`
+
+```java
+String name = "Robo";
+String message = "Hello, world!";
+```
+
+| Operation            | Code                 | What It Does                      | Result                |
+| -------------------- | -------------------- | --------------------------------- | --------------------- |
+| Basic join           | `"Hello" + " World"` | Joins the two parts together      | "Hello World"         |
+| Add variable         | `"Hello, " + name`   | Adds the value inside `name`      | "Hello, Robo"         |
+| Add number to string | `"Score: " + 10`     | Turns 10 into text, then joins it | "Score: 10"           |
+| Multi-line           | `"Line1\nLine2"`     | `\n` makes a new line             | Line1 (newline) Line2 |
+
+> 💡 **Tip:** Strings aren’t just text — they’re **objects** that have cool powers like `.length()` (how long it is) and `.toUpperCase()` (shouty version!)
 
 ---
+
+## 🧠 Summary Table
+
+| Data Type | What It's For       | Examples                           | Notes                                     |
+| --------- | ------------------- | ---------------------------------- | ----------------------------------------- |
+| `int`     | Whole numbers       | `5 + 2`, `10 / 3`, `7 % 4`         | No decimals, does regular math            |
+| `double`  | Decimal numbers     | `5.0 / 2.0`, `3.14 * 2`, `1.5 + 3` | Gives accurate decimal answers            |
+| `char`    | Single characters   | `'A'`, `'Z'`, `'!'`, `'1'`         | Must use single quotes `' '`, ASCII aware |
+| `String`  | Words and sentences | `"Hello" + name`, `"Score: " + 5`  | Double quotes, use `+` to build messages  |
+
+---
+
+> 🧪 **Challenge:** Try printing out these different types using `System.out.println()` and see what happens!
+
+```java
+System.out.println(5 + 2);           // int math
+System.out.println(5.0 / 2.0);       // double math
+System.out.println('A' + 1);         // adds to char, prints number!
+System.out.println("Hi " + "there!"); // String join
+```
+
 
 ## Navigation
 

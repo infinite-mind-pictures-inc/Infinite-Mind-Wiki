@@ -23,10 +23,10 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ## Step 2: Extract and Open the Project
 
-1. Unzip the folder to a location you can easily access (e.g. Desktop or Documents).
-2. Inside, you'll see a folder named `RoboCode` or similar.
-3. Open your code editor or IDE.
-4. Use **File → Open Folder** and select the unzipped `RoboCode` directory.
+1. Unzip the folder to your desktop.
+2. Inside, you'll see a folder named `RoboCode`.
+3. Open your VS Code.
+4. Use **File → Open Folder** and select the `RoboCode/robots/MyFirstRobot` directory on your desktop.
 
 ## Step 3: Verify the Setup
 
@@ -37,8 +37,6 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 ---
 
 ## Navigation
-
-🤖 [Minigame](/robocode/Day-1/minigame.md)
 
 ⬅️ [Back: Hello World Program](/robocode/Day-1/02_hello_world)
 ➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)

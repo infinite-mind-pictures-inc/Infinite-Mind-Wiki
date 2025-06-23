@@ -16,7 +16,7 @@ Now that your Java tools are ready, it’s time to write your very first Java pr
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        System.out.println("Hello World!");
     }
 }
 ```
@@ -32,7 +32,7 @@ java HelloWorld
 If everything is set up, you’ll see:
 
 ```
-Hello, world!
+Hello World!
 ```
 
 🎉 Woohoo! That means Java is working, and you're ready to start building robots!

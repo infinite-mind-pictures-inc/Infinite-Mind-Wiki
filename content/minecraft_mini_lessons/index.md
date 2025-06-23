@@ -1,4 +1,4 @@
 ---
-title: "Minecraft Mini Lessons"
+title: "Mini Lessons"
 tags: ["minecraft", "asynchronous"]
 ---

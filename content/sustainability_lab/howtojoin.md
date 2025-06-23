@@ -62,8 +62,6 @@ Use the **DNS Method** with **BedrockConnect**:
    * **IP:** `therenewal.earth`
    * **Port:** `19132`
 
-> ⚠️ **Note:** You must have an account associated with your console, an active internet connection, and multiplayer features enabled. You also need a Microsoft account that owns Minecraft Java Edition.
-
 ---
 
 ## 🌿 PlayStation (PS4/PS5)
@@ -83,8 +81,6 @@ Use the **DNS Method** with **BedrockConnect**:
    * **IP:** `therenewal.earth`
    * **Port:** `19132`
 
-> ⚠️ **Note:** You must have an account associated with your console, an active internet connection, and multiplayer features enabled. You also need a Microsoft account that owns Minecraft Java Edition.
-
 ---
 
 ## 🍌 Xbox Series X|S / Xbox One
@@ -102,8 +98,6 @@ Use the **DNS Method** with **BedrockConnect**:
 
    * **IP:** `therenewal.earth`
    * **Port:** `19132`
-
-> ⚠️ **Note:** You must have an account associated with your console, an active internet connection, and multiplayer features enabled. You also need a Microsoft account that owns Minecraft Java Edition.
 
 [Video Walkthrough](https://www.youtube.com/watch?v=g8mHvasVHMs)
 
@@ -123,8 +117,6 @@ Use the **BedrockTogether** app (iOS & Android):
 5. Open **Minecraft** and go to the **Friends** tab.
 6. Select the LAN game called **BedrockTogether**.
 7. You’ll be redirected to a server list. Select **TheRenewal** to connect.
-
-> ⚠️ **Note:** Both **Minecraft** and **BedrockTogether** must be running on the same local network.
 
 ---
 
@@ -169,6 +161,7 @@ Having trouble joining the server? Don't worry — here are some quick fixes and
   * Ensure your internet connection is stable.
   * Make sure your firewall, antivirus, or parental controls aren’t blocking Minecraft.
   * Restart your device.
+  * Not whitelisted? Let your instructor know, everyone will be added to the whitelist together at the start of the session.
 
 ---
 

@@ -54,7 +54,7 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 - Code and compile a robot
 - Meet Robocode methods like `run()` and `turnGunRight()`
-- Engage in cooperative “robot story battles”
+- Learn the fundamental geometry used in robocode
 
 ### [🌿 Day 3: Variables & Values](/robocode/Day-3/00_variables_and_datatypes)
 

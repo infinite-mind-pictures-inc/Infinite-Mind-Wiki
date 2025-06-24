@@ -38,6 +38,7 @@ Hello World!
 🎉 Woohoo! That means Java is working, and you're ready to start building robots!
 
 [What does javac and java do?](/robocode/Day-1/javacompile)
+[That was confusing, what does javac and java really do?](/robocode/bread)
 
 ---
 

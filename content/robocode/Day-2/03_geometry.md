@@ -4,7 +4,7 @@ tags: ["robocode"]
 enableToc: false
 ---
 
-## 🗺️ Map Grid (Kid-Friendly Math)
+## 🗺️ Map Grid
 
 Imagine your robot game map is a big piece of graph paper:
 

@@ -100,6 +100,8 @@ Want to add a bullet log or heat map later? You’re already halfway there! 🧠
 
 ---
 
+[Minigame](/robocode/day-4/04-minigame)
+
 ## Navigation
 
 ⬅️ [Back: ScannedRobotEvent](/robocode/Day-4/01_scanned_robot_event)

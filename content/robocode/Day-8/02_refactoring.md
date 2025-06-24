@@ -14,3 +14,9 @@ tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 5. **Consistent Formatting** – use your IDE's auto-formatting to keep braces and indentation tidy.
 
 Refactoring keeps your bot maintainable while you iterate on new strategies.
+
+
+## Navigation
+
+⬅️ [Back: Survival Strategies](/robocode/Day-8/01_survival_strategies)
+➡️ [Next: Day 9: Robot Building!](/robocode/Day-9/00_build_showcase)

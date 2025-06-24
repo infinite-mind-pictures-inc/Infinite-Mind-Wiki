@@ -13,6 +13,9 @@ tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 
 This day we look at each other's projects and discuss ideas one by one. We'll focus on programming the robot.
 
+
+## [Companion Sheet](/robocode/day-9/cheatsheet)
+
 ## Navigation
 
 ⬅️ [Back: Day 8](/robocode/Day-8/index)

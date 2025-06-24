@@ -42,6 +42,11 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 ---
 
+[Course Requirements](/robocode/requirements)
+[Course Outcomes](/robocode/outcomes)
+
+---
+
 ## 📆 Day-by-Day Highlights
 
 ### [🧭 Day 1: Begin the Journey](/robocode/Day-1/00_java_intro)

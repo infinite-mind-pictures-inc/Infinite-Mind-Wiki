@@ -50,4 +50,4 @@ public boolean findTarget(Bot bot) {
 ## Navigation
 
 ⬅️ [Back: Build Day Agenda](/robocode/Day-9/00_build_showcase)
-➡️ [Next: Day 10+](/robocode/Day-10+/index)
+➡️ [Next: Day 10](/robocode/Day-10/index)

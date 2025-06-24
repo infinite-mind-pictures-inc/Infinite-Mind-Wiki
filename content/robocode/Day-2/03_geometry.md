@@ -37,11 +37,13 @@ Think of angles like spinning a spinner or turning your body. Angles are like di
 * Turn **left** ⬅️ means **add** to your angle.
 
 ---
+
 <div>
 <img src="/images/low/robocode/coordinates.webp" alt="coordinates visual" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </div>
 
 <a href="https://robocode-dev.github.io/tank-royale/articles/coordinates-and-angles.html#coordinate-system">Robocode Tank Royale – Coordinates and Angles</a>
+
 ---
 
 ### 🎯 Turning Examples

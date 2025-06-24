@@ -37,7 +37,7 @@ First, define a name in your robot class:
 
 ```java
 public class DebugBot extends Robot {
-    String name = "DebugBot3000";
+    String name = "Mr Robot";
 ```
 
 ### Step 2: Add println Messages in Key Methods
@@ -49,12 +49,11 @@ public class DebugBot extends Robot {
             System.out.println("Turning right and scanning...");
             turnRight(45);
             forward(100);
-            scan();
         }
     }
 
     public void onScannedRobot(ScannedRobotEvent e) {
-        System.out.println(name + " saw a robot at distance: " + e.getDistance());
+        System.out.println(name + " saw a robot");
         fire(1);
     }
 
@@ -74,11 +73,11 @@ public class DebugBot extends Robot {
 In the Robocode console, you’ll see messages like:
 
 ```
-Hello! My name is DebugBot3000
+Hello! My name is Mr Robot
 Turning right and scanning...
-DebugBot3000 saw a robot at distance: 250.0
-DebugBot3000 was hit by a bullet from direction: -45.0
-DebugBot3000 hit a wall at bearing: 90.0
+Mr Robot saw a robot
+Mr Robot was hit by a bullet from direction: 45.0
+Mr Robot hit a wall at bearing: 90.0
 ```
 
 This gives you a real-time log of what’s going on during battle.

@@ -5,31 +5,65 @@ tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 
 > Time to explore **5 - Reactionary Logic** 🤖
 
-# Reacting to Battle Input
+# ⚡ Reacting to Battle Input
 
-Robocode battles are dynamic. Combine loops and conditionals to adjust behavior in real time.
+In Robocode, your bot needs to make decisions on the fly. This means combining loops (like `while`) and conditions (like `if`) with **event-driven logic**.
+
+---
+
+## 🔍 Full Example: Radar Scan + Distance Tracking
+
+This example spins the radar and reacts to nearby bots using their X and Y position.
 
 ```java
-public void onScannedRobot(ScannedRobotEvent e) {
-    if (e.getDistance() < 150) {
-        fire(3);
-    } else {
-        fire(1);
+import dev.robocode.tankroyale.botapi.*;
+import dev.robocode.tankroyale.botapi.events.*;
+
+public class ReactiveBot extends Bot {
+
+    private double lastEnemyX = 0;
+    private double lastEnemyY = 0;
+
+    public ReactiveBot() {
+        super(BotInfo.fromFile("ReactiveBot.json"));
+    }
+
+    @Override
+    public void run() {
+        while (true) {
+            turnRadarRight(360);  // Spin radar to look for enemies
+        }
+    }
+
+    @Override
+    public void onScannedBot(ScannedBotEvent e) {
+        lastEnemyX = e.getX();
+        lastEnemyY = e.getY();
+
+        double myX = getX();
+        double myY = getY();
+
+        double dx = lastEnemyX - myX;
+        double dy = lastEnemyY - myY;
+        double distance = Math.hypot(dx, dy);
+
+        if (distance < 150) {
+            fire(3);  // Use strong firepower when close
+        } else {
+            fire(1);  // Use weak firepower when far
+        }
     }
 }
 ```
 
-In `run()` you might spin the radar continuously:
+---
 
-```java
-public void run() {
-    while (true) {
-        turnRadarRight(360);
-    }
-}
-```
+## 🧠 How It Works
 
-This pattern lets your robot respond immediately when it detects an opponent.
+* `run()` spins the radar in a loop.
+* When `onScannedBot` triggers, we store the enemy's location.
+* We use `Math.hypot(dx, dy)` to calculate distance.
+* The `if` statement checks that distance to decide firepower.
 
 ---
 

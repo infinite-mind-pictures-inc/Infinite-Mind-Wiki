@@ -14,23 +14,25 @@ public void run() {
     initialize();
     while (true) {
         scanAndFire();
+        moveAroundMap();
     }
 }
 
-private void initialize() {
-    setAdjustGunForRobotTurn(true);
+public void initialize(){
+    ...
+}
+public void scanAndFire(){
+    ...
+}
+public void moveAroundMap(){
+    ...
 }
 ```
 
-Classes group both data and behavior. Every robot you create extends `AdvancedRobot` and defines its own methods.
-
-```java
-public class HelperBot extends AdvancedRobot {
-    // run() and event handlers live here
-}
-```
+The modular code will be easier to add new behaviour to and will increase your bots efficiency. 
 
 ---
+
 
 ## Navigation
 

@@ -10,7 +10,11 @@ tags: ["robocode"]
 To participate in this course, students will need the following:
 
 * **Computer**: A Windows 11 computer capable of running the latest version of Java. This ensures compatibility with Robocode and other development tools used during the camp.
-* **Java**: The most recent version of the Java Development Kit (JDK) installed.
-* **Audio Setup**: A working microphone and speaker setup for participation in discussions, asking questions, and receiving instruction during live sessions.
-* **Age Range**: This course is designed for students between the ages of 10 and 14. Prior experience is not required, although familiarity with any object-oriented programming language (like Python, C++, or JavaScript) is a plus.
-* **Able to download software**: Each student will be expected to be able to download software, such as robocode tank royale and VS code.
+* **Keyboard and Mouse**: A physical keyboard and mouse are required for programming and gameplay.
+* **Internet Connection**: A stable internet connection is essential for accessing live sessions, downloading required tools, and submitting assignments.
+* **Audio Setup**: A working microphone and speaker (or headset) setup is necessary for participating in discussions, asking questions, and receiving instruction during live sessions.
+* **Quiet Environment**: Students should have a quiet place where they can focus and participate in classroom activities without distractions.
+* **Software Installation Capability**: Students must be able to download and install software such as Robocode Tank Royale and Visual Studio Code.
+* **Paper and Pencil**: Helpful for sketching strategies, taking notes, or solving problems by hand.
+* **Age Range**: This course is designed for students aged 10 to 14. Prior programming experience is not required, though familiarity with object-oriented programming languages (e.g., Python, C++, or JavaScript) can be helpful.
+* **Parent or Guardian Support**: Especially for younger students, having an adult available to assist with installation and setup is recommended. (First day only)

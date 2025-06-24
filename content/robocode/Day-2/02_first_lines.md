@@ -3,11 +3,12 @@ title: "2 - First Lines of Code"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 enableToc: false
 ---
+
 # 🤖 Robocode Lab: Day 2 – First Lines of Code
 
 Welcome to Day 2! Today, your robot comes alive. While the core code is ready to go, this lesson is about **understanding** it and giving your bot a story.
 
-We'll explore what your robot does, how it thinks, and then give it a name and backstory. Let’s get creative while learning!
+We'll explore what your robot does, how it thinks, and then give it a name and backstory. Let’s get creative while learning some real **Java** code!
 
 ---
 
@@ -40,7 +41,7 @@ Open the `MyFirstBot.json` file in your workspace and fill in the story. Use thi
 
 ## 🕹️ Understanding the Code
 
-Open `MyFirstBot.java` and look at these main parts:
+Open `MyFirstBot.java` and look at these two main parts:
 
 ### ✅ `run()` Method
 
@@ -55,7 +56,19 @@ public void run() {
 }
 ```
 
-Your robot moves forward, spins its gun in a full circle, moves back, and repeats.
+**What it means:**
+
+* `public` means this method can be used by other parts of the program.
+* `void` means this method doesn't return a value.
+* `run()` is the method that runs when your bot starts.
+* `while (isRunning())` keeps looping as long as your bot is alive.
+* `forward(100);` and `back(100);` move the bot.
+* `turnGunLeft(360);` spins the gun all the way around.
+
+(more about this later)
+
+**Important:**
+Each line ends in a **semicolon** (`;`). This tells Java the command is done. Without it, the program won’t compile!
 
 ### 🛡️ `onScannedBot` Event
 
@@ -65,20 +78,35 @@ public void onScannedBot(ScannedBotEvent e) {
 }
 ```
 
-When your bot detects an enemy, it fires!
+**What it means:**
+
+* This method runs when your radar sees another bot.
+* `ScannedBotEvent e` gives you info about the bot it sees.
+* `fire(1);` tells your bot to shoot with power level 1.
 
 ---
 
 ## ✨ Try This
 
-Change how your robot reacts. For example:
+You can change how your robot behaves. Try changing these lines to customize its style:
 
 ```java
-fire(3);  // Increase attack power
+fire(3); // Increase attack power (range: 0.1 to 3.0)
+forward(200); // Go farther forward before turning
+turnGunLeft(720); // Scan with two full turns instead of one
 ```
 
-Want it to move faster or scan more often? Tweak the `forward()` or `turnGunLeft()` values.
+Want to add more? Try:
 
+```java
+turnRight(90); // Turn the robot body
+```
+
+> Remember: Every Java statement must end with a **semicolon (;)**.
+
+---
+
+You're now officially a Java coder! 🚀 Keep experimenting with values and events to make your bot stronger and smarter.
 
 ## 🔗 Navigation
 

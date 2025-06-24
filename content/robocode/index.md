@@ -9,7 +9,7 @@ Welcome to the Java **Robocode** course! This ten-day creative coding journey bl
 
 <img src="/images/low/robocode/robocode_intro.webp" alt="robocode bot" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
-Students with prior programming experience (in Python, C++, or JavaScript) may choose to begin directly with **Week 2**.
+Students with prior programming experience may choose to begin directly with **Week 2**.
 
 ---
 

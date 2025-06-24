@@ -3,78 +3,103 @@ title: "2 - Debugging with Patience"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
-> Ready for **2 - Debugging with Patience** 😀
+> Welcome to **2 - Debugging with Patience** 🧘
 
-# 🐞 Using the Robocode Program to Debug
+# 🛠️ Debugging Your Bot in Robocode
 
-This class is about watching your robot **closely**. You’ll run your bot in the Robocode program, observe what it does, and learn to fix problems step by step.
-
----
-
-## 🎯 Your Goal
-
-You’ll be improving and troubleshooting your own robot using real-time feedback. This is a **programming day**, so you'll test ideas and fix bugs by watching how your bot behaves in the arena.
+Today we focus on *watching your robot carefully*. You’ll use the Robocode program to run your bot, see what it does, and fix any issues that come up.
 
 ---
 
-## 🛠️ Simple Techniques
+## 🎯 Mission Objective
 
-Here are easy tools to help you debug:
+You will practice **testing and improving your robot** based on what you observe. This is a **coding day**, so get ready to experiment, break things, and fix them again. That’s how great robots are made!
 
-* **Print messages** with `System.out.println()` — show when actions happen.
-* **Test often** — run your robot after each small change.
-* **Check assumptions** — print out variables like energy, position, or direction.
+---
+
+## 🔧 Debugging Tools
+
+Use these simple tricks to track down bugs:
+
+* Print messages using `System.out.println()` to see what your bot is doing.
+* Test your bot after *each small change*.
+* Print out key values to double-check your thinking.
 
 ```java
 System.out.println("Energy: " + getEnergy());
 System.out.println("Heading: " + getDirection());
 ```
 
-> These messages appear in the terminal when your bot runs.
+> These messages will show up in the terminal when your bot runs.
 
 ---
 
-## ⏱️ Control the Game Speed
+## 🕹️ Slow Down the Action
 
-The Robocode program includes tools to help you analyze each turn:
+Robocode has built-in tools for slowing things down and pausing the game:
 
-* Use the **TPS slider** to slow down the game.
-* Use **Pause** and **Resume** to stop and start the match.
-* Click **Next Turn** to move forward one tick at a time — perfect for step-by-step analysis since the game is technically turn-based.
+* Drag the **TPS slider** to reduce the speed.
+* Use **Pause** and **Resume** to freeze and unfreeze the battle.
+* Click **Next Turn** to advance one frame at a time.
 
-> Watching your robot frame-by-frame can reveal exactly where things go wrong.
-
----
-
-## 🔍 Example Flow
-
-1. Run your robot and **watch what it does**.
-2. Use the TPS slider to slow things down if needed.
-3. If something looks weird, **pause and add a print**.
-4. Run again and check if your guess was right.
-5. Make one small change. Test again.
-
-> Stay curious. Fixing bugs is about being a **detective**.
+> Analyzing your bot's behavior turn by turn helps you pinpoint exactly when things go wrong.
 
 ---
 
-## 💬 If Something Breaks
+## 🔄 Step-by-Step Debugging Example
 
-* Read the error message slowly.
-* See what line it talks about.
-* Try changing one thing at a time.
+1. Run your bot and **observe** how it behaves.
+2. Slow the game down using the TPS slider.
+3. If something doesn't make sense, **pause** and add a debug print.
+4. Run it again and read the output.
+5. Try a tiny change. Repeat the test.
+
+> Debugging is like being a detective. Use clues to solve the mystery.
+
+---
+
+## ⚠️ When Errors Appear
+
+If you get a red error message, don’t panic. Here's what to do:
+
+* Read the message carefully.
+* Look at the line number mentioned.
+* Print out variables near that line to help figure out what's missing.
 
 ```java
 Exception in thread "main" java.lang.NullPointerException...
 ```
 
-> This means something wasn't set up. Print what you expected to be there.
+> This means something your code used was empty. Try printing it before the crash.
 
 ---
 
-## 💡 Final Advice
+## 🏆 Bot Leaderboard: Start Small
 
-Be kind to yourself. Everyone gets bugs. Debugging is **how** you learn. The more you observe, the better you'll build.
+You'll likely begin near the bottom of the rankings. That's okay! Watch how other bots behave and improve your own strategy.
+
+| Rank | Name                           |
+| ---- | ------------------------------ |
+| 1    | Spin Bot 1.0                   |
+| 2    | Walls 1.0                      |
+| 3    | Crazy 1.0                      |
+| 4    | Track Fire 1.0                 |
+| 5    | Infinite Mind Pictures Bot 1.0 |
+| 6    | Velocity Bot 1.0               |
+| 7    | Ram Fire 1.0                   |
+| 8    | My First Bot 1.0               |
+| 9    | Painting Bot 1.0               |
+| 10   | Fire 1.0                       |
+| 11   | Corners 1.0                    |
+| 12   | Target 1.0                     |
+
+---
+
+## 💡 Pro Tip
+
+Everyone runs into bugs. Even the best coders! Debugging is not just about fixing errors — it’s *how* you learn how your robot really works.
+
+Keep asking: "What did I *expect* to happen? What actually happened?"
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Day 10 - Tournament & Reflection
+title: Day 10
 
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---

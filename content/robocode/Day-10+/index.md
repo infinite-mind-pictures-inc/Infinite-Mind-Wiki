@@ -1,5 +1,5 @@
 ---
-title: Day 10+ - Advanced Upgrades
+title: Day 10+
 
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---

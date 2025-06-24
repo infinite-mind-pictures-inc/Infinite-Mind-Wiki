@@ -1,5 +1,5 @@
 ---
-title: Day 8 - Strategy Design
+title: Day 8 
 
 tags: ["robocode", "contents", "cs", "intermediate"]
 ---

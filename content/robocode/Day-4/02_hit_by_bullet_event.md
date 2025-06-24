@@ -100,7 +100,7 @@ Want to add a bullet log or heat map later? You’re already halfway there! 🧠
 
 ---
 
-[Minigame](/robocode/day-4/04-minigame)
+[Minigame](/robocode/Day-4/04-minigame)
 
 ## Navigation
 

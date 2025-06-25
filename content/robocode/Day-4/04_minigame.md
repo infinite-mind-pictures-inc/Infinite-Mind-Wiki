@@ -27,9 +27,16 @@ Your robot has a special heads-up display (HUD) to help you see what’s going o
 
 ## 🎯 Dots on the Compass
 
-* 🔴 **Red Dot** – Where the opponent robot was last seen
-* 🔵 **Blue Dot** – Which way your gun (turret) is pointing
-* 🟢 **Green Dot** – Which way your tank is pointing
+Use this guide to understand the colored dots on PlayerBot’s on‑screen compass.
+
+| Dot           | Meaning                                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Red**    | Opponent’s **current** location (shown right after a scan).                                                           |
+| 🟡 **Yellow** | Opponent’s **previous** location. The red dot turns yellow once the enemy moves, so you can see where they were last. |
+| 🔵 **Blue**   | Direction your **gun turret** is pointing.                                                                            |
+| 🟢 **Green**  | Direction your **tank body** is pointing.                                                                             |
+
+Keep an eye on how the red dot switches to yellow—this tells you the enemy has changed position since your last scan.
 
 ---
 
@@ -74,66 +81,60 @@ Use this info to aim, dodge, and stay in the fight!
 
 ## ⚙️ Setup Instructions
 
-
 Follow these steps to set up your PlayerBot and get it running in a Robocode Tank Royale match!
 
 ---
 
 ### 1. 📁 Download the Files
 
-Your instructor will give you two files:
+Your instructor will give you a file:
 
-* `PlayerBot.java`
-* `run.cmd`
+* `PlayerBotLauncher.jar`
 
-Save both files in the same folder. Create a new folder on your Desktop called `PlayerBot`, and place the files there.
+Save this file somewhere easy to find, such as a folder on your Desktop. You can name the folder `PlayerBot`.
 
 ---
 
-### 2. 🧑‍💻 Open the Folder in VS Code
+### 2. 🧑‍💻 Open the Launcher
 
-1. Open **VS Code**.
-2. Click **File > Open Folder**.
-3. Select the `PlayerBot` folder you created.
+1. Double-click `PlayerBotLauncher.jar` to run it.
+2. A small window will appear asking you to enter two things:
 
-You should now see the `PlayerBot.java` and `run.cmd` files in the Explorer sidebar.
+   * **Server Address** – this should start with `ws://`
+   * **Server Secret** – you'll get this from your local server setup.
 
 ---
 
 ### 3. 🔐 Get Your Server Secret
 
 1. Start the **Robocode Tank Royale Launcher**.
+
 2. Click **Start Local Server** (this sets up your own battle arena).
+
 3. Go to your Robocode server folder and open the file `server.properties`.
+
 4. Find the line that says:
 
+   ```
+   bots-secrets = YOUR_SECRET_KEY
+   ```
 
-```
-bots-secrets = YOUR\_SECRET\_KEY
-
-```
-
-5. Copy the long secret key after the `=`.
+5. Copy the long secret key after the `=` sign.
 
 ---
 
-### 4. 📝 Paste the Secret in `PlayerBot.java`
+### 4. 🚀 Launch Your Bot
 
-1. In VS Code, open `PlayerBot.java`.
-2. Find this part near the top:
+1. Paste the address (usually `ws://localhost:7654`) into the address box.
+2. Paste your secret key into the secret box.
+3. Click the **Launch Bot** button.
+4. If everything is set up correctly, you’ll see your bot appear in the list of ready bots when starting a match.
 
-```java
-private static final String DEFAULT_URL = "ws://localhost:7654";
-private static final String DEFAULT_SECRET = "Zur2Fpt1ExRc5G3WSO/8oM574f/pmEbZ22bqXHlm4/";
-````
+---
 
-3. Replace the value of `DEFAULT_SECRET` with your copied secret. Example:
+You're now ready to battle! 🎯
 
-   ```java
-   private static final String DEFAULT_SECRET = "your-real-secret-goes-here";
-   ```
-
-4. Save the file (**Ctrl+S** or **Cmd+S**).
+If something doesn’t work, double-check the address and secret you typed in. Make sure your local server is running before launching the bot.
 
 ---
 

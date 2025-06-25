@@ -38,7 +38,7 @@ Start with a basic dodge:
 public void onHitByBullet(HitByBulletEvent e) {
     System.out.println("Ouch! Bullet from: " + e.getBearing());
     turnRight(normalizeBearing(e.getBearing() + 90)); // Turn perpendicular to the bullet
-    ahead(100); // Move to dodge
+    forward(100); // Move to dodge
 }
 ```
 
@@ -58,8 +58,8 @@ Enemies may adapt to predictable dodges. Add randomness:
 @Override
 public void onHitByBullet(HitByBulletEvent e) {
     double direction = Math.random() > 0.5 ? 1 : -1; // Flip a coin
-    turnRight(normalizeBearing(e.getBearing() + (90 * direction)));
-    ahead(50 + Math.random() * 100); // Vary the distance
+    turnRight(normalizeBearing(90 * direction));
+    forward(50 + Math.random() * 100); // Vary the distance
 }
 ```
 

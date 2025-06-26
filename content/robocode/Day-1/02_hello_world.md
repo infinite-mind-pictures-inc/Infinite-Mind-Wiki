@@ -24,6 +24,9 @@ public class HelloWorld {
 ## 🏃‍♀️ Run the Program
 
 Use your terminal in VS Code
+* **Windows:** choose PowerShell or Command Prompt via **Terminal → New Terminal**.
+* **macOS:** open the integrated terminal or use the macOS **Terminal** app.
+
 ```bash
 javac HelloWorld.java
 java HelloWorld

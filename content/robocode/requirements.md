@@ -9,7 +9,7 @@ tags: ["robocode"]
 
 To participate in this course, students will need the following:
 
-* **Computer**: A Windows 11 computer capable of running the latest version of Java. This ensures compatibility with Robocode and other development tools used during the camp.
+* **Computer**: A Windows 11 or macOS computer capable of running the latest version of Java. This ensures compatibility with Robocode and other development tools used during the camp.
 * **Keyboard and Mouse**: A physical keyboard and mouse are required for programming and gameplay.
 * **Internet Connection**: A stable internet connection is essential for accessing live sessions, downloading required tools, and submitting assignments.
 * **Audio Setup**: A working microphone and speaker (or headset) setup is necessary for participating in discussions, asking questions, and receiving instruction during live sessions.

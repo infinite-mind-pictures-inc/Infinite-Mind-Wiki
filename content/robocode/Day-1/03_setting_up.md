@@ -24,6 +24,8 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 ## Step 2: Extract and Open the Project
 
 1. Unzip the folder to your desktop.
+   - **Windows:** right-click and choose **Extract All...**
+   - **macOS:** double-click the zip file to extract.
 2. Inside, you'll see a folder named `RoboCode`.
 3. Open your VS Code.
 4. Use **File → Open Folder** and select the `RoboCode/robots/MyFirstRobot` directory on your desktop.
@@ -31,6 +33,8 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 ## Step 3: Verify the Setup
 
 - Open the Robocode application from the `robocode` folder.
+  - **Windows:** double-click `robocode.bat`.
+  - **macOS:** run `./robocode.sh` from Terminal or open `Robocode.app`.
 - Open the `robots` folder in your editor — it should contain a file like `MyFirstRobot.java`.
 - You're now ready to write your first robot logic!
 

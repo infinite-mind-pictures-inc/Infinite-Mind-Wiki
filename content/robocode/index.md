@@ -36,7 +36,7 @@ They will:
 
 - 🎯 Create scanning and dodging logic
 - 🧠 Learn to manage robot energy/state
-- ✏️ Sketch robot behavior using visual tools (UML, flowcharts)
+- ✏️ Sketch robot behavior using flowcharts
 
 Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback**, and **shared joy**.
 

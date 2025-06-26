@@ -29,7 +29,7 @@ Your robot has a special heads-up display (HUD) to help you see what’s going o
 
 Use this guide to understand the colored dots on PlayerBot’s on‑screen compass.
 
-| Dot           | Meaning                                                                                                               |
+| Dot Colour    | Meaning                                                                                                               |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- |
 | 🔴 **Red**    | Opponent’s **current** location (shown right after a scan).                                                           |
 | 🟡 **Yellow** | Opponent’s **previous** location. The red dot turns yellow once the enemy moves, so you can see where they were last. |

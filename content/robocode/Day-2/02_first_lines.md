@@ -35,6 +35,13 @@ Open the `MyFirstBot.json` file in your workspace and fill in the story. Use thi
 }
 ```
 
+### What is JSON?
+
+**JSON** stands for **JavaScript Object Notation**. It's a lightweight text
+format used to organize data into **key–value pairs**. Your `.json` file keeps
+track of your robot's name, version, authors and more in a form that both people
+and programs can easily read.
+
 > ✅ Share your bot's name and backstory with the class when you're ready!
 
 ---

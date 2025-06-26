@@ -25,6 +25,13 @@ tags: ["robocode", "contents", "cs", "intermediate"]
 
 We focus on design first so your next code iteration is intentional and efficient.
 
+### What are UML and Flowcharts?
+
+**UML (Unified Modeling Language)** diagrams are simple pictures that show how
+different parts of a program relate to each other. **Flowcharts** are step‑by‑step
+maps that illustrate decisions and actions. Both help you plan your robot's
+behavior before writing code.
+
 ## Pages
 - [Hit Reaction Plan](/robocode/Day-8/00_hit_reaction_plan)
 - [Survival Strategies](/robocode/Day-8/01_survival_strategies)

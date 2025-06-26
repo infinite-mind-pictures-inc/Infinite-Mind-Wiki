@@ -11,26 +11,78 @@ Before you write a single line of code, it helps to map out what your robot will
 
 ---
 
-## 🔁 Flowchart: When You're Hit
+# 🚦 Simple Event Flow – **Robocode Tank Royale** Bot
 
-This diagram shows how your bot might react to being hit by a bullet:
+This kid‑friendly flowchart shows **what happens each game tick**. In Tank Royale the game engine automatically calls the three event methods *first*. If none of them fire, your `run()` code is the **fallback** that keeps your bot moving and scanning.
+
+* **`onScannedBot(ScannedBotEvent e)`** – you spotted an opponent.
+* **`onHitByBullet(HitByBulletEvent e)`** – you were hit by a bullet.
+* **`onHitWall(HitWallEvent e)`** – you bumped a wall.
+* **`run()`** – your main loop; it runs every tick **after** the engine has delivered any events.
+
+---
 
 ```text
-   [HitByBulletEvent]
-            |
-   +--------+--------+
-   | Energy below 30 |
-   +---+--------+----+
-       |        |
-     yes       no
-       |        |
-  [Retreat] [Turn Perpendicular]
-       |        |
-  [Zigzag + Scan]   [Fire Back]
+             [Game Tick]
+                   |
+                   v
+        +-----------------------+
+        | Engine Delivers Event |
+        +-----------------------+
+             /   |     \   \
+            /    |      \   \
+ [onScannedBot] [onHitByBullet] [onHitWall]
+        |               |               |
+        v               v               v
+  +-------------+  +-------------+   +--------------+
+  |  Aim & Fire |  | Low Energy? |   | Back Off &   |
+  | (choose P)  |  +----+--------+   | Turn Away    |
+  +-------------+      |            +-------+-------+
+                       |yes         |
+                       v            |
+                 +-------------+    |
+                 | Retreat &   |    |
+                 | Zig‑Zag     |    |
+                 +-------------+    |
+                       |            |
+                      no            |
+                       |            |
+                       v            |
+                 +-------------+    |
+                 | Dodge &     |    |
+                 | Counter‑Fire |    |
+                 +-------------+    |
+                       |            |
+                       +------------+-----------+
+                                     |
+                                     v
+                        [No Event? ➜  run()]
+                                     |
+                                     v
+                          +-------------------+
+                          | Default Action    |
+                          | (scan & patrol)   |
+                          +-------------------+
+                                     |
+                                     v
+                                 [Next Tick]
 ```
 
-* If energy is low, the bot retreats and zigzags to avoid more hits.
-* If energy is high, it dodges and counterattacks.
+### How to Read It
+
+1. **Engine Delivers Event** – At the start of every tick the engine checks: Did you scan a bot? Were you hit? Did you hit a wall?
+2. **Event Branches** – Only one branch runs per tick:
+
+   * **`onScannedBot`** – Point the gun, decide firepower, shoot.
+   * **`onHitByBullet`** – If energy < 30, retreat & zig‑zag; otherwise dodge perpendicular and counter‑fire.
+   * **`onHitWall`** – Reverse a bit and turn 90° away from the wall.
+3. **`run()` as Fallback** – If **no event** fired, the engine next calls `run()` for this tick. Use it for default scanning, radar sweeps, or patrolling.
+4. **Loop** – The process repeats on the next tick.
+
+---
+
+✏️ **Your Task:** Copy this flow on paper, adjust the numbers (retreat distance, firepower, dodge angle) to your liking, and then mirror each box in your Java code. Visual planning keeps your bot’s logic clear and easy to debug!
+
 
 ---
 

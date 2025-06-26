@@ -172,10 +172,6 @@ Having trouble joining the server? Don't worry — here are some quick fixes and
   * Set your render distance to **9** or lower in settings.
   * Restart your game after adjusting render distance.
 
-* **Login/authentication problems**
-
-  * Ensure you're signed in with a Microsoft account that has *both* Java and Bedrock editions.
-
 * **Joining community server instead of therenewal.earth**
 
   * Double check DNS configuration

@@ -3,104 +3,49 @@ title: "3 - HitByBulletEvent"
 tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 ---
 
-> Welcome to **4 - Evade When Hit** 🕵️
+## 4 – Dodge When Hit (Super Simple)
 
-# 💥 Dodging Bullets with `HitByBulletEvent`
+When a bullet hits your robot, the `onHitByBullet` method runs.
 
-In Robocode, every time an enemy bullet hits you, a special event is triggered: `HitByBulletEvent`. You can use this moment to react — like dodging, logging, or planning revenge.
+### What happens?
 
-Let's build a smart reaction system step by step!
+* Robocode tells your bot, “You were hit!”
+* We’ll just turn and drive away — no tricky math.
 
----
-
-## 🧠 Step 1: What Is `HitByBulletEvent`?
-
-When you’re hit, this method runs:
-
-```java
-public void onHitByBullet(HitByBulletEvent e) {
-    // Reaction code here
-}
-```
-
-The event gives you one key thing:
-
-* `e.getBearing()` → The angle (relative to your bot) from which the bullet came.
-
----
-
-## 🛞 Step 2: Simple Dodge Strategy
-
-Start with a basic dodge:
+### Code
 
 ```java
 @Override
 public void onHitByBullet(HitByBulletEvent e) {
-    System.out.println("Ouch! Bullet from: " + e.getBearing());
-    turnRight(normalizeBearing(e.getBearing() + 90)); // Turn perpendicular to the bullet
-    forward(100); // Move to dodge
+    // 1. Turn 90° from our current direction
+    turnRight(90);
+
+    // 2. Drive forward to a new spot
+    forward(120);
 }
 ```
 
-This turns your robot 90° from where the bullet came — a common trick to avoid follow-up shots.
+That’s it! Your robot takes a quick sidestep and keeps rolling.
 
-### 🎯 Why 90 Degrees?
+### Why it works
 
-Enemy bots often keep firing in the same direction. So if you got hit, don’t stay in that line!
+* Turning 90° gets you off the line the bullet was travelling.
+* Driving forward puts distance between you and the danger.
 
----
+### Next idea
 
-## 🔁 Step 3: Add Variation
-
-Enemies may adapt to predictable dodges. Add randomness:
+If you want to get fancy later, you can check where you are on the field with:
 
 ```java
-@Override
-public void onHitByBullet(HitByBulletEvent e) {
-    double direction = Math.random() > 0.5 ? 1 : -1; // Flip a coin
-    turnRight(normalizeBearing(90 * direction));
-    forward(50 + Math.random() * 100); // Vary the distance
-}
+double x = getX();
+double y = getY();
 ```
 
-Now you’re harder to hit twice in a row! 🤖💨
+…and use `getDirection()` to decide which way is safest.
 
----
+But for now, this two‑line dodge keeps things simple and fun.
 
-## 🧰 Utility: Normalize Angle
-
-This keeps angles between -180° and 180°:
-
-```java
-private double normalizeBearing(double angle) {
-    while (angle > 180) angle -= 360;
-    while (angle < -180) angle += 360;
-    return angle;
-}
-```
-
----
-
-## 🧪 Try It Yourself
-
-1. Add the method above to your robot.
-2. Run a battle against a stationary bot.
-3. Watch your bot dodge each time it's hit!
-
----
-
-## 🧭 Next Steps
-
-You can combine this with `ScannedBotEvent` to make smarter dodging decisions:
-
-* Only dodge if the enemy is close.
-* Track where most hits come from.
-
-Want to add a bullet log or heat map later? You’re already halfway there! 🧠✨
-
----
-
-[Minigame](/robocode/Day-4/04-minigame)
+[Minigame](/robocode/Day-4/04_minigame)
 
 ## Navigation
 

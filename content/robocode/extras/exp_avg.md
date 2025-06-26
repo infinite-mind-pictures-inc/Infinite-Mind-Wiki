@@ -99,6 +99,5 @@ Your UI idea: **“Exponential Averaging” checkbox**
 
 1. **Slider Test:** Let α slide from 0.05 to 0.6 and watch how the dot behaves.
 2. **Dodge Bot:** Fight a bot that swerves a lot. Which α keeps your aim most accurate?
-3. **Graph It:** Record angles and averages, then draw a line graph to *see* the smoothing.
 
 Have fun experimenting and may your turret find its mark! 🎯

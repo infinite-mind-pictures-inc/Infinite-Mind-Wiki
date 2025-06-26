@@ -44,6 +44,7 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 [Course Requirements](/robocode/requirements)
 [Course Outcomes](/robocode/outcomes)
+[Extras](/robocode/extras/)
 
 ---
 

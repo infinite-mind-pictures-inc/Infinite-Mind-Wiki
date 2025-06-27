@@ -49,5 +49,5 @@ Hello World!
 
 ## 🗺️ Navigation
 
-⬅️ [Back: Setup with VS Code](/robocode/Day-1/01_setup_vscode)
-➡️ [Next: Setting Up Robocode](/robocode/Day-1/03_setting_up)
+⬅️ [Back: Setting Up Robocode](/robocode/Day-1/03_setting_up)
+➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)

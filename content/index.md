@@ -1,7 +1,9 @@
 ---
 title: "Home"
 tags: ["intro", "contents"]
+enableToc: false
 ---
+
 Welcome to **Infinite Mind Pictures Wiki** — a collection of interactive learning modules and experiments.
 
 ## Content

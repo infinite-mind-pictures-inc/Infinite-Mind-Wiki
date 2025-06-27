@@ -8,7 +8,7 @@ tags: ["robocode", "contents", "cs", "beginner"]
 
 * Install the latest **Java JDK** so you can compile code
 * Download **Visual Studio Code** with the Java extension pack
-* Grab the **Robocode** installer from <https://robocode.sourceforge.net>
+* Setup the robocode program
 * Steps below include notes for **Windows** and **macOS** users
 
 ## Lesson Outcomes

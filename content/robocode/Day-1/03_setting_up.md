@@ -47,5 +47,5 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ## Navigation
 
-⬅️ [Back: Hello World Program](/robocode/Day-1/02_hello_world)
-➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)
+⬅️ [Back: Setup with VS Code](/robocode/Day-1/01_setup_vscode)
+➡️ [Next: Hello World Program](/robocode/Day-1/02_hello_world)

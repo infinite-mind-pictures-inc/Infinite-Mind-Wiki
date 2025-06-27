@@ -21,7 +21,7 @@ Welcome to your next quest: setting up your Java tools using **Visual Studio Cod
 
 
 2. ☕ Install the [Java Development Kit (JDK)](https://www.oracle.com/cis/java/technologies/downloads/) — version 21 or later is perfect.
-   - **Windows:** download the installer and click through the setup wizard.
+   - **Windows:** navigate to the **Windows** section and download the `x64 MSI Installer`. Run it and follow the setup wizard.
    - **macOS:** grab the `.dmg` file or `brew install temurin` if you use Homebrew.
 
 
@@ -40,6 +40,7 @@ Welcome to your next quest: setting up your Java tools using **Visual Studio Cod
 1. Create your `HelloWorldTest` folder on your desktop.
 2. Inside VS Code, go to **File → Open Folder...** and choose your `HelloWorldTest` folder.
 3. Create a `src` folder — this is where your Java magic will live!
+4. If VS Code asks whether you **trust** the workspace, choose **Trust** and install any recommended extensions.
 
 
 ## ✅ Step 3: Prep for First Program
@@ -51,4 +52,4 @@ Make sure everything is installed and working — we’ll write our first progra
 ## 🗺️ Navigation
 
 ⬅️ [Back: Introduction](/robocode/Day-1/00_java_intro)
-➡️ [Next: Hello World Program](/robocode/Day-1/02_hello_world)
+➡️ [Next: Setting Up Robocode](/robocode/Day-1/03_setting_up)

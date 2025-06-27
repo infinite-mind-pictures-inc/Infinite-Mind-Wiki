@@ -18,6 +18,7 @@ tags: ["robocode", "contents", "cs", "beginner"]
 * Understand how to compile and run Java files from the editor
 
 > Gear up for **Day 1** 😀
+- [Introductions](/robocode/Day-1/introductions)
 - [Outline](/robocode/Day-1/00_java_intro)
 - [Setup with VS Code](/robocode/Day-1/01_setup_vscode)
 - [Hello World Program](/robocode/Day-1/02_hello_world)

@@ -50,66 +50,66 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 ## 📆 Day-by-Day Highlights
 
-### [🧭 Day 1: Begin the Journey](/robocode/Day-1/00_java_intro)
+### [🧭 Day 1: Begin the Journey](/robocode/Day-1/)
 
 - Install Java & Robocode
 - Run a “Hello World” test
 - Explore the Robocode arena (offline & online options)
 
-### [🤖 Day 2: First Robot](/robocode/Day-2/00_robocode_intro)
+### [🤖 Day 2: First Robot](/robocode/Day-2/)
 
 - Code and compile a robot
 - Meet Robocode methods like `run()` and `turnGunRight()`
 - Learn the fundamental geometry used in robocode
 
-### [🌿 Day 3: Variables & Values](/robocode/Day-3/00_variables_and_datatypes)
+### [🌿 Day 3: Variables & Values](/robocode/Day-3/)
 
 - Learn `int`, `double`, `String`
 - Use variables to track energy and direction
 - Design robots with identity
 
-### [🌀 Day 4: Events & Output](/robocode/Day-4/00_system_out_debugging)
+### [🌀 Day 4: Events & Output](/robocode/Day-4/)
 
 - React to `ScannedRobotEvent`, `HitByBulletEvent`
 - Use print statements as narrative tools
 - Celebrate every bug as a clue
 
-### [🔁 Day 5: Logic & Loops](/robocode/Day-5/00_boolean_basics)
+### [🔁 Day 5: Logic & Loops](/robocode/Day-5/)
 
 - Apply `if`, `else`, `while`, `for`
 - Build bots that adapt
 - Invite feedback from peers
 
-### [✨ Day 6: Methods & Classes](/robocode/Day-6/00_methods_and_classes)
+### [✨ Day 6: Methods & Classes](/robocode/Day-6/)
 
 - Break code into helper methods
 - Discuss ownership and naming in code
 
-### [🧯 Day 7: Debugging & Error Care](/robocode/Day-7/00_try_catch)
+### [🧯 Day 7: Debugging & Error Care](/robocode/Day-7/)
 
 - Practice `try/catch`
 - Understand basic debugging
 - Model problem-solving through **patience and friendliness**
 
-### [📐 Day 8: Strategy Design](/robocode/Day-8/00_hit_reaction_plan)
+### [📐 Day 8: Strategy Design](/robocode/Day-8/)
 
 - Plan robot behavior with diagrams and flowcharts
 - Brainstorm strategies for survival, not just attack
 - Refactor your robot for cleaner performance
 
-### [🛠️ Day 9: Project Build](/robocode/Day-9/index)
+### [🛠️ Day 9: Project Build](/robocode/Day-9/)
 
 - Full build day with mentors
 - Encourage cascade mentorship
 - Invite community check-ins and progress showcases
 
-### [🌈 Day 10: Tournament & Reflection](/robocode/Day-10/index)
+### [🌈 Day 10: Tournament & Reflection](/robocode/Day-10/)
 
 - Celebrate through a **friendly competition**
 - Showcase unique robot designs and strategies
 - Reflect on journey using peer & self-assessment tools
 
-### [🚀 Day 10+: Advanced Upgrades](/robocode/Day-10+/index)
+### [🚀 Day 10+: Advanced Upgrades](/robocode/Day-10+/)
 
 - Chain lessons on predictive firing, movement patterns, and radar locking
 

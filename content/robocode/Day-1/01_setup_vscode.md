@@ -1,8 +1,8 @@
 ---
-title: "2 - Setup with VS Code"
+title: "3 - Setup with VS Code"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
-> 🧰 Time to gear up in **2 - Setup with VS Code** 🎮
+> 🧰 Time to gear up in **3 - Setup with VS Code** 🎮
 
 # Set Up Java with Visual Studio Code
 
@@ -35,21 +35,10 @@ Welcome to your next quest: setting up your Java tools using **Visual Studio Cod
 <img src="/images/low/robocode/java_extensions.webp" alt="vs code download screen" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
 
-## 📂 Step 2: Create Your Robot Lab
-
-1. Create your `HelloWorldTest` folder on your desktop.
-2. Inside VS Code, go to **File → Open Folder...** and choose your `HelloWorldTest` folder.
-3. Create a `src` folder — this is where your Java magic will live!
-4. If VS Code asks whether you **trust** the workspace, choose **Trust** and install any recommended extensions.
-
-
-## ✅ Step 3: Prep for First Program
-
-Make sure everything is installed and working — we’ll write our first program on the next page! 😄
 
 ---
 
 ## 🗺️ Navigation
 
 ⬅️ [Back: Introduction](/robocode/Day-1/00_java_intro)
-➡️ [Next: Setting Up Robocode](/robocode/Day-1/03_setting_up)
+➡️ [Next: Setting Up Robocode](/robocode/Day-1/02_setting_up)

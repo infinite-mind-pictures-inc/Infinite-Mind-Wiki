@@ -1,12 +1,24 @@
 ---
-title: "3 - Hello World"
+title: "4 - Hello World"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
-> Let’s jump into **3 - Hello World** 🎉
+> Let’s jump into **4 - Hello World** 🎉
 
 # 🧪 Your First Java Program
 
 Now that your Java tools are ready, it’s time to write your very first Java program! This tiny adventure checks that everything’s working — and gives your computer its first friendly greeting from you 🤗.
+
+## 📂 Step 2: Create Your Robot Lab
+
+1. Create your `HelloWorldTest` folder on your desktop.
+2. Inside VS Code, go to **File → Open Folder...** and choose your `HelloWorldTest` folder.
+3. Create a `src` folder — this is where your Java magic will live!
+4. If VS Code asks whether you **trust** the workspace, choose **Trust** and install any recommended extensions.
+
+
+## ✅ Step 3: Prep for First Program
+
+Make sure everything is installed and working — we’ll write our first program on the next page! 😄
 
 ## ✍️ Write the Code
 
@@ -47,7 +59,13 @@ Hello World!
 
 ---
 
+➡️ [🤖 Minigame!](/robocode/Day-1/04_minigame)
+
+
+---
+
+
 ## 🗺️ Navigation
 
-⬅️ [Back: Setting Up Robocode](/robocode/Day-1/03_setting_up)
+⬅️ [Back: Setting Up Robocode](/robocode/Day-1/02_setting_up)
 ➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)

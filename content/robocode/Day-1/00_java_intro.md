@@ -1,5 +1,5 @@
 ---
-title: "1 - Outline"
+title: "2 - Outline"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 
@@ -21,4 +21,5 @@ Get ready to go from zero to *zooom!* 🏎️
 
 ## ⏭️ Next Quest
 
+⬅️ [Back: Introduction](/robocode/Day-1/introductions)
 ➡️ [Next: Setup with VS Code](/robocode/Day-1/01_setup_vscode)

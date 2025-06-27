@@ -1,5 +1,5 @@
 ---
-title: "Online Introductions"
+title: "1 - Introductions"
 ---
 
 
@@ -39,3 +39,10 @@ Hi! I’m **Sam**. I like programming because it feels like building little mach
 ---
 
 We’ll go one by one, or you can volunteer if you’d like to go first. Let’s begin!
+
+---
+
+
+## ⏭️ Next Quest
+
+➡️ [Next: Setup with VS Code](/robocode/Day-1/00_java_intro)

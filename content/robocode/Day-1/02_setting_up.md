@@ -1,5 +1,5 @@
 ---
-title: "3 - Setting Up Robocode"
+title: "5 - Setting Up Robocode"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 
@@ -43,9 +43,8 @@ Download the ZIP file provided by your instructor. It contains everything you ne
 
 ---
 
-➡️ [🤖 Minigame!](/robocode/Day-1/04_minigame)
 
 ## Navigation
 
 ⬅️ [Back: Setup with VS Code](/robocode/Day-1/01_setup_vscode)
-➡️ [Next: Hello World Program](/robocode/Day-1/02_hello_world)
+➡️ [Next: Hello World Program](/robocode/Day-1/03_hello_world)

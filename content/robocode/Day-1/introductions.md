@@ -45,4 +45,4 @@ We’ll go one by one, or you can volunteer if you’d like to go first. Let’s
 
 ## ⏭️ Next Quest
 
-➡️ [Next: Setup with VS Code](/robocode/Day-1/00_java_intro)
+➡️ [Next: Outline](/robocode/Day-1/00_java_intro)

@@ -40,5 +40,5 @@ Welcome to your next quest: setting up your Java tools using **Visual Studio Cod
 
 ## 🗺️ Navigation
 
-⬅️ [Back: Introduction](/robocode/Day-1/00_java_intro)
+⬅️ [Back: Outline](/robocode/Day-1/00_java_intro)
 ➡️ [Next: Setting Up Robocode](/robocode/Day-1/02_setting_up)

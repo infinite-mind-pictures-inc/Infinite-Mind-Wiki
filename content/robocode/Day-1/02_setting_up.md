@@ -1,9 +1,9 @@
 ---
-title: "5 - Setting Up Robocode"
+title: "4 - Setting Up Robocode"
 tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
 ---
 
-> Let's tackle **3 - Setting Up Robocode** 😀
+> Let's tackle **4 - Setting Up Robocode** 😀
 
 # Robocode Lab: Day 1 – Setting Up Robocode
 

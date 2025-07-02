@@ -1,7 +1,12 @@
 ---
 
 title: "1 - System.out.println for Debugging"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Let's jump into **1 - System.out.println for Debugging** 😎

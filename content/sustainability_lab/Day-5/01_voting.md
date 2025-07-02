@@ -1,6 +1,11 @@
 ---
 title: "2 - Voting Mini-Game"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Curious about **2 - Voting Mini-Game** 🔥

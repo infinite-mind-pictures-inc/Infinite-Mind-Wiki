@@ -1,7 +1,12 @@
 ---
 
 title: "2 - Choose Your Animal"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Ready to dive into **2 - Choose Your Animal** 🚀

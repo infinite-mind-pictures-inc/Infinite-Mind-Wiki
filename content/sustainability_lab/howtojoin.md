@@ -1,7 +1,9 @@
 ---
 
 title: "Joining the Server"
-tags: ["minecraft", "sustainability"]
+tags:
+  - minecraft
+  - sustainability
 enableToc: true
 
 ---

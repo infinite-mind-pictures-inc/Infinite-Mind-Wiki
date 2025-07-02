@@ -1,6 +1,11 @@
 ---
 title: "5 - Survival Tasks"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Excited to learn about **5 - Survival Tasks** 🚀

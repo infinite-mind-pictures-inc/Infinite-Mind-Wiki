@@ -1,6 +1,11 @@
 ---
 title: "1 - Community Government"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Let's tackle **1 - Community Government** 🔥

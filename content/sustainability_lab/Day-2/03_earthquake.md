@@ -1,6 +1,11 @@
 ---
 title: "Earthquake Prep"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Time to explore **Earthquake Prep** 🎉

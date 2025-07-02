@@ -1,6 +1,9 @@
 ---
 title: "Backstory"
-tags: ["unplugged", "story", "all-ages"]
+tags:
+  - unplugged
+  - story
+  - all-ages
 ---
 
 Far-off **Gallaxia** is filled with adventure and danger. Durriken invaders strive to rule, but glowing **Star Prisms** guard the worlds while daring Gallaxian pilots hold the line. The uneasy alliance between sectors is fraying—each suspects the others of plotting to free their "peace hostage" scientist first.

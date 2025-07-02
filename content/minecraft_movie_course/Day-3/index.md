@@ -1,5 +1,8 @@
 ---
 title: Day 3
 
-tags: ["minecraft", "film", "contents"]
+tags:
+  - minecraft
+  - film
+  - contents
 ---

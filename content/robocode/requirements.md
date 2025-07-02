@@ -1,6 +1,7 @@
 ---
 title: "Requirements"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 
 > Curious about **Requirements / Recommendations** 🤖

@@ -1,6 +1,11 @@
 ---
 title: "1 - Methods and Classes"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Diving into **1 - Methods and Classes** 🤖

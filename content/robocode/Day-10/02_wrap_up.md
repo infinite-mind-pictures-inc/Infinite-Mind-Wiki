@@ -1,6 +1,11 @@
 ---
 title: "3 - Wrapping Up"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Celebrate completing the Robocode lab.

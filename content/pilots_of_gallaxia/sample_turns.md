@@ -1,6 +1,9 @@
 ---
 title: "Sample Turns"
-tags: ["unplugged", "tutorial", "all-ages"]
+tags:
+  - unplugged
+  - tutorial
+  - all-ages
 ---
 
 ### Sample Turn A

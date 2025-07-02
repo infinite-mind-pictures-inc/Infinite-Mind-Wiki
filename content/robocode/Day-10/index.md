@@ -1,7 +1,11 @@
 ---
 title: Day 10
 
-tags: ["robocode", "contents", "cs", "intermediate"]
+tags:
+  - robocode
+  - contents
+  - cs
+  - intermediate
 ---
 
 ## Lesson Requirements

@@ -1,6 +1,11 @@
 ---
 title: "2 - Outline"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 ---
 
 # 🚀 Robocode Lab: Day 1 – Boot Up Your Bot!

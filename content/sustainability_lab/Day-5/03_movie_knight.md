@@ -1,6 +1,11 @@
 ---
 title: "4 - Movie Knight"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > It's time for **4 - Movie Knight** 🔥

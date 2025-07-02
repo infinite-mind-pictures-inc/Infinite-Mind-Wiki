@@ -1,6 +1,11 @@
 ---
 title: "0 - Introduction"
-tags: ["minecraft", "film", "tutorial", "hands-on", "arts"]
+tags:
+  - minecraft
+  - film
+  - tutorial
+  - hands-on
+  - arts
 ---
 # Introduction
 

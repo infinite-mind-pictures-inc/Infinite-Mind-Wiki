@@ -1,6 +1,9 @@
 ---
 title: "Pilots of Gallaxia"
-tags: ["unplugged", "contents", "all-ages"]
+tags:
+  - unplugged
+  - contents
+  - all-ages
 ---
 <img src="/images/low/galaxia/mainpage.webp" alt="Galaxia Main Image" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 

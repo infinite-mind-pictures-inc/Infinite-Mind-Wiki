@@ -1,6 +1,11 @@
 ---
 title: "Wind Power"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Curious about **Wind Power** 🎉

@@ -1,6 +1,7 @@
 ---
 title: "Mission Progress"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 
 <iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"

@@ -1,6 +1,11 @@
 ---
 title: "Geothermal"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > It's time for **Geothermal** 🎉

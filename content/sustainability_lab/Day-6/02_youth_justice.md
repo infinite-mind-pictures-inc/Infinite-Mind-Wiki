@@ -1,6 +1,11 @@
 ---
 title: "3 - Youth Justice"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Gear up for **3 - Youth Justice** 🛠️

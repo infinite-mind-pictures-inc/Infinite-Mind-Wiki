@@ -1,6 +1,11 @@
 ---
 title: "5 - Hello World"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 ---
 > Let’s jump into **5 - Hello World** 🎉
 

@@ -1,6 +1,10 @@
 ---
 title: "Sustainability Lab"
-tags: ["minecraft", "sustainability", "contents", "hands-on"]
+tags:
+  - minecraft
+  - sustainability
+  - contents
+  - hands-on
 ---
 
 > Let's tackle **Sustainability Lab** 🛠️

@@ -1,6 +1,11 @@
 ---
 title: "Sam the enderman"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Let's tackle **Sam the enderman** 🚀

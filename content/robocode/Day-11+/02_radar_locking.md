@@ -1,6 +1,11 @@
 ---
 title: "3 - Radar Locking"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Keep your opponent in sight to maintain pressure.

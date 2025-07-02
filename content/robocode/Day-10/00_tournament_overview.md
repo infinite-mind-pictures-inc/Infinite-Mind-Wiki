@@ -1,6 +1,11 @@
 ---
 title: "1 - Tournament Day"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Kick off Day 10 with a friendly tournament.

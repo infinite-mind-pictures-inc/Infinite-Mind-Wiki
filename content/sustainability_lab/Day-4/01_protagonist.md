@@ -1,6 +1,11 @@
 ---
 title: "2 - The Protagonist"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Excited to learn about **2 - The Protagonist** 🔥

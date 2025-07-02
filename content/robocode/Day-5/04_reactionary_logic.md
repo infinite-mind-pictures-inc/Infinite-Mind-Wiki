@@ -1,6 +1,11 @@
 ---
 title: "5 - Reactionary Logic"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Time to explore **5 - Reactionary Logic** 🤖

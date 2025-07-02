@@ -1,6 +1,11 @@
 ---
 title: "1 - Ongoing Challenges"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Ready to dive into **1 - Ongoing Challenges** 🛠️

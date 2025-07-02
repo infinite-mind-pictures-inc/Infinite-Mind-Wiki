@@ -1,6 +1,11 @@
 ---
 title: "4 - Loops"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > It's time for **4 - Loops** 😎

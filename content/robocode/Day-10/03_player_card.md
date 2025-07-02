@@ -6,7 +6,7 @@ tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
 > Showcase your robot by designing a personalized player card.
 
 <iframe src="https://axyl-casc.github.io/WikiMinigames/cardgen/"
-  style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>
+  style="width: 100%; height: 100%; min-height: 800px; border: none; border-radius: 8px;"></iframe>
 
 ## Capture a Screenshot
 

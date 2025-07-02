@@ -22,6 +22,7 @@ tags: ["robocode", "contents", "cs", "intermediate"]
 - [Tournament Day](/robocode/Day-10/00_tournament_overview)
 - [Peer Assessment & Reflection](/robocode/Day-10/01_peer_reflection)
 - [Wrapping Up](/robocode/Day-10/02_wrap_up)
+- [Create Your Player Card](/robocode/Day-10/03_player_card)
 
 ⬅️ [Back: Day 9](/robocode/Day-9/index)
 ➡️ [Next: Day 10+](/robocode/Day-10+/index)

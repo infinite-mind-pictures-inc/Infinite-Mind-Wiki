@@ -21,4 +21,4 @@ Use the Windows **Snipping Tool** to grab a clean shot of your bot during a batt
 A crisp screenshot looks great on your player card!
 
 ⬅️ [Back: Wrapping Up](/robocode/Day-10/02_wrap_up)
-➡️ [Next: Day 10+](/robocode/Day-10+/index)
+➡️ [Next: Day 11+](/robocode/Day-11+/index)

@@ -25,4 +25,4 @@ tags: ["robocode", "contents", "cs", "intermediate"]
 - [Create Your Player Card](/robocode/Day-10/03_player_card)
 
 ⬅️ [Back: Day 9](/robocode/Day-9/index)
-➡️ [Next: Day 10+](/robocode/Day-10+/index)
+➡️ [Next: Day 11+](/robocode/Day-11+/index)

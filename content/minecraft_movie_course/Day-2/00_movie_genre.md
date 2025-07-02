@@ -1,6 +1,11 @@
 ---
 title: "1 - Genres"
-tags: ["minecraft", "film", "tutorial", "hands-on", "arts"]
+tags:
+  - minecraft
+  - film
+  - tutorial
+  - hands-on
+  - arts
 ---
 # Genres
 

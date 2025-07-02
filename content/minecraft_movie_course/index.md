@@ -1,6 +1,11 @@
 ---
 title: "Movie Course"
-tags: ["minecraft", "film", "arts", "contents", "asynchronous"]
+tags:
+  - minecraft
+  - film
+  - arts
+  - contents
+  - asynchronous
 ---
 
 Welcome to **The Movie Course – Make Your Own Film In Minecraft!** This beginner to intermediate class guides you from story planning to final editing. You'll use storyboards, Replay Mod, and CapCut to create a short movie complete with voice acting.

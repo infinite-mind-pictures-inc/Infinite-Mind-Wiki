@@ -1,6 +1,10 @@
 ---
 title: "2 - If Statements"
-tags: ["robocode", "tutorial","cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - cs
+  - intermediate
 ---
 
 > Curious about **2 - If Statements** 😎

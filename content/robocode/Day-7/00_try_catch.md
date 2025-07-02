@@ -1,6 +1,11 @@
 ---
 title: "1 - try/catch Basics"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Let's explore **1 - try/catch Basics** 🤖

@@ -1,6 +1,11 @@
 ---
 title: "2 - Helper Methods"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Check out **2 - Helper Methods** 😎

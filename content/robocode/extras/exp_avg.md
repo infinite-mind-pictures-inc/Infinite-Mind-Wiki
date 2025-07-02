@@ -1,6 +1,7 @@
 ---
 title: "Exponential Averaging"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 
 # Exponential Averaging 🧮✨

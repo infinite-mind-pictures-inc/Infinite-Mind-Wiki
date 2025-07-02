@@ -1,6 +1,11 @@
 ---
 title: "3 - HitByBulletEvent"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 ## 4 – Dodge When Hit (Super Simple)

@@ -1,6 +1,11 @@
 ---
 title: "4 - Storyboard Design"
-tags: ["minecraft", "film", "tutorial", "hands-on", "arts"]
+tags:
+  - minecraft
+  - film
+  - tutorial
+  - hands-on
+  - arts
 ---
 # Storyboard Design
 

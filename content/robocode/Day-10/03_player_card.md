@@ -1,6 +1,11 @@
 ---
 title: "4 - Create Your Player Card"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Showcase your robot by designing a personalized player card.

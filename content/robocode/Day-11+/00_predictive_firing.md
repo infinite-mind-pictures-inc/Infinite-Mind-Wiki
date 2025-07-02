@@ -1,6 +1,11 @@
 ---
 title: "1 - Predictive Firing"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Shoot where the enemy will be, not where it is.

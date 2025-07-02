@@ -1,6 +1,7 @@
 ---
 title: "3 - Robocode Geometry"
-tags: ["robocode"]
+tags:
+  - robocode
 enableToc: false
 ---
 

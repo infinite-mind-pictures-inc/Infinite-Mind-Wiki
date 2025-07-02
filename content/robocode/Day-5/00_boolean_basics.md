@@ -1,6 +1,11 @@
 ---
 title: "1 - Boolean Basics"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Let's tackle **1 - Boolean Basics** 😎

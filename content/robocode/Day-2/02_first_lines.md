@@ -1,6 +1,11 @@
 ---
 title: "2 - First Lines of Code"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 enableToc: false
 ---
 

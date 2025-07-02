@@ -1,6 +1,10 @@
 ---
 title: "EarthCraft Olympiad"
-tags: ["minecraft", "sustainability", "synchronous", "contents"]
+tags:
+  - minecraft
+  - sustainability
+  - synchronous
+  - contents
 ---
 
 **EarthCraft Olympiad** is a five‑day Minecraft camp that blends ecology, energy, and economy. Each day introduces new challenges and collaborative play.

@@ -1,6 +1,11 @@
 ---
 title: "1 - Market Day"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Gear up for **1 - Market Day** 🔥

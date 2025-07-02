@@ -1,6 +1,11 @@
 ---
 title: "4 - Real-World Inspiration"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Excited to learn about **4 - Real-World Inspiration** 🛠️

@@ -1,6 +1,11 @@
 ---
 title: "2 - Village Backstory"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Get pumped for **2 - Village Backstory** 🎉

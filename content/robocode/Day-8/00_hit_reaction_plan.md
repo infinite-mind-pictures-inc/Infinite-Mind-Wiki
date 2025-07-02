@@ -1,6 +1,11 @@
 ---
 title: "1 - Hit Reaction Plan"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Visual planning helps you react quickly when your robot is hit. Grab a pen and sketch first!

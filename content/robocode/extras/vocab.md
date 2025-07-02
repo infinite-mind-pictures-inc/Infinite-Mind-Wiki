@@ -1,6 +1,11 @@
 ---
 title: "Vocabulary"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 enableToc: true
 ---
 

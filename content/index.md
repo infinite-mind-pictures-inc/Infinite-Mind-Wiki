@@ -1,6 +1,8 @@
 ---
 title: "Home"
-tags: ["intro", "contents"]
+tags:
+  - intro
+  - contents
 enableToc: false
 ---
 

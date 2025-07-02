@@ -1,6 +1,11 @@
 ---
 title: "1 - Getting Started"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Time to explore **1 - Getting Started** 🚀

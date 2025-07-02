@@ -1,6 +1,11 @@
 ---
 title: "4 - Setting Up Robocode"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 ---
 
 > Let's tackle **4 - Setting Up Robocode** 😀

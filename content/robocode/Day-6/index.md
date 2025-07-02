@@ -1,7 +1,11 @@
 ---
 title: Day 6
 
-tags: ["robocode", "contents", "cs", "intermediate"]
+tags:
+  - robocode
+  - contents
+  - cs
+  - intermediate
 ---
 
 ## Lesson Requirements

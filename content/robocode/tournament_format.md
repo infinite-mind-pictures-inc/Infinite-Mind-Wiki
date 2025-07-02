@@ -1,6 +1,10 @@
 ---
 title: "Tournament Format"
-tags: ["robocode", "tutorial", "cs", "group-activity"]
+tags:
+  - robocode
+  - tutorial
+  - cs
+  - group-activity
 ---
 
 > Buckle up for **Tournament Format** 🤖

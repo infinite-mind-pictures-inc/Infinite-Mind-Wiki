@@ -1,6 +1,11 @@
 ---
 title: "2 - Peer Assessment & Reflection"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > After the battles, pause to reflect on your work.

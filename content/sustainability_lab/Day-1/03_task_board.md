@@ -1,6 +1,11 @@
 ---
 title: "4 - Create a Task Board"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Gear up for **4 - Create a Task Board** 🚀

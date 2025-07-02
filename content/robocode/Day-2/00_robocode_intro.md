@@ -1,6 +1,11 @@
 ---
 title: "1 - Outline"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Get pumped for **1 - Outline** 😀

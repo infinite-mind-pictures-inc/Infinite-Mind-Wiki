@@ -1,6 +1,11 @@
 ---
 title: "2 - Movement Patterns"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Smart movement keeps your bot alive.

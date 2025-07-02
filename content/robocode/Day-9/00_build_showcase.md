@@ -1,6 +1,11 @@
 ---
 title: "1 - Build Day Agenda"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Let's review the plan for our build and showcase day.

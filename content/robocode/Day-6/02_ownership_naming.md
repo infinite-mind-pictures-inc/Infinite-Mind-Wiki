@@ -1,6 +1,11 @@
 ---
 title: "3 - Ownership & Naming"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Let's explore **3 - Ownership & Naming** 🤖

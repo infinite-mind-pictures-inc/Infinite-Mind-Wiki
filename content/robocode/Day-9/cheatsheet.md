@@ -1,6 +1,8 @@
 ---
 title: "Robocode Companion Sheet"
-tags: ["robocode", "intermediate"]
+tags:
+  - robocode
+  - intermediate
 enableToc: true
 ---
 

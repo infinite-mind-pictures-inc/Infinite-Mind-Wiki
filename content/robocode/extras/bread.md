@@ -1,6 +1,7 @@
 ---
 title: "Java: Bread making"
-tags: ["cs"]
+tags:
+  - cs
 ---
 
 # Java Programming: Bread‑Making 🍞🤖

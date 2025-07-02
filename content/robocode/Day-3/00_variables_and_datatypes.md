@@ -1,6 +1,11 @@
 ---
 title: "1 - Variables and Datatypes"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 ---
 
 > It's time for **1 - Variables and Datatypes** 😀

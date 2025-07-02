@@ -1,6 +1,9 @@
 ---
 title: "Extra Information"
-tags: ["robocode", "contents", "cs"]
+tags:
+  - robocode
+  - contents
+  - cs
 ---
 
 ## Extra Guides

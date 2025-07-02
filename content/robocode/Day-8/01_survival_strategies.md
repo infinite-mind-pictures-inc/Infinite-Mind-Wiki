@@ -1,6 +1,11 @@
 ---
 title: "2 - Survival Strategies"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > 🛡️ Survival First! Outsmart and Outlast

@@ -1,6 +1,11 @@
 ---
 title: "Hydropower"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Buckle up for **Hydropower** 🎉

@@ -1,6 +1,11 @@
 ---
 title: "Solar Power"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Let's tackle **Solar Power** 🎉

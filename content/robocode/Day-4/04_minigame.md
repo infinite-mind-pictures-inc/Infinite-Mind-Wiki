@@ -1,6 +1,7 @@
 ---
 title: "Minigame"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 
 # 🎮 Try the PlayerBot! (WASD + Q/E + Space)

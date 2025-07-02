@@ -1,6 +1,11 @@
 ---
 title: "3 - Setup with VS Code"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 ---
 > 🧰 Time to gear up in **3 - Setup with VS Code** 🎮
 

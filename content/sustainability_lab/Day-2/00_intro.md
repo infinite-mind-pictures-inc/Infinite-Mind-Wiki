@@ -1,6 +1,11 @@
 ---
 title: "1 - Day 2 Overview"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Curious about **1 - Day 2 Overview** 🚀

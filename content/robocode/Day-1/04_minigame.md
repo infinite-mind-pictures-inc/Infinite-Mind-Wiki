@@ -1,6 +1,7 @@
 ---
 title: "Minigame"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 
 <iframe src="https://axyl-casc.github.io/WikiMinigames/dodge.html"

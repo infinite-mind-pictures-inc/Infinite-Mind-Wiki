@@ -1,6 +1,11 @@
 ---
 title: "3 - Truth Tables"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Buckle up for **3 - Truth Tables** 😎

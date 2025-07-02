@@ -1,7 +1,12 @@
 ---
 
 title: "2 - ScannedRobotEvent"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Gear up for **2 - ScannedRobotEvent** 😎

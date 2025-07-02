@@ -1,6 +1,9 @@
 ---
 title: "Robocode Lab"
-tags: ["robocode", "contents", "cs"]
+tags:
+  - robocode
+  - contents
+  - cs
 ---
 
 # 🤖 Java Robocode Course

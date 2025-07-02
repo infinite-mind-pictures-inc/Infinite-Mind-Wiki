@@ -1,7 +1,12 @@
 ---
 
 title: "2 - Data Type Examples"
-tags: ["robocode", "tutorial", "hands-on", "cs", "beginner"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - beginner
 ---
 > Time to explore **2 - Data Type Examples** 😎
 

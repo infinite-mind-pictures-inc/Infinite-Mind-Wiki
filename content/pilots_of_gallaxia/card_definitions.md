@@ -1,6 +1,9 @@
 ---
 title: "Card Definitions"
-tags: ["unplugged", "tutorial", "all-ages"]
+tags:
+  - unplugged
+  - tutorial
+  - all-ages
 enableToc: true
 ---
 

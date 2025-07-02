@@ -1,6 +1,11 @@
 ---
 title: "2 - Story Writing"
-tags: ["minecraft", "film", "tutorial", "hands-on", "arts"]
+tags:
+  - minecraft
+  - film
+  - tutorial
+  - hands-on
+  - arts
 ---
 # Story Writing
 

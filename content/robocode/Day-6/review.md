@@ -1,6 +1,10 @@
 ---
 title: "Reflection"
-tags: ["robocode", "review", "cs", "intermediate"]
+tags:
+  - robocode
+  - review
+  - cs
+  - intermediate
 ---
 
 > Pause to reflect on the journey so far.

@@ -1,6 +1,7 @@
 ---
 title: "Robocode Library"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 # Robocode Tank Royale Java API v0.30.2 — Function & Event Reference
 

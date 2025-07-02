@@ -1,6 +1,11 @@
 ---
 title: "3 - Refactoring Tips"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Cleaner code makes it easier to expand your robot's abilities.

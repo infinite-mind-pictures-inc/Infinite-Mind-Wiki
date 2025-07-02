@@ -1,7 +1,11 @@
 ---
 title: Day 5
 
-tags: ["minecraft", "sustainability", "contents", "hands-on"]
+tags:
+  - minecraft
+  - sustainability
+  - contents
+  - hands-on
 ---
 
 ### Finale & Tools

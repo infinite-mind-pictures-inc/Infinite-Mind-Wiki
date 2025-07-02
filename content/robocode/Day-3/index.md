@@ -1,7 +1,11 @@
 ---
 title: Day 3
 
-tags: ["robocode", "contents", "cs", "beginner"]
+tags:
+  - robocode
+  - contents
+  - cs
+  - beginner
 ---
 
 ## Lesson Requirements

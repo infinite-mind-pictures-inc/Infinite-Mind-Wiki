@@ -1,6 +1,8 @@
 ---
 title: "Java Compiler"
-tags: ["robocode","cs"]
+tags:
+  - robocode
+  - cs
 ---
 
 ## 🔨 What does `javac` do?

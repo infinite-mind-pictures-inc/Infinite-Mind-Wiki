@@ -1,7 +1,11 @@
 ---
 title: "Day 5 – Highlight"
 
-tags: ["minecraft", "sustainability", "contents", "hands-on"]
+tags:
+  - minecraft
+  - sustainability
+  - contents
+  - hands-on
 ---
 
 > Time to explore **Day 5 – Highlight** 🛠️

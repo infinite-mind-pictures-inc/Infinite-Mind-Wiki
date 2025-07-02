@@ -1,6 +1,11 @@
 ---
 title: "2 - Debugging with Patience"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Welcome to **2 - Debugging with Patience** 🧘

@@ -1,6 +1,11 @@
 ---
 title: "2 - Sweeping Left and Right"
-tags: ["robocode", "tutorial", "hands-on", "cs", "intermediate"]
+tags:
+  - robocode
+  - tutorial
+  - hands-on
+  - cs
+  - intermediate
 ---
 
 > Learn how to sweep the gun left and right to lock onto opponents. (Instructors code)

@@ -1,6 +1,11 @@
 ---
 title: "Tidal Power"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Ready to dive into **Tidal Power** 🔥

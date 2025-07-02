@@ -1,6 +1,7 @@
 ---
 title: "Learning Outcomes"
-tags: ["robocode"]
+tags:
+  - robocode
 ---
 
 ## 🌟 Learning Outcomes

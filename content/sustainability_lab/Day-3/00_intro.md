@@ -1,6 +1,11 @@
 ---
 title: "1 - Sustainable Energy"
-tags: ["minecraft", "sustainability", "tutorial", "hands-on", "group-activity"]
+tags:
+  - minecraft
+  - sustainability
+  - tutorial
+  - hands-on
+  - group-activity
 ---
 
 > Excited to learn about **1 - Sustainable Energy** 🎉

@@ -109,7 +109,7 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 - Showcase unique robot designs and strategies
 - Reflect on journey using peer & self-assessment tools
 
-### [🚀 Day 10+: Advanced Upgrades](/robocode/Day-10+/)
+### [🚀 Day 11+: Advanced Upgrades](/robocode/Day-11+/)
 
 - Chain lessons on predictive firing, movement patterns, and radar locking
 

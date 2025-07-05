@@ -23,10 +23,10 @@ tags:
 > Day 5 is a mid-course review featuring a **friendly tournament** and time to design your player card.
 
 ## Pages
-- [Tournament Day](/robocode/Day-5/00_tournament_overview)
-- [Peer Assessment & Reflection](/robocode/Day-5/01_peer_reflection)
-- [Wrapping Up](/robocode/Day-5/02_wrap_up)
-- [Create Your Player Card](/robocode/Day-5/03_player_card)
+- [Tournament Day](/robocode/Day-5/01_tournament_overview)
+- [Peer Assessment & Reflection](/robocode/Day-5/02_peer_reflection)
+- [Wrapping Up](/robocode/Day-5/03_wrap_up)
+- [Create Your Player Card](/robocode/Day-5/04_player_card)
 
 ⬅️ [Back: Day 4](/robocode/Day-4/index)
 ➡️ [Next: Day 6](/robocode/Day-6/index)

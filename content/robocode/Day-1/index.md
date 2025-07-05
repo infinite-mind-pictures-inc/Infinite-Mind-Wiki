@@ -21,8 +21,8 @@ tags:
 * Understand how to compile and run Java files from the editor
 
 > Gear up for **Day 1** 😀
-- [Outline](/robocode/Day-1/00_java_intro)
-- [Introductions](/robocode/Day-1/introductions)
-- [Setup with VS Code](/robocode/Day-1/01_setup_vscode)
-- [Setting Up Robocode](/robocode/Day-1/02_setting_up)
-- [Hello World Program](/robocode/Day-1/03_hello_world)
+- [Introductions](/robocode/Day-1/01_introductions)
+- [Outline](/robocode/Day-1/02_outline)
+- [Setup with VS Code](/robocode/Day-1/03_setup_vscode)
+- [Setting Up Robocode](/robocode/Day-1/04_setting_up)
+- [Hello World Program](/robocode/Day-1/05_hello_world)

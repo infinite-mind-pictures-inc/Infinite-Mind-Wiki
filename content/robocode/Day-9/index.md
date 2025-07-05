@@ -30,8 +30,8 @@ tags:
 This day we look at each other's projects and discuss ideas one by one. We'll focus on programming the robot.
 
 ## Pages
-- [Build Day Agenda](/robocode/Day-9/00_build_showcase)
-- [Sweeping Left & Right](/robocode/Day-9/01_sweeping_left_right)
+- [Build Day Agenda](/robocode/Day-9/01_build_showcase)
+- [Sweeping Left & Right](/robocode/Day-9/02_sweeping_left_right)
 
 ⬅️ [Back: Day 8](/robocode/Day-8/index)
 ➡️ [Next: Day 10](/robocode/Day-10/index)

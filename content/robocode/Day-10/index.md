@@ -23,10 +23,10 @@ tags:
 > Day 10 closes out the Robocode lab with a **friendly tournament** and time to reflect.
 
 ## Pages
-- [Tournament Day](/robocode/Day-10/00_tournament_overview)
-- [Peer Assessment & Reflection](/robocode/Day-10/01_peer_reflection)
-- [Wrapping Up](/robocode/Day-10/02_wrap_up)
-- [Create Your Player Card](/robocode/Day-10/03_player_card)
+- [Tournament Day](/robocode/Day-10/01_tournament_overview)
+- [Peer Assessment & Reflection](/robocode/Day-10/02_peer_reflection)
+- [Wrapping Up](/robocode/Day-10/03_wrap_up)
+- [Create Your Player Card](/robocode/Day-10/04_player_card)
 
 ⬅️ [Back: Day 9](/robocode/Day-9/index)
 ➡️ [Next: Day 11+](/robocode/Day-11+/index)

@@ -122,5 +122,5 @@ You're now officially a Java coder! 🚀 Keep experimenting with values and even
 
 ## 🔗 Navigation
 
-🔹 [Back: Robocode Setup](/robocode/Day-1/02_setting_up)
+🔹 [Back: Robocode Setup](/robocode/Day-1/04_setting_up)
 🔹 [Next: Understanding Robocode Geometry](/robocode/Day-2/03_geometry)

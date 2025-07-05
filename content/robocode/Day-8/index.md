@@ -36,9 +36,9 @@ help you plan your robot's behavior before writing code.
 
 ## Pages
 
-- [Hit Reaction Plan](/robocode/Day-8/00_hit_reaction_plan)
-- [Survival Strategies](/robocode/Day-8/01_survival_strategies)
-- [Refactoring Tips](/robocode/Day-8/02_refactoring)
+- [Hit Reaction Plan](/robocode/Day-8/01_hit_reaction_plan)
+- [Survival Strategies](/robocode/Day-8/02_survival_strategies)
+- [Refactoring Tips](/robocode/Day-8/03_refactoring)
 
 ⬅️ [Back: Day 7](/robocode/Day-7/index)
 ➡️ [Next: Day 9](/robocode/Day-9/index)

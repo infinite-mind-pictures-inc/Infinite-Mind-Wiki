@@ -99,10 +99,10 @@ You can plan your whole game like a treasure map. Just grab some paper, draw you
 
 ---
 
-➡️ [🤖 Minigame!](/robocode/Day-2/04_minigame)
+➡️ [🤖 Minigame!](/robocode/Day-2/minigame)
 
 
 ## 🔗 Navigation
 
 🔹 [Back: Robocode Setup](/robocode/Day-2/02_first_lines)
-🔹 [Next: Java Variables and Datatypes](/robocode/Day-3/00_variables_and_datatypes)
+🔹 [Next: Java Variables and Datatypes](/robocode/Day-3/01_variables_and_datatypes)

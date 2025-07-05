@@ -34,5 +34,5 @@ Use these questions to guide your notes and plan what to tackle next.
 
 ## Navigation
 
-⬅️ [Back: Ownership & Naming](/robocode/Day-7/04_ownership_naming)
+⬅️ [Back: Ownership & Naming](/robocode/Day-7/05_ownership_naming)
 ➡️ [Next: Day 8](/robocode/Day-8/index)

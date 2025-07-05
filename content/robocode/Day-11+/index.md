@@ -23,8 +23,8 @@ tags:
 
 ## Lessons
 
-- [1 - Predictive Firing](/robocode/Day-11+/00_predictive_firing)
-- [2 - Movement Patterns](/robocode/Day-11+/01_movement_patterns)
-- [3 - Radar Locking](/robocode/Day-11+/02_radar_locking)
+- [1 - Predictive Firing](/robocode/Day-11+/01_predictive_firing)
+- [2 - Movement Patterns](/robocode/Day-11+/02_movement_patterns)
+- [3 - Radar Locking](/robocode/Day-11+/03_radar_locking)
 
 ⬅️ [Back: Day 10](/robocode/Day-10/index)

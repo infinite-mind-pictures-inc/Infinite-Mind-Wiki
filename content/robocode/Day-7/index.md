@@ -25,9 +25,9 @@ tags:
 
 > Gear up for **Day 7** 🤖
 
-- [try/catch Basics](/robocode/Day-7/00_try_catch)
-- [Debugging with Patience](/robocode/Day-7/01_basic_debugging)
-- [Methods and Classes](/robocode/Day-7/02_methods_and_classes)
-- [Helper Methods](/robocode/Day-7/03_helper_methods)
-- [Ownership & Naming](/robocode/Day-7/04_ownership_naming)
+- [try/catch Basics](/robocode/Day-7/01_try_catch)
+- [Debugging with Patience](/robocode/Day-7/02_basic_debugging)
+- [Methods and Classes](/robocode/Day-7/03_methods_and_classes)
+- [Helper Methods](/robocode/Day-7/04_helper_methods)
+- [Ownership & Naming](/robocode/Day-7/05_ownership_naming)
 - [Reflection](/robocode/Day-7/review)

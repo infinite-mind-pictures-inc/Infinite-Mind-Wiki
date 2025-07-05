@@ -17,7 +17,7 @@ We started with the basics and steadily built up our robot:
 - **Day 2** – Wrote a custom robot and learned the VS Code workflow.
 - **Day 3** – Introduced variables and datatypes for robot state.
 - **Day 4** – Responded to events and printed debug messages.
-- **Day 5** – Practiced conditionals and loops to drive behavior.
+- **Day 5** – Held a friendly tournament and created player cards.
 
 Take a moment to review your code from each day. Notice how your robot has grown more organized and reactive.
 

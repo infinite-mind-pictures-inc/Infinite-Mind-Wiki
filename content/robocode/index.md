@@ -77,9 +77,9 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 - Use print statements as narrative tools
 - Celebrate every bug as a clue
 
-### Day 5
+### [🏁 Day 5: Review Tournament](/robocode/Day-5/)
 
-Content moved to [Day 6](/robocode/Day-6/).
+- Friendly tournament and player cards
 
 ### [🔁 Day 6: Logic & Loops](/robocode/Day-6/)
 

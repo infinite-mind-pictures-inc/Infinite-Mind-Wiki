@@ -111,4 +111,4 @@ Keep asking: "What did I _expect_ to happen? What actually happened?"
 ## Navigation
 
 ⬅️ [Back: try/catch Basics](/robocode/Day-7/00_try_catch)
-➡️ [Next: Day 8](/robocode/Day-8/index)
+➡️ [Next: Day 8](/robocode/Day-7/02_methods_and_classes)

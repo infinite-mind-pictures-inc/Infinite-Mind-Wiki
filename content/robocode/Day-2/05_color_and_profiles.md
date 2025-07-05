@@ -43,3 +43,6 @@ Values teamwork and support. Harmonizers boost community spirit and help others 
 
 Pick the role that fits you best! Your profile shapes how you participate and what goals you pursue with your bot.
 
+---
+
+➡️ [🤖 Minigame!](/robocode/Day-2/04_minigame)

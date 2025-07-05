@@ -97,9 +97,6 @@ Let’s say you want your tank to go **up**:
 
 You can plan your whole game like a treasure map. Just grab some paper, draw your tank, and figure out where it needs to go!
 
----
-
-➡️ [🤖 Minigame!](/robocode/Day-2/04_minigame)
 
 
 ## 🔗 Navigation

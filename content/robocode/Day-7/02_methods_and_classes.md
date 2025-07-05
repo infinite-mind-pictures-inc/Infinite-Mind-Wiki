@@ -40,5 +40,5 @@ The modular code will be easier to add new behaviour to and will increase your b
 
 ## Navigation
 
-⬅️ [Back: Reactionary Logic](/robocode/Day-6/04_reactionary_logic)
+⬅️ [Back: Reactionary Logic](/robocode/Day-7/01_basic_debugging)
 ➡️ [Next: Helper Methods](/robocode/Day-7/03_helper_methods)

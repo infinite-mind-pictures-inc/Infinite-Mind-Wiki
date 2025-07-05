@@ -120,6 +120,10 @@ System.out.println("Hi " + "there!"); // String join
 
 <iframe src="https://axyl-casc.github.io/WikiMinigames/datatypesquiz.html"
   style="width: 100%; height: 100%; min-height:1000px; border: none; border-radius: 8px;"></iframe>
+  
+---
+
+➡️ [🤖 Minigame!](/robocode/Day-2/04_minigame)
 
 
 ## Navigation

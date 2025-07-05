@@ -62,9 +62,6 @@ Hello World!
 
 [That was confusing, what else is programming like?](/robocode/extras/bread)
 
----
-
-➡️ [🤖 Minigame!](/robocode/Day-1/04_minigame)
 
 
 ---
@@ -73,4 +70,4 @@ Hello World!
 ## 🗺️ Navigation
 
 ⬅️ [Back: Setting Up Robocode](/robocode/Day-1/02_setting_up)
-➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)
+➡️ [Next: Your player profile](/robocode/Day-1/04_player_profiles)

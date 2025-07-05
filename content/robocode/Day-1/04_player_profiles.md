@@ -74,8 +74,14 @@ Harmonizers thrive on connection. They are the glue of any group, always looking
 
 These player profiles are not rigid categories but flexible personas. Many individuals will resonate with elements of multiple types. By designing environments that support all four, you create space for every learner and player to thrive.
 
+
+---
+
+➡️ [🤖 Minigame!](/robocode/Day-1/05_minigame)
+
+
 ## Navigation
 
-⬅️ [Back: Minigame](/robocode/Day-1/04_minigame)
+⬅️ [Back: Hello World](/robocode/Day-1/03_hello_world)
 ➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)
 

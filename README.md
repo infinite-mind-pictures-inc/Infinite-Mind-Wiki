@@ -23,11 +23,7 @@ npm install
 
 ### 3. Preview the site locally
 
-```bash
-npx quartz build --serve
-```
-
-Then open [http://localhost:8080](http://localhost:8080) in your browser to preview the site.
+Run `run.bat` and it will host the website on [http://localhost:8080](http://localhost:8080).
 
 ---
 

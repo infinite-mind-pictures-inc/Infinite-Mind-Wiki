@@ -14,8 +14,8 @@ When a bullet hits your robot, the `onHitByBullet` method runs.
 
 ### What happens?
 
-* Robocode tells your bot, “You were hit!”
-* We’ll just turn and drive away — no tricky math.
+- Robocode tells your bot, “You were hit!”
+- We’ll just turn and drive away — no tricky math.
 
 ### Code
 
@@ -34,8 +34,8 @@ That’s it! Your robot takes a quick sidestep and keeps rolling.
 
 ### Why it works
 
-* Turning 90° gets you off the line the bullet was travelling.
-* Driving forward puts distance between you and the danger.
+- Turning 90° gets you off the line the bullet was travelling.
+- Driving forward puts distance between you and the danger.
 
 ### Next idea
 
@@ -55,4 +55,4 @@ But for now, this two‑line dodge keeps things simple and fun.
 ## Navigation
 
 ⬅️ [Back: ScannedRobotEvent](/robocode/Day-4/01_scanned_robot_event)
-➡️ [Next: Boolean Basics](/robocode/Day-5/00_boolean_basics)
+➡️ [Next: Boolean Basics](/robocode/Day-6/00_boolean_basics)

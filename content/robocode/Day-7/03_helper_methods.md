@@ -29,5 +29,5 @@ Call `scanAndFire()` whenever your robot should look for opponents. This keeps t
 
 ## Navigation
 
-⬅️ [Back: Methods and Classes](/robocode/Day-6/00_methods_and_classes)
-➡️ [Next: Ownership & Naming](/robocode/Day-6/02_ownership_naming)
+⬅️ [Back: Methods and Classes](/robocode/Day-7/02_methods_and_classes)
+➡️ [Next: Ownership & Naming](/robocode/Day-7/04_ownership_naming)

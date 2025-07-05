@@ -33,4 +33,4 @@ Booleans help your robot remember whether something has happened yet.
 ## Navigation
 
 ⬅️ [Back: HitByBulletEvent](/robocode/Day-4/02_hit_by_bullet_event)
-➡️ [Next: If Statements](/robocode/Day-5/01_if_statements)
+➡️ [Next: If Statements](/robocode/Day-6/01_if_statements)

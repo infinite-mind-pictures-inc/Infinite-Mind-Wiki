@@ -65,14 +65,14 @@ public class ReactiveBot extends Bot {
 
 ## 🧠 How It Works
 
-* `run()` spins the radar in a loop.
-* When `onScannedBot` triggers, we store the enemy's location.
-* We use `Math.hypot(dx, dy)` to calculate distance.
-* The `if` statement checks that distance to decide firepower.
+- `run()` spins the radar in a loop.
+- When `onScannedBot` triggers, we store the enemy's location.
+- We use `Math.hypot(dx, dy)` to calculate distance.
+- The `if` statement checks that distance to decide firepower.
 
 ---
 
 ## Navigation
 
-⬅️ [Back: Loops](/robocode/Day-5/03_loops)
-➡️ [Next: Day 6](/robocode/Day-6/index)
+⬅️ [Back: Loops](/robocode/Day-6/03_loops)
+➡️ [Next: Day 7](/robocode/Day-7/index)

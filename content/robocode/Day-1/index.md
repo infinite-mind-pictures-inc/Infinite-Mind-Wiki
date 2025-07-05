@@ -26,3 +26,4 @@ tags:
 - [Setup with VS Code](/robocode/Day-1/01_setup_vscode)
 - [Setting Up Robocode](/robocode/Day-1/02_setting_up)
 - [Hello World Program](/robocode/Day-1/03_hello_world)
+- [Player Profiles](/robocode/Day-1/05_player_profiles)

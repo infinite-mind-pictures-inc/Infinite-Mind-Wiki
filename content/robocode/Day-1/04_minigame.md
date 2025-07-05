@@ -10,4 +10,4 @@ tags:
 ## Navigation
 
 ⬅️ [Back: Hello World Program](/robocode/Day-1/03_hello_world)
-➡️ [Next: Day 2 - Robocode Intro](/robocode/Day-2/00_robocode_intro)
+➡️ [Next: Player Profiles](/robocode/Day-1/05_player_profiles)

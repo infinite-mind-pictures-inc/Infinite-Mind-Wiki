@@ -12,7 +12,7 @@ tags:
 
 # 🛠️ Debugging Your Bot in Robocode
 
-Today we focus on *watching your robot carefully*. You’ll use the Robocode program to run your bot, see what it does, and fix any issues that come up.
+Today we focus on _watching your robot carefully_. You’ll use the Robocode program to run your bot, see what it does, and fix any issues that come up.
 
 ---
 
@@ -26,9 +26,9 @@ You will practice **testing and improving your robot** based on what you observe
 
 Use these simple tricks to track down bugs:
 
-* Print messages using `System.out.println()` to see what your bot is doing.
-* Test your bot after *each small change*.
-* Print out key values to double-check your thinking.
+- Print messages using `System.out.println()` to see what your bot is doing.
+- Test your bot after _each small change_.
+- Print out key values to double-check your thinking.
 
 ```java
 System.out.println("Energy: " + getEnergy());
@@ -43,9 +43,9 @@ System.out.println("Heading: " + getDirection());
 
 Robocode has built-in tools for slowing things down and pausing the game:
 
-* Drag the **TPS slider** to reduce the speed.
-* Use **Pause** and **Resume** to freeze and unfreeze the battle.
-* Click **Next Turn** to advance one frame at a time.
+- Drag the **TPS slider** to reduce the speed.
+- Use **Pause** and **Resume** to freeze and unfreeze the battle.
+- Click **Next Turn** to advance one frame at a time.
 
 > Analyzing your bot's behavior turn by turn helps you pinpoint exactly when things go wrong.
 
@@ -67,9 +67,9 @@ Robocode has built-in tools for slowing things down and pausing the game:
 
 If you get a red error message, don’t panic. Here's what to do:
 
-* Read the message carefully.
-* Look at the line number mentioned.
-* Print out variables near that line to help figure out what's missing.
+- Read the message carefully.
+- Look at the line number mentioned.
+- Print out variables near that line to help figure out what's missing.
 
 ```java
 Exception in thread "main" java.lang.NullPointerException...
@@ -102,9 +102,9 @@ You'll likely begin near the bottom of the rankings. That's okay! Watch how othe
 
 ## 💡 Pro Tip
 
-Everyone runs into bugs. Even the best coders! Debugging is not just about fixing errors — it’s *how* you learn how your robot really works.
+Everyone runs into bugs. Even the best coders! Debugging is not just about fixing errors — it’s _how_ you learn how your robot really works.
 
-Keep asking: "What did I *expect* to happen? What actually happened?"
+Keep asking: "What did I _expect_ to happen? What actually happened?"
 
 ---
 

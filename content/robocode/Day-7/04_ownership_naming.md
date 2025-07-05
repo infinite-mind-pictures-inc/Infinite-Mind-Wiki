@@ -67,7 +67,7 @@ private void aimAt(double x, double y) {
 
 # ✍️ Meaningful Names
 
-Use **camelCase** for method names, and **snake\_case** for variables.
+Use **camelCase** for method names, and **snake_case** for variables.
 
 ```java
 // camelCase for methods
@@ -86,5 +86,5 @@ int bullet_count = 3;
 
 ## Navigation
 
-⬅️ [Back: Helper Methods](/robocode/Day-6/01_helper_methods)
-➡️ [Next: Day 7](/robocode/Day-7/index)
+⬅️ [Back: Helper Methods](/robocode/Day-7/03_helper_methods)
+➡️ [Next: Day 8](/robocode/Day-8/index)

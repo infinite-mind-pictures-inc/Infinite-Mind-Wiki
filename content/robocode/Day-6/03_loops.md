@@ -12,7 +12,7 @@ tags:
 
 # 🔁 Repeating Actions with `while` Loops
 
-A `while` loop lets your robot repeat actions as long as a condition is true — just like an `if` statement that *keeps checking* over and over.
+A `while` loop lets your robot repeat actions as long as a condition is true — just like an `if` statement that _keeps checking_ over and over.
 
 ```java
 while (getEnergy() > 50) {
@@ -57,8 +57,8 @@ while (getGunHeat() > 0) {
 
 ## 🧠 Think Like a Loop
 
-* Start with a condition (like an `if`)
-* Repeat what's inside `{}` until the condition is false
+- Start with a condition (like an `if`)
+- Repeat what's inside `{}` until the condition is false
 
 ```java
 while (enemyCount > 0) {
@@ -74,5 +74,5 @@ while (enemyCount > 0) {
 
 ## Navigation
 
-⬅️ [Back: Truth Tables](/robocode/Day-5/02_truth_tables)
-➡️ [Next: Reactionary Logic](/robocode/Day-5/04_reactionary_logic)
+⬅️ [Back: Truth Tables](/robocode/Day-6/02_truth_tables)
+➡️ [Next: Reactionary Logic](/robocode/Day-6/04_reactionary_logic)

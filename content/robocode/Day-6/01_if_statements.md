@@ -115,13 +115,13 @@ if (getGunHeat() == 0) {
 
 ## Tips
 
-* Always start with the most **important** check first.
-* Use `{}` to group multiple lines of code.
-* Keep conditions simple and readable.
+- Always start with the most **important** check first.
+- Use `{}` to group multiple lines of code.
+- Keep conditions simple and readable.
 
 ---
 
 ## Navigation
 
-⬅️ [Back: Boolean Basics](/robocode/Day-5/00_boolean_basics)
-➡️ [Next: Truth Tables](/robocode/Day-5/02_truth_tables)
+⬅️ [Back: Boolean Basics](/robocode/Day-6/00_boolean_basics)
+➡️ [Next: Truth Tables](/robocode/Day-6/02_truth_tables)

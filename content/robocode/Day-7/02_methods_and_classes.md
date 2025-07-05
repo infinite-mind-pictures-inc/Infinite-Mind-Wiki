@@ -34,12 +34,11 @@ public void moveAroundMap(){
 }
 ```
 
-The modular code will be easier to add new behaviour to and will increase your bots efficiency. 
+The modular code will be easier to add new behaviour to and will increase your bots efficiency.
 
 ---
 
-
 ## Navigation
 
-⬅️ [Back: Reactionary Logic](/robocode/Day-5/04_reactionary_logic)
-➡️ [Next: Helper Methods](/robocode/Day-6/01_helper_methods)
+⬅️ [Back: Reactionary Logic](/robocode/Day-6/04_reactionary_logic)
+➡️ [Next: Helper Methods](/robocode/Day-7/03_helper_methods)

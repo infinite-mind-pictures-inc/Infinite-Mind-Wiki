@@ -10,16 +10,19 @@ tags:
 
 ## Lesson Requirements
 
-* Bring your Day 5 robot code
-* Ensure you can run battles quickly for testing
+- Keep your Day 4 robot code handy in VS Code
+- Have a recent Robocode battle log to analyze
 
 ## Lesson Outcomes
 
-* Break robot behavior into reusable methods
-* Organize your code into classes for clarity
-* Adopt naming conventions for easy collaboration
+- Write conditional logic with `if` statements and boolean expressions
+- Use loops to repeat actions and scan the arena
+- Build reactionary logic to dodge and attack strategically
 
-> Let's jump into **Day 6** 🤖
-- [Methods and Classes](/robocode/Day-6/00_methods_and_classes)
-- [Helper Methods](/robocode/Day-6/01_helper_methods)
-- [Ownership & Naming](/robocode/Day-6/02_ownership_naming)
+> Ready to dive into **Day 6** 🤖
+
+- [Boolean Basics](/robocode/Day-6/00_boolean_basics)
+- [If Statements](/robocode/Day-6/01_if_statements)
+- [Truth Tables](/robocode/Day-6/02_truth_tables)
+- [Loops](/robocode/Day-6/03_loops)
+- [Reactionary Logic](/robocode/Day-6/04_reactionary_logic)

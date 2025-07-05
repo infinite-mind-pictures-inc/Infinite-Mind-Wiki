@@ -77,19 +77,20 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 - Use print statements as narrative tools
 - Celebrate every bug as a clue
 
-### [🔁 Day 5: Logic & Loops](/robocode/Day-5/)
+### Day 5
+
+Content moved to [Day 6](/robocode/Day-6/).
+
+### [🔁 Day 6: Logic & Loops](/robocode/Day-6/)
 
 - Apply `if`, `else`, `while`, `for`
 - Build bots that adapt
 - Invite feedback from peers
 
-### [✨ Day 6: Methods & Classes](/robocode/Day-6/)
+### [🧯 Day 7: Debugging & Error Care](/robocode/Day-7/)
 
 - Break code into helper methods
 - Discuss ownership and naming in code
-
-### [🧯 Day 7: Debugging & Error Care](/robocode/Day-7/)
-
 - Practice `try/catch`
 - Understand basic debugging
 - Model problem-solving through **patience and friendliness**

@@ -25,4 +25,4 @@ tags:
 - [First Lines of Code](/robocode/Day-2/02_first_lines)
 - [Robocode Geometry](/robocode/Day-2/03_geometry)
 - [Minigame](/robocode/Day-2/04_minigame)
-- [Tank Colors & Player Profiles](/robocode/Day-2/05_color_and_profiles)
+- [Tank Colors](/robocode/Day-2/05_color_and_profiles)

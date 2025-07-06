@@ -20,6 +20,8 @@ tags:
 * Run a "Hello World" program in VS Code
 * Understand how to compile and run Java files from the editor
 
+> **Note:** In Java, lines that begin with `//` are comments. They are there for humans and are not executed as code.
+
 > Gear up for **Day 1** 😀
 - [Outline](/robocode/Day-1/00_java_intro)
 - [Introductions](/robocode/Day-1/introductions)

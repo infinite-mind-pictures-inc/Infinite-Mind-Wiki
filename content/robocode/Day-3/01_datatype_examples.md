@@ -123,7 +123,7 @@ System.out.println("Hi " + "there!"); // String join
   
 ---
 
-➡️ [🤖 Minigame!](/robocode/Day-2/04_minigame)
+➡️ [🤖 Minigame!](/robocode/Day-3/02_minigame)
 
 
 ## Navigation

@@ -23,8 +23,8 @@ tags:
 > **Note:** In Java, lines that begin with `//` are comments. They are there for humans and are not executed as code.
 
 > Gear up for **Day 1** 😀
-- [Outline](/robocode/Day-1/00_java_intro)
 - [Introductions](/robocode/Day-1/introductions)
+- [Outline](/robocode/Day-1/00_java_intro)
 - [Setup with VS Code](/robocode/Day-1/01_setup_vscode)
 - [Setting Up Robocode](/robocode/Day-1/02_setting_up)
 - [Hello World Program](/robocode/Day-1/03_hello_world)

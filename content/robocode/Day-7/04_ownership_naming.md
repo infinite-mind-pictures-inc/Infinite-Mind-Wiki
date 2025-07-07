@@ -1,5 +1,5 @@
 ---
-title: "3 - Ownership & Naming"
+title: "5 - Ownership & Naming"
 tags:
   - robocode
   - tutorial
@@ -8,7 +8,7 @@ tags:
   - intermediate
 ---
 
-> Let's explore **3 - Ownership & Naming** 🤖
+> Let's explore **5 - Ownership & Naming** 🤖
 
 # 🧠 Code Ownership
 

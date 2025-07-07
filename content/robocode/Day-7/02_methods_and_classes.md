@@ -1,5 +1,5 @@
 ---
-title: "1 - Methods and Classes"
+title: "3 - Methods and Classes"
 tags:
   - robocode
   - tutorial
@@ -8,7 +8,7 @@ tags:
   - intermediate
 ---
 
-> Diving into **1 - Methods and Classes** 🤖
+> Diving into **3 - Methods and Classes** 🤖
 
 # Why Use Methods?
 
@@ -40,5 +40,5 @@ The modular code will be easier to add new behaviour to and will increase your b
 
 ## Navigation
 
-⬅️ [Back: Reactionary Logic](/robocode/Day-7/01_basic_debugging)
+⬅️ [Back: Debugging with Patience](/robocode/Day-7/01_basic_debugging)
 ➡️ [Next: Helper Methods](/robocode/Day-7/03_helper_methods)

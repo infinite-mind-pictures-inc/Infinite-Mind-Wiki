@@ -130,4 +130,4 @@ Once you're done, turn it into methods and `if` statements in your code.
 ## Navigation
 
 ⬅️ [Back: Basic Debugging](/robocode/Day-7/01_basic_debugging)
-➡️ [Next: Day 8](/robocode/Day-8/survival_strategies)
+➡️ [Next: Survival Strategies](/robocode/Day-8/01_survival_strategies)

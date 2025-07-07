@@ -1,5 +1,5 @@
 ---
-title: "2 - Helper Methods"
+title: "4 - Helper Methods"
 tags:
   - robocode
   - tutorial
@@ -8,7 +8,7 @@ tags:
   - intermediate
 ---
 
-> Check out **2 - Helper Methods** 😎
+> Check out **4 - Helper Methods** 😎
 
 # Breaking Up `run()`
 

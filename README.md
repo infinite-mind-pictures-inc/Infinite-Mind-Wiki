@@ -23,7 +23,7 @@ npm install
 
 ### 3. Preview the site locally
 
-Run `run.bat` and it will host the website on [http://localhost:8080](http://localhost:8080).
+Run `run.bat` on Windows or `./run.sh` on macOS/Linux to host the website on [http://localhost:8080](http://localhost:8080).
 
 ---
 

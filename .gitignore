@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Quartz cache
+.quartz-cache/
+
+# Build output
+public/
+
+# Python cache directories
+__pycache__/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db

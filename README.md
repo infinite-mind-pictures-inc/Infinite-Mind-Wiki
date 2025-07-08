@@ -21,7 +21,23 @@ Make sure you have **Node.js v22+** and **npm v10+** installed. Then in your ter
 npm install
 ```
 
-### 3. Preview the site locally
+### 3. Install Python requirements
+
+You also need **Python 3** with the **Pillow** library for image compression. Install the package with:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install the project locally via `setup.py`:
+
+```bash
+pip install .
+```
+
+Do this step before running `run.bat` (or `run.sh` on Unix systems).
+
+### 4. Preview the site locally
 
 Run `run.bat` and it will host the website on [http://localhost:8080](http://localhost:8080).
 

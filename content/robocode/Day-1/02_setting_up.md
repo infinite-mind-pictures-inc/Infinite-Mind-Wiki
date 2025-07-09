@@ -39,10 +39,9 @@ Download the ZIP file [from Google Drive](https://drive.google.com/file/d/1i6FZa
 
 
 ## Step 3: Verify the Setup
-
 - Open the Robocode application from the `robocode` folder.
-  - **Windows:** double-click `robocode.bat`.
-  - **macOS:** run `./robocode.sh` from Terminal or open `Robocode.app`.
+  - Launch it by running `robocode-tankroyale-gui`.
+- In the Robocode window, go to **Config → Bot Root Directories...** and select your `robots` folder.
 - Open the `robots` folder in your editor — it should contain a file like `MyFirstRobot.java`.
 - You're now ready to write your first robot logic!
 

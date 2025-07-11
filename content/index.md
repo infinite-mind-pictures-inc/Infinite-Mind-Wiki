@@ -29,3 +29,7 @@ Explore the fundamentals of programming and combat AI using Robocode.
 ### 🏅 [EarthCraft Olympiad](/earthcraft_olympiad/) (WIP)
 
 A five-day camp of collaborative Minecraft competitions focused on ecology, energy, and economy.
+
+### 📰 [Past Newsletters](/past_newsletters/)
+
+Browse previous newsletter issues and track our journey.

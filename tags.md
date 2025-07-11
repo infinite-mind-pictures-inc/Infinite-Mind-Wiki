@@ -33,7 +33,7 @@ Use this table to standardize tags across your Quartz-based lab content. You can
 |                      | `contents`       | Table of contents or structured index for a section         |
 |                      | `story`       | Table of contents or structured index for a section            |
 |                      | `tutorial`       | Step-by-step instructional content                          |
-|                      | `news`           | Past newsletters and updates                              |
+|                      | `newsletter`           | Past newsletters and updates                              |
 | Category             | `sustainability` | Focus on sustainable energy                                 |
 |                      | `programming` | Focus on learning programming                               |
 |                      | `arts`           | Focus on creative arts projects |

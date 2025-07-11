@@ -10,8 +10,8 @@ tags:
 
 > Showcase your robot by designing a personalized player card.
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/cardgen/"
-  style="width: 100%; height: 100%; min-height: 820px; border: none; border-radius: 8px;"></iframe>
+
+Use the [player card generator](https://docs.google.com/forms/d/e/1FAIpQLSeO3NAcXqPCaacO21ZvApGUHdzv9Nuon2acvDtka6GBHQW6Hw/viewform?usp=header) to design your card.
 
 ## Capture a Screenshot
 

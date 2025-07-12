@@ -10,6 +10,8 @@ tags:
 
 Summer is rolling and our creative tech labs are buzzing. Here’s a quick look at what’s happening in July and how your child can join the fun.
 
+Both our **Sustainability Lab** and **Introduction to Java** course kick off on **July 28**.
+
 ---
 
 ### 1. Minecraft Movie Course – Make Your Own Film
@@ -23,6 +25,7 @@ Summer is rolling and our creative tech labs are buzzing. Here’s a quick look 
 
 ### 2. Introduction to Java Programming with Robocode
 
+* **Start Date:** July 28
 * **Format:** Hands‑on coding lab. Students program battling robot tanks.
 * **What students do:** Learn loops, methods, and logical thinking while testing bots in the arena.
 * **Why it rocks:** Students learn real programming skills while having fun. They see their code come to life in action-packed robot battles—every match is a chance to improve and strategize.
@@ -31,6 +34,7 @@ Summer is rolling and our creative tech labs are buzzing. Here’s a quick look 
 
 ### 3. Sustainability Lab in Minecraft Java
 
+* **Start Date:** July 28
 * **Format:** Five‑week builder series, ages 8–13
 * **What students do:** Design a carbon‑neutral village with solar, wind, and hydro.
 * **Why it rocks:** Environmental science comes alive through collaborative play.

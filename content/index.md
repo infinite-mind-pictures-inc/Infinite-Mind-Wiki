@@ -32,4 +32,4 @@ A five-day camp of collaborative Minecraft competitions focused on ecology, ener
 
 ### 📰 [Past Newsletters](/past_newsletters/)
 
-Browse previous newsletter issues and track our journey.
+Newsletter archive coming soon.

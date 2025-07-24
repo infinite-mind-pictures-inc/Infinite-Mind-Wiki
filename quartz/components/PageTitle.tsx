@@ -22,7 +22,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 
     const icon = document.querySelector(".page-title-icon");
     if (icon && (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1")) {
-      icon.src = "/images/low/icon.webp";
+      icon.src = "/images/low/icon2_white.webp";
     }
   `
 
@@ -30,7 +30,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} class="page-title-link">
         <img src={defaultIcon} alt="Home Icon" class="page-title-icon" />
-        <span class="page-title-text">{title}</span>
+
       </a>
       <script dangerouslySetInnerHTML={{ __html: clientScript }} />
     </h2>
@@ -53,8 +53,8 @@ PageTitle.css = `
 }
 
 .page-title-icon {
-  width: 5rem;
-  height: 5rem;
+  width: 8rem;
+  height: 8rem;
 }
 
 .page-title-text {

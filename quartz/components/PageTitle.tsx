@@ -7,7 +7,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   const siteBase = cfg.baseUrl ? new URL(`https://${cfg.baseUrl}`).pathname : ""
-  const defaultIcon = `${siteBase}/images/low/icon.webp`
+  const defaultIcon = `${siteBase}/images/low/icon2_white.webp`
 
   // Render <script> for client-side logging and icon path adjustment
   const clientScript = `

@@ -13,7 +13,7 @@ tags:
 
 Now that your Java tools are ready, it’s time to write your very first Java program! This tiny adventure checks that everything’s working — and gives your computer its first friendly greeting from you 🤗.
 
-## 📂 Step 2: Create Your Robot Lab
+## 📂 Step 1: Create Your Robot Lab
 
 1. Create your `HelloWorldTest` folder on your desktop.
 2. Inside VS Code, go to **File → Open Folder...** and choose your `HelloWorldTest` folder.
@@ -21,7 +21,7 @@ Now that your Java tools are ready, it’s time to write your very first Java pr
 4. If VS Code asks whether you **trust** the workspace, choose **Trust** and install any recommended extensions.
 
 
-## ✅ Step 3: Prep for First Program
+## ✅ Step 2: Prep for First Program
 
 Make sure everything is installed and working — we’ll write our first program on the next page! 😄
 

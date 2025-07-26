@@ -10,7 +10,7 @@ Welcome to **Infinite Mind Pictures Wiki** — a collection of interactive learn
 
 ## Content
 
-### 🛰️ [Pilots of Gallaxia](/pilots_of_gallaxia/) (WIP)
+### 🛰️ [Pilots of Gallaxia](/pilots_of_gallaxia/)
 
 Race across the stars to rescue your scientist in this tabletop adventure.
 
@@ -18,15 +18,15 @@ Race across the stars to rescue your scientist in this tabletop adventure.
 
 Investigate environmental systems, green tech, and sustainable practices.
 
-### 🎬 [Minecraft Movie Course](/minecraft_movie_course/) (WIP)
+### 🎬 [Minecraft Movie Course](/minecraft_movie_course/)
 
 Learn the basics of filmmaking by creating your own Minecraft movie from script to final edit.
 
-### 🚀 [RoboCode Lab](/robocode/) (WIP)
+### 🚀 [RoboCode Lab](/robocode/)
 
 Explore the fundamentals of programming and combat AI using Robocode.
 
-### 🏅 [EarthCraft Olympiad](/earthcraft_olympiad/) (WIP)
+### 🏅 [EarthCraft Olympiad](/earthcraft_olympiad/)
 
 A five-day camp of collaborative Minecraft competitions focused on ecology, energy, and economy.
 

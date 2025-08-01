@@ -106,6 +106,26 @@ String message = "Hello, world!";
 | `char`    | Single characters   | `'A'`, `'Z'`, `'!'`, `'1'`         | Must use single quotes `' '`, ASCII aware |
 | `String`  | Words and sentences | `"Hello" + name`, `"Score: " + 5`  | Double quotes, use `+` to build messages  |
 
+## 🚀 Practice in Visual Studio Code
+
+Time to try these datatypes yourself! Open **Visual Studio Code** and create a new file called `Example.java`.
+
+```java
+public class Example {
+    public static void main(String[] args) {
+        System.out.println("Hello Robocode!");
+    }
+}
+```
+
+Save the file, then run the following in your VS Code terminal:
+
+```bash
+javac Example.java
+java Example
+```
+
+You'll see the greeting printed to the console. Modify the message or add variables from the table above, recompile with `javac`, and run again to observe the changes.
 ---
 
 > 🧪 **Challenge:** Try printing out these different types using `System.out.println()` and see what happens!

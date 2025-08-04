@@ -149,4 +149,4 @@ System.out.println("Hi " + "there!"); // String join
 ## Navigation
 
 ⬅️ [Back: Variables](/robocode/Day-3/00_variables_and_datatypes)
-➡️ [Next: Input / Output](/robocode/Day-4/00_system_out_debugging)
+➡️ [Next: Input / Output](/robocode/Day-4/01_system_out_debugging)

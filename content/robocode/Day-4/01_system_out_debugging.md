@@ -1,6 +1,6 @@
 ---
 
-title: "1 - System.out.println for Debugging"
+title: "2 - System.out.println for Debugging"
 tags:
   - robocode
   - tutorial
@@ -9,7 +9,7 @@ tags:
   - intermediate
 ---
 
-> Let's jump into **1 - System.out.println for Debugging** 😎
+> Let's jump into **2 - System.out.println for Debugging** 😎
 
 # Using System.out.println
 
@@ -113,4 +113,5 @@ Try adding `System.out.println` to other events like `onBulletHit`, `onBulletMis
 
 ## Navigation
 
-➡️ [Next: ScannedRobotEvent](/robocode/Day-4/01_scanned_robot_event)
+⬅️ [Back: VS Code Autocomplete Setup](/robocode/Day-4/00_vscode_api_setup)
+➡️ [Next: ScannedRobotEvent](/robocode/Day-4/02_scanned_robot_event)

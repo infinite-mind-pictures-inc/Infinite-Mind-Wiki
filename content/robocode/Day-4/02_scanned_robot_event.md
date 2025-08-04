@@ -1,6 +1,6 @@
 ---
 
-title: "2 - ScannedRobotEvent"
+title: "3 - ScannedRobotEvent"
 tags:
   - robocode
   - tutorial
@@ -9,7 +9,7 @@ tags:
   - intermediate
 ---
 
-> Gear up for **2 - ScannedRobotEvent** 😎
+> Gear up for **3 - ScannedRobotEvent** 😎
 
 # Working with ScannedRobotEvent
 
@@ -92,5 +92,5 @@ public void onScannedBot(ScannedBotEvent event) {
 
 ## Navigation
 
-🡌 [Back: System.out.println for Debugging](/robocode/Day-4/00_system_out_debugging)
-➡️ [Next: HitByBulletEvent](/robocode/Day-4/02_hit_by_bullet_event)
+🡌 [Back: System.out.println for Debugging](/robocode/Day-4/01_system_out_debugging)
+➡️ [Next: HitByBulletEvent](/robocode/Day-4/03_hit_by_bullet_event)

@@ -30,7 +30,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir} class="page-title-link">
         <img src={defaultIcon} alt="Home Icon" class="page-title-icon" />
-
+        <span class="page-title-text">{title}</span>
       </a>
       <script dangerouslySetInnerHTML={{ __html: clientScript }} />
     </h2>

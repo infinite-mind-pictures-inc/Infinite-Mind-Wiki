@@ -1,5 +1,5 @@
 ---
-title: "5 - Tank Colors"
+title: "4 - Tank Colors"
 tags:
   - robocode
   - tutorial

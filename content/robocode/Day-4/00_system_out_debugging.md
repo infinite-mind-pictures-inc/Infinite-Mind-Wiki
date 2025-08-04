@@ -41,13 +41,21 @@ Let’s say you want your robot to introduce itself and report key events.
 First, define a name in your robot class:
 
 ```java
-public class DebugBot extends Robot {
+import dev.robocode.tankroyale.botapi.*;
+import dev.robocode.tankroyale.botapi.events.*;
+
+public class DebugBot extends Bot {
     String name = "Mr Robot";
+
+    public DebugBot() {
+        super(BotInfo.fromFile("DebugBot.json"));
+    }
 ```
 
 ### Step 2: Add println Messages in Key Methods
 
 ```java
+    @Override
     public void run() {
         System.out.println("Hello! My name is " + name);
         while (true) {
@@ -57,18 +65,21 @@ public class DebugBot extends Robot {
         }
     }
 
-    public void onScannedRobot(ScannedRobotEvent e) {
+    @Override
+    public void onScannedBot(ScannedBotEvent e) {
         System.out.println(name + " saw a robot");
         fire(1);
     }
 
+    @Override
     public void onHitByBullet(HitByBulletEvent e) {
-        System.out.println(name + " was hit by a bullet from direction: " + e.getBearing());
+        System.out.println(name + " was hit by a bullet from direction: " + e.getBullet().getDirection());
         back(50);
     }
 
+    @Override
     public void onHitWall(HitWallEvent e) {
-        System.out.println(name + " hit a wall at bearing: " + e.getBearing());
+        System.out.println(name + " hit a wall");
         back(100);
     }
 ```
@@ -82,7 +93,7 @@ Hello! My name is Mr Robot
 Turning right and scanning...
 Mr Robot saw a robot
 Mr Robot was hit by a bullet from direction: 45.0
-Mr Robot hit a wall at bearing: 90.0
+Mr Robot hit a wall
 ```
 
 This gives you a real-time log of what’s going on during battle.

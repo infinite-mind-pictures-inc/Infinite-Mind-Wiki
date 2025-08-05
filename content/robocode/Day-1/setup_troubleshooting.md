@@ -14,6 +14,24 @@ tags:
 
 - **Issue:** Double-clicking the app does nothing.
   **Fix:** Make sure the downloaded folder is fully extracted. On macOS, right-click and choose _Open_ the first time to bypass security prompts.
+- **Issue:** Robocode GUI won't open due to an incorrect Java version.
+  **Fix:** Point to Java 21 before launching Robocode:
+
+  **macOS**
+
+  ```bash
+  export JAVA_HOME=$(/usr/libexec/java_home -v 21)
+  export PATH=$JAVA_HOME/bin:$PATH
+  ```
+
+  **Windows**
+
+  ```cmd
+  set "JAVA_HOME=C:\Program Files\Java\jdk-21"
+  set "PATH=%JAVA_HOME%\bin;%PATH%"
+  ```
+
+  These commands temporarily use the correct JDK for the current session.
 
 ## "java" or "javac" not found
 

@@ -22,9 +22,7 @@ Download the ZIP file [from Google Drive](https://drive.google.com/file/d/1i6FZa
 - A workspace folder
 - A starter Java robot template
 
-
 <img src="/images/low/robocode/robocode_zip_file.webp" alt="robocode file view" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-
 
 > 📦 If you haven't received the ZIP, ask your instructor or team lead.
 
@@ -37,18 +35,19 @@ Download the ZIP file [from Google Drive](https://drive.google.com/file/d/1i6FZa
 3. Open your VS Code.
 4. Use **File → Open Folder** and select the `RoboCode/robots/MyFirstRobot` directory on your desktop.
 
-
 ## Step 3: Verify the Setup
+
 - Open the Robocode application from the `robocode` folder.
   - Launch it by running `robocode-tankroyale-gui`.
 - In the Robocode window, go to **Config → Bot Root Directories...** and select your `robots` folder.
 - Open the `robots` folder in your editor — it should contain a file like `MyFirstRobot.java`.
 - You're now ready to write your first robot logic!
 
----
+> Having trouble? Check the [Setup Troubleshooting](/robocode/Day-1/setup_troubleshooting) guide.
 
+---
 
 ## Navigation
 
 ⬅️ [Back: Setup with VS Code](/robocode/Day-1/01_setup_vscode)
-➡️ [Next: Hello World Program](/robocode/Day-1/03_hello_world)
+➡️ [Next: Setup Troubleshooting](/robocode/Day-1/setup_troubleshooting)

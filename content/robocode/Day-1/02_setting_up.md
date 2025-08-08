@@ -16,7 +16,7 @@ Before we start programming robots, let's make sure your environment is ready.
 
 ## Step 1: Download the Starter Pack
 
-Download the ZIP file [from Google Drive](https://drive.google.com/file/d/1i6FZac8pu5t5NaLergF418TffxZa45ST/view?usp=drive_link) provided by your instructor. It contains everything you need to begin:
+Download the ZIP file [from Google Drive](https://drive.google.com/file/d/13ebKEZ2cWdQoog77BaIlyOVg-u_DIJsQ/view?usp=sharing) provided by your instructor. It contains everything you need to begin:
 
 - Robocode application
 - A workspace folder

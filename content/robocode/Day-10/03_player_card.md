@@ -13,6 +13,11 @@ tags:
 
 Use the [player card generator](https://docs.google.com/forms/d/e/1FAIpQLSeO3NAcXqPCaacO21ZvApGUHdzv9Nuon2acvDtka6GBHQW6Hw/viewform?usp=header) to design your card.
 
+Open your robot's `.json` descriptor file (for example, `MyFirstBot.json`).
+Select all of the text (`Ctrl+A`, `Ctrl+C`) and paste those contents into the
+generator when prompted. Be sure you're copying the contents of the file, not
+the file itself.
+
 ## Capture a Screenshot
 
 Use the Windows **Snipping Tool** to grab a clean shot of your bot during a battle:

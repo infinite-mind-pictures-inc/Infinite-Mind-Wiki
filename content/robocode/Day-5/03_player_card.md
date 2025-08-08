@@ -13,6 +13,8 @@ tags:
 
 Use the [player card generator](https://docs.google.com/forms/d/e/1FAIpQLSeO3NAcXqPCaacO21ZvApGUHdzv9Nuon2acvDtka6GBHQW6Hw/viewform?usp=header) to design your card.
 
+   <img src="/images/low/robocode/example_upload_forum.webp" alt="example_forum_upload" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+
 Open your robot's `.json` descriptor file (for example, `MyFirstBot.json`).
 Select all of the text (`Ctrl+A`, `Ctrl+C`) and paste those contents into the
 generator when prompted. Be sure you're copying the contents of the file, not

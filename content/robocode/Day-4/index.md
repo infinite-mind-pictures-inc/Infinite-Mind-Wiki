@@ -22,5 +22,5 @@ tags:
 > Get pumped for **Day 4** 😎
 - [VS Code Autocomplete Setup](/robocode/Day-4/00_vscode_api_setup)
 - [System.out.println for Debugging](/robocode/Day-4/01_system_out_debugging)
-- [ScannedBotEvent](/robocode/Day-4/02_scanned_robot_event)
+- [ScannedBotEvent](/robocode/Day-4/02_scanned_bot_event)
 - [HitByBulletEvent](/robocode/Day-4/03_hit_by_bullet_event)

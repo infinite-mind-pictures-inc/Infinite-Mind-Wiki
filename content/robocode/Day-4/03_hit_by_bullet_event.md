@@ -54,5 +54,5 @@ But for now, this two‑line dodge keeps things simple and fun.
 
 ## Navigation
 
-⬅️ [Back: ScannedRobotEvent](/robocode/Day-4/02_scanned_robot_event)
+⬅️ [Back: ScannedBotEvent](/robocode/Day-4/02_scanned_bot_event)
 ➡️ [Next: Day 5](/robocode/Day-5/index)

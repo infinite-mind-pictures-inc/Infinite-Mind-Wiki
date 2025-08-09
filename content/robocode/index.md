@@ -73,7 +73,7 @@ Finale: A **Robocode tournament** with a focus on **kindness**, **peer feedback*
 
 ### [🌀 Day 4: Events & Output](/robocode/Day-4/)
 
-- React to `ScannedRobotEvent`, `HitByBulletEvent`
+- React to `ScannedBotEvent`, `HitByBulletEvent`
 - Use print statements as narrative tools
 - Celebrate every bug as a clue
 

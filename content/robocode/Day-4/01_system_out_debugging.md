@@ -114,4 +114,4 @@ Try adding `System.out.println` to other events like `onBulletHit`, `onBulletMis
 ## Navigation
 
 ⬅️ [Back: VS Code Autocomplete Setup](/robocode/Day-4/00_vscode_api_setup)
-➡️ [Next: ScannedRobotEvent](/robocode/Day-4/02_scanned_robot_event)
+➡️ [Next: ScannedBotEvent](/robocode/Day-4/02_scanned_bot_event)

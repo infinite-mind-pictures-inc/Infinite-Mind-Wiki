@@ -1,6 +1,6 @@
 ---
 
-title: "3 - ScannedRobotEvent"
+title: "3 - ScannedBotEvent"
 tags:
   - robocode
   - tutorial
@@ -9,13 +9,13 @@ tags:
   - intermediate
 ---
 
-> Gear up for **3 - ScannedRobotEvent** 😎
+> Gear up for **3 - ScannedBotEvent** 😎
 
-# Working with ScannedRobotEvent
+# Working with ScannedBotEvent
 
-`ScannedRobotEvent` is a key event in Robocode, fired automatically whenever your robot's radar detects another robot. Almost every robot should override this method to respond to detected opponents.
+`ScannedBotEvent` is a key event in Robocode, fired automatically whenever your robot's radar detects another robot. Almost every robot should override this method to respond to detected opponents.
 
-## `onScannedRobot(ScannedRobotEvent event)`
+## `onScannedBot(ScannedBotEvent event)`
 
 ### What it Does
 
@@ -27,28 +27,24 @@ The **bearing** you receive is *relative* to your robot's current heading.
 ### Method Signature
 
 ```java
-public void onScannedRobot(ScannedRobotEvent event)
+public void onScannedBot(ScannedBotEvent event)
 ```
 
 ### Parameters
 
-* `event`: An instance of `ScannedRobotEvent` containing data about the scanned robot.
+* `event`: An instance of `ScannedBotEvent` containing data about the scanned robot.
 
 ### Event Data Includes:
 
 | Method                | Description                                                |
 | --------------------- | ---------------------------------------------------------- |
+| `getScannedByBotId()` | Returns the ID of the bot that performed the scan.         |
 | `getScannedBotId()`   | Returns the ID of the scanned bot.                         |
 | `getX()`              | X-coordinate of the scanned bot (center of the bot).       |
 | `getY()`              | Y-coordinate of the scanned bot (center of the bot).       |
 | `getEnergy()`         | Energy level of the scanned bot.                           |
 | `getDirection()`      | Movement direction (angle) of the scanned bot in degrees.  |
 | `getSpeed()`          | Speed of the scanned bot (in units per turn).              |
-| `getTurnRate()`       | The turn rate of the scanned bot (in degrees per turn).    |
-| `getGunDirection()`   | The angle of the scanned bot's gun (in degrees).           |
-| `getGunHeat()`        | How much heat is in the gun (used to know if it can fire). |
-| `getRadarDirection()` | The angle of the scanned bot’s radar (in degrees).         |
-| `getRadarSweep()`     | The radar’s scan arc width (in degrees).                   |
 
 
 ### Example:
@@ -85,8 +81,8 @@ public void onScannedBot(ScannedBotEvent event) {
 
 ### Summary:
 
-* Override `onScannedRobot` to react to enemies.
-* Use the data in `ScannedRobotEvent` to decide when and how to fire.
+* Override `onScannedBot` to react to enemies.
+* Use the data in `ScannedBotEvent` to decide when and how to fire.
 
 ---
 

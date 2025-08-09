@@ -85,8 +85,7 @@ Use this info to aim, dodge, and stay in the fight!
 Follow these steps to set up your PlayerBot and get it running in a Robocode Tank Royale match!
 
 ---
-
-### 1. 📁 Download the Files
+### 1. 📁 Download the Launcher
 
 Your instructor will give you a file:
 
@@ -96,25 +95,12 @@ Save this file somewhere easy to find, such as a folder on your Desktop. You can
 
 ---
 
-### 2. 🧑‍💻 Open the Launcher
-
-1. Double-click `PlayerBotLauncher.jar` to run it.
-2. A small window will appear asking you to enter two things:
-
-   * **Server Address** – this should start with `ws://`
-   * **Server Secret** – you'll get this from your local server setup.
-
----
-
-### 3. 🔐 Get Your Server Secret
+### 2. 🔐 Start the Local Server and Copy the Secret
 
 1. Start the **Robocode Tank Royale Launcher**.
-
-2. Click **Start Local Server** (this sets up your own battle arena).
-
-3. Go to your Robocode server folder and open the file `server.properties`.
-
-4. Find the line that says:
+2. Click **Start Local Server** to create your battle arena.
+3. Open the file `server.properties` in your Robocode server folder.
+4. Find the line:
 
    ```
    bots-secrets = YOUR_SECRET_KEY
@@ -124,44 +110,18 @@ Save this file somewhere easy to find, such as a folder on your Desktop. You can
 
 ---
 
-### 4. 🚀 Launch Your Bot
+### 3. 🚀 Launch Your Bot
 
-1. Paste the address (usually `ws://localhost:7654`) into the address box.
-2. Paste your secret key into the secret box.
-3. Click the **Launch Bot** button.
-4. If everything is set up correctly, you’ll see your bot appear in the list of ready bots when starting a match.
+1. Double-click `PlayerBotLauncher.jar`.
+2. Enter the server address (usually `ws://localhost:7654`).
+3. Paste your secret key into the secret box.
+4. Click **Launch Bot**.
 
----
-
-You're now ready to battle! 🎯
-
-If something doesn’t work, double-check the address and secret you typed in. Make sure your local server is running before launching the bot.
+If everything is set up correctly, you’ll see your bot appear in the list of ready bots when starting a match.
 
 ---
 
-### 5. 🧪 Start the Local Server (If Not Already Running)
-
-Make sure the Local Server is still running in the Robocode Launcher.
-
----
-
-### 6. 🚀 Run the PlayerBot
-
-In VS Code:
-
-1. Open the terminal (**View > Terminal**).
-2. Type this and press Enter:
-
-```
-PlayerBot.cmd
-
-```
-
-PlayerBot will start, and you should see some logs in the terminal.
-
----
-
-### 7. ✅ Confirm It's Working
+### 4. ✅ Confirm It's Working
 
 Go back to the Robocode Launcher and click **Start Game**.
 
@@ -169,7 +129,7 @@ Go back to the Robocode Launcher and click **Start Game**.
 
 You're all set! Have fun driving your robot!
 
-```
+If something doesn’t work, double-check the address and secret and make sure the local server is running.
 
 ---
 

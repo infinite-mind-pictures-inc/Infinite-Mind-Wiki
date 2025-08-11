@@ -6,7 +6,7 @@ tags:
 
 # 🎮 Try the PlayerBot! (WASD + Q/E + Space)
 
-Before you start coding your own AI tank, it's important to understand how Robocode movement and firing actually *feel*. To help you do that, we’ve built a special tank that YOU can drive around!
+Before you start coding your own AI tank, it's important to understand how Robocode movement and firing actually _feel_. To help you do that, we’ve built a special tank that YOU can drive around!
 
 ---
 
@@ -43,23 +43,23 @@ Keep an eye on how the red dot switches to yellow—this tells you the enemy has
 
 ## 💚 Health Bars
 
-* 🔴 **Red Bar** – The opponent tank's energy
-* 🟢 **Green Bar** – Your robot’s energy
+- 🔴 **Red Bar** – The opponent tank's energy
+- 🟢 **Green Bar** – Your robot’s energy
 
 ---
 
 ## 📡 Visibility Info
 
-This section shows what your robot *currently sees* using its scanner. If it hasn't scanned an opponent recently, it will say "No opponent scanned."
+This section shows what your robot _currently sees_ using its scanner. If it hasn't scanned an opponent recently, it will say "No opponent scanned."
 
-When you *do* scan an opponent, you’ll see:
+When you _do_ scan an opponent, you’ll see:
 
-* **Angle** – Where the opponent was spotted
-* **Opponent ID** – Their unique robot number
-* **Opponent X/Y** – The position of the opponent on the map
-* **Opponent Energy** – How much health they have
-* **Opponent Direction** – Which way they’re moving
-* **Opponent Speed** – How fast they’re going
+- **Angle** – Where the opponent was spotted
+- **Opponent ID** – Their unique robot number
+- **Opponent X/Y** – The position of the opponent on the map
+- **Opponent Energy** – How much health they have
+- **Opponent Direction** – Which way they’re moving
+- **Opponent Speed** – How fast they’re going
 
 ---
 
@@ -67,29 +67,29 @@ When you *do* scan an opponent, you’ll see:
 
 These numbers help you understand your own tank:
 
-* **Energy** – Your robot’s current health
-* **X/Y** – Your robot’s position on the map
-* **Heading** – Which direction your robot is facing
-* **Gun Heading** – Which way your gun is pointing
-* **Radar Heading** – Which way your radar is scanning
-* **Gun Heat** – How hot your gun is (can’t fire until it cools!)
-* **Speed** – How fast you’re moving
+- **Energy** – Your robot’s current health
+- **X/Y** – Your robot’s position on the map
+- **Heading** – Which direction your robot is facing
+- **Gun Heading** – Which way your gun is pointing
+- **Radar Heading** – Which way your radar is scanning
+- **Gun Heat** – How hot your gun is (can’t fire until it cools!)
+- **Speed** – How fast you’re moving
 
 Use this info to aim, dodge, and stay in the fight!
 
 ---
-
 
 ## ⚙️ Setup Instructions
 
 Follow these steps to set up your PlayerBot and get it running in a Robocode Tank Royale match!
 
 ---
+
 ### 1. 📁 Download the Launcher
 
 Your instructor will give you a file:
 
-* `PlayerBotLauncher.jar`
+- `PlayerBotLauncher.jar`
 
 Save this file somewhere easy to find, such as a folder on your Desktop. You can name the folder `PlayerBot`.
 
@@ -125,7 +125,7 @@ If everything is set up correctly, you’ll see your bot appear in the list of r
 
 Go back to the Robocode Launcher and click **Start Game**.
 
-* In the list of bots, you should now see **PlayerBot** listed as "Ready".
+- In the list of bots, you should now see **PlayerBot** listed as "Ready".
 
 You're all set! Have fun driving your robot!
 
@@ -137,13 +137,13 @@ If something doesn’t work, double-check the address and secret and make sure t
 
 Use these keys to drive:
 
-* `W` – Move forward
-* `S` – Move backward
-* `A` – Strafe left (turn body left)
-* `D` – Strafe right (turn body right)
-* `Q` – Rotate turret counterclockwise
-* `E` – Rotate turret clockwise
-* `Space` – Fire!
+- `W` – Move forward
+- `S` – Move backward
+- `A` – Strafe left (turn body left)
+- `D` – Strafe right (turn body right)
+- `Q` – Rotate turret counterclockwise
+- `E` – Rotate turret clockwise
+- `Space` – Fire!
 
 > Try spinning in place, dodging bullets, or chasing down an enemy.
 
@@ -151,10 +151,10 @@ Use these keys to drive:
 
 ## 🔍 What to Look For
 
-* How fast can you turn?
-* How long does it take for your gun to cool down?
-* What happens when you hit a wall?
-* How do bullets travel?
+- How fast can you turn?
+- How long does it take for your gun to cool down?
+- What happens when you hit a wall?
+- How do bullets travel?
 
 Use this play session to explore how the basic physics and rules of Robocode work.
 
@@ -164,10 +164,13 @@ Use this play session to explore how the basic physics and rules of Robocode wor
 
 See if you can:
 
-* Hit a moving enemy
-* Dodge incoming fire
-* Defeat "Target" in a 1v1 match
+- Hit a moving enemy
+- Dodge incoming fire
+- Defeat "Target" in a 1v1 match
 
 ---
 
-💡 *Understanding the game by playing it will make your AI robot smarter when you start programming it later!*
+💡 _Understanding the game by playing it will make your AI robot smarter when you start programming it later!_
+
+<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+  style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

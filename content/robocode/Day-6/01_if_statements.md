@@ -11,7 +11,7 @@ tags:
 
 # 🧠 Making Decisions with `if` Statements
 
-In Robocode, `if` statements help your bot make smart decisions. You can use `if`, `else if`, and `else` to control how your bot acts in different battle situations.
+In Robocode, `if` statements help your bot make smart decisions. You can use `if`, `else if`, and `else` to steer how your bot acts in different battle situations.
 
 ---
 
@@ -59,30 +59,30 @@ if (getEnergy() < 20) {
 }
 ```
 
-> This lets you react to different situations based on energy, gun heat, and number of enemies.
+> This lets you react to different situations based on energy, gun heat, and number of opponents.
 
 ---
 
-## 🎯 Example: Checking enemy position
+## 🎯 Example: Checking opponent position
 
-You can remember enemy data from the last `ScannedBotEvent`:
+You can remember opponent data from the last `ScannedBotEvent`:
 
 ```java
-private double lastEnemyDistance = 1000;
+private double lastOpponentDistance = 1000;
 
 @Override
 public void onScannedBot(ScannedBotEvent e) {
-    lastEnemyDistance = e.getX();  // Example use: store enemy's x-pos for logic
+    lastOpponentDistance = e.getX();  // Example use: store opponent's x-pos for logic
 
-    if (lastEnemyDistance < 200) {
+    if (lastOpponentDistance < 200) {
         fire(2);
     } else {
-        turnGunRight(20);  // Sweep gun if enemy is far
+        turnGunRight(20);  // Sweep gun if opponent is far
     }
 }
 ```
 
-> You’ll need to track enemy data manually in your bot.
+> You’ll need to track opponent data manually in your bot.
 
 ---
 
@@ -124,4 +124,4 @@ if (getGunHeat() == 0) {
 ## Navigation
 
 ⬅️ [Back: Boolean Basics](/robocode/Day-6/00_boolean_basics)
-➡️ [Next: Truth Tables](/robocode/Day-6/02_truth_tables)
+➡️ [Next: Conditions & Logic](/robocode/Day-6/02_conditions_and_logic)

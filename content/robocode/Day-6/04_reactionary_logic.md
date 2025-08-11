@@ -26,8 +26,8 @@ import dev.robocode.tankroyale.botapi.events.*;
 
 public class ReactiveBot extends Bot {
 
-    private double lastEnemyX = 0;
-    private double lastEnemyY = 0;
+    private double lastOpponentX = 0;
+    private double lastOpponentY = 0;
 
     public ReactiveBot() {
         super(BotInfo.fromFile("ReactiveBot.json"));
@@ -36,20 +36,20 @@ public class ReactiveBot extends Bot {
     @Override
     public void run() {
         while (true) {
-            turnRadarRight(360);  // Spin radar to look for enemies
+            turnRadarRight(360);  // Spin radar to look for opponents
         }
     }
 
     @Override
     public void onScannedBot(ScannedBotEvent e) {
-        lastEnemyX = e.getX();
-        lastEnemyY = e.getY();
+        lastOpponentX = e.getX();
+        lastOpponentY = e.getY();
 
         double myX = getX();
         double myY = getY();
 
-        double dx = lastEnemyX - myX;
-        double dy = lastEnemyY - myY;
+        double dx = lastOpponentX - myX;
+        double dy = lastOpponentY - myY;
         double distance = Math.hypot(dx, dy);
 
         if (distance < 150) {
@@ -66,7 +66,7 @@ public class ReactiveBot extends Bot {
 ## 🧠 How It Works
 
 - `run()` spins the radar in a loop.
-- When `onScannedBot` triggers, we store the enemy's location.
+- When `onScannedBot` triggers, we store the opponent's location.
 - We use `Math.hypot(dx, dy)` to calculate distance.
 - The `if` statement checks that distance to decide firepower.
 

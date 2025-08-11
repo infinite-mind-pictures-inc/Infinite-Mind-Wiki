@@ -61,18 +61,18 @@ while (getGunHeat() > 0) {
 - Repeat what's inside `{}` until the condition is false
 
 ```java
-while (enemyCount > 0) {
+while (opponentCount > 0) {
     scan();
     fire(2);
-    enemyCount--;
+    opponentCount--;
 }
 ```
 
-> Looping ends when no enemies are left.
+> Looping ends when no opponents are left.
 
 ---
 
 ## Navigation
 
-⬅️ [Back: Truth Tables](/robocode/Day-6/02_truth_tables)
+⬅️ [Back: Conditions & Logic](/robocode/Day-6/02_conditions_and_logic)
 ➡️ [Next: Reactionary Logic](/robocode/Day-6/04_reactionary_logic)

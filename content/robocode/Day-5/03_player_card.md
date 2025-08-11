@@ -10,7 +10,6 @@ tags:
 
 > Showcase your robot by designing a personalized player card.
 
-
 Use the [player card generator](https://docs.google.com/forms/d/e/1FAIpQLSeO3NAcXqPCaacO21ZvApGUHdzv9Nuon2acvDtka6GBHQW6Hw/viewform?usp=header) to design your card.
 
    <img src="/images/low/robocode/example_upload_forum.webp" alt="example_forum_upload" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
@@ -35,3 +34,5 @@ A crisp screenshot looks great on your player card!
 ⬅️ [Back: Wrapping Up](/robocode/Day-5/02_wrap_up)
 ➡️ [Next: Day 6](/robocode/Day-6/index)
 
+<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+  style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

@@ -23,6 +23,6 @@ tags:
 
 - [Boolean Basics](/robocode/Day-6/00_boolean_basics)
 - [If Statements](/robocode/Day-6/01_if_statements)
-- [Truth Tables](/robocode/Day-6/02_truth_tables)
+- [Conditions & Logic](/robocode/Day-6/02_conditions_and_logic)
 - [Loops](/robocode/Day-6/03_loops)
 - [Reactionary Logic](/robocode/Day-6/04_reactionary_logic)

@@ -10,11 +10,6 @@ tags:
 
 > Kick off Day 4 by configuring **Robocode API** autocomplete in VS Code.
 
-## Copy the API JAR
-
-1. Find the Robocode API JAR (e.g., `robocode-tankroyale-bot-api-0.32.1.jar`) in your downloaded Robocode folder. Look for `robocode-tankroyale-bot-api-<version>.jar` to use the latest version.
-2. Copy it into the root of your robot project.
-
 ## Configure VS Code
 
 1. Inside your project, create a folder named `.vscode`.
@@ -24,12 +19,14 @@ tags:
 ```json
 {
     "java.project.referencedLibraries": [
-        "*.jar"
+        "../lib/*.jar"
     ]
 }
 ```
 
-This tells VS Code to load any JAR in your project so IntelliSense can use the Robocode API.
+This tells VS Code to load any JAR stored in a sibling `lib` folder so IntelliSense can use the Robocode API without moving files into your project.
+
+If you keep the JAR in your project root instead, replace `../lib/*.jar` with `*.jar`.
 
 ---
 

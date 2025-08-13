@@ -120,8 +120,8 @@ A clear strategy leads to cleaner code.
 
 Design a flowchart for:
 
-* Avoiding enemy fire while scanning
-* Charging toward low-energy enemies
+* Avoiding opponent fire while scanning
+* Charging toward low-energy opponents
 
 Once you're done, turn it into methods and `if` statements in your code.
 

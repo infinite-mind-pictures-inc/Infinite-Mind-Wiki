@@ -86,7 +86,7 @@ rescan();
 * `broadcastTeamMessage(Object msg)` – send JSON‑serialisable data to teammates
 
 ```java
-double bulletTime = enemyDist / calcBulletSpeed(1.8);
+double bulletTime = opponentDist / calcBulletSpeed(1.8);
 ```
 
 ---
@@ -148,7 +148,7 @@ Occurs every game tick. Keep logic lightweight to avoid skipped turns.
 
 ### `ScannedBotEvent` (80)
 
-Radar spotted an enemy.
+Radar spotted an opponent.
 
 ```java
 @Override public void onScannedBot(ScannedBotEvent e) {

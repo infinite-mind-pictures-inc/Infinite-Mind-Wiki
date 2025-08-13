@@ -141,7 +141,7 @@ System.out.println("debug")  // print to console
 
 * Stay moving: dodging is defense
 * Use low firepower when energy is low
-* Turn perpendicular to enemy fire
+* Turn perpendicular to opponent fire
 * Scan frequently: keep tracking bots
 * Avoid running into the walls
 

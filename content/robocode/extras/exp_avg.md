@@ -12,8 +12,8 @@ tags:
 
 ## 1. Why Do We Need It? 🤔
 
-* In Robocode your radar sees an enemy robot at slightly different angles each tick (game step).
-* Those readings can jump around because the enemy moves or because of tiny measurement errors.
+* In Robocode your radar sees an opponent robot at slightly different angles each tick (game step).
+* Those readings can jump around because the opponent moves or because of tiny measurement errors.
 * A jumpy red dot on your compass makes aiming messy – your turret might wiggle wildly.
 * **Exponential averaging** calms the dot down by blending the newest angle with the earlier average, giving you a smooth, easy‑to‑follow path.
 
@@ -79,7 +79,7 @@ private void updateSmoothedAngle(double newAngle) {
 
 ## 6. Choosing a Good Alpha 🎚️
 
-* **Small α (0.05–0.15)** – smoother dot, but reacts slowly if the enemy zig‑zags.
+* **Small α (0.05–0.15)** – smoother dot, but reacts slowly if the opponent zig‑zags.
 * **Medium α (0.2–0.3)** – good balance for most targets.
 * **Large α (0.4–0.6)** – follows quick turns, but the dot may shake more.
 

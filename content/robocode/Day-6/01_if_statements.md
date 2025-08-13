@@ -52,7 +52,7 @@ Use `else if` to check more than one possibility:
 ```java
 if (getEnergy() < 20) {
     back(50);
-} else if (getGunHeat() == 0 && getEnemyCount() > 1) {
+} else if (getGunHeat() == 0 && getOpponentCount() > 1) {
     fire(3);  // Fire stronger if there are multiple bots
 } else {
     forward(30);

@@ -26,15 +26,15 @@ public void onScannedBot(ScannedBotEvent e) {
 public void onScannedBot(ScannedBotEvent e) {
     double direction = e.getDirection();
 
-    attackEnemy(direction);
-    retreatFromEnemy(direction);
+    attackOpponent(direction);
+    retreatFromOpponent(direction);
 }
 
-private void attackEnemy(double direction) {
+private void attackOpponent(double direction) {
     fire(2);
 }
 
-private void retreatFromEnemy(double direction) {
+private void retreatFromOpponent(double direction) {
     back(100);
     turnLeft(90);
 }
@@ -50,10 +50,10 @@ You can pass **values between methods using parameters**. This helps keep your l
 
 ```java
 public void onScannedBot(ScannedBotEvent e) {
-    double enemy_x = e.getX();
-    double enemy_y = e.getY();
+    double opponent_x = e.getX();
+    double opponent_y = e.getY();
 
-    aimAt(enemy_x, enemy_y);
+    aimAt(opponent_x, opponent_y);
 }
 
 private void aimAt(double x, double y) {
@@ -71,12 +71,12 @@ Use **camelCase** for method names, and **snake_case** for variables.
 
 ```java
 // camelCase for methods
-private void turnToEnemy() {
+private void turnToOpponent() {
     // ...
 }
 
 // snake_case for variables
-double enemy_distance = 180;
+double opponent_distance = 180;
 int bullet_count = 3;
 ```
 

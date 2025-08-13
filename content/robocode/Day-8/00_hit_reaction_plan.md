@@ -18,7 +18,7 @@ Before you write a single line of code, it helps to map out what your robot will
 
 # 🚦 Simple Event Flow – **Robocode Tank Royale** Bot
 
-This kid‑friendly flowchart shows **what happens each game tick**. In Tank Royale the game engine automatically calls the three event methods *first*. If none of them fire, your `run()` code is the **fallback** that keeps your bot moving and scanning.
+This flowchart shows **what happens each game tick**. In Tank Royale the game engine automatically calls the three event methods *first*. If none of them fire, your `run()` code is the **fallback** that keeps your bot moving and scanning.
 
 * **`onScannedBot(ScannedBotEvent e)`** – you spotted an opponent.
 * **`onHitByBullet(HitByBulletEvent e)`** – you were hit by a bullet.

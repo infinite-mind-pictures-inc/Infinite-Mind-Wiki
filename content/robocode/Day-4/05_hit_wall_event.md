@@ -22,8 +22,8 @@ When your robot collides with the arena boundary, the `onHitWall` method runs.
 ```java
 @Override
 public void onHitWall(HitWallEvent botHitWallEvent) {
-    // 1. Turn 180° away from the wall
-    turnRight(180);
+    // 1. Turn left 180° away from the wall
+    turnLeft(180);
     // 2. Move forward to escape
     forward(100);
 }

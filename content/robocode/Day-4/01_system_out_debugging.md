@@ -80,7 +80,8 @@ public class DebugBot extends Bot {
     @Override
     public void onHitWall(HitWallEvent e) {
         System.out.println(name + " hit a wall");
-        back(100);
+        turnLeft(180);
+        forward(100);
     }
 ```
 

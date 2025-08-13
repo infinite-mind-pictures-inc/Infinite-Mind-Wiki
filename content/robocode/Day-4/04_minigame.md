@@ -33,11 +33,11 @@ Use this guide to understand the colored dots on PlayerBot’s on‑screen compa
 | Dot Colour    | Meaning                                                                                                               |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- |
 | 🔴 **Red**    | Opponent’s **current** location (shown right after a scan).                                                           |
-| 🟡 **Yellow** | Opponent’s **previous** location. The red dot turns yellow once the enemy moves, so you can see where they were last. |
+| 🟡 **Yellow** | Opponent’s **previous** location. The red dot turns yellow once the opponent moves, so you can see where they were last. |
 | 🔵 **Blue**   | Direction your **gun turret** is pointing.                                                                            |
 | 🟢 **Green**  | Direction your **tank body** is pointing.                                                                             |
 
-Keep an eye on how the red dot switches to yellow—this tells you the enemy has changed position since your last scan.
+Keep an eye on how the red dot switches to yellow—this tells you the opponent has changed position since your last scan.
 
 ---
 
@@ -145,7 +145,7 @@ Use these keys to drive:
 - `E` – Rotate turret clockwise
 - `Space` – Fire!
 
-> Try spinning in place, dodging bullets, or chasing down an enemy.
+> Try spinning in place, dodging bullets, or chasing down an opponent.
 
 ---
 
@@ -164,7 +164,7 @@ Use this play session to explore how the basic physics and rules of Robocode wor
 
 See if you can:
 
-- Hit a moving enemy
+- Hit a moving opponent
 - Dodge incoming fire
 - Defeat "Target" in a 1v1 match
 

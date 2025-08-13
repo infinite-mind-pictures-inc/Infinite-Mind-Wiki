@@ -19,7 +19,7 @@ tags:
 
 ### What it Does
 
-This method is called when your robot sees another robot — i.e., when your radar scan "hits" another robot. You must override this method if you want your robot to respond to nearby enemies.
+This method is called when your robot sees another robot — i.e., when your radar scan "hits" another robot. You must override this method if you want your robot to respond to nearby opponents.
 
 
 The **bearing** you receive is *relative* to your robot's current heading.
@@ -52,22 +52,22 @@ public void onScannedBot(ScannedBotEvent event)
 ```java
 @Override
 public void onScannedBot(ScannedBotEvent event) {
-    // 1. Remember where the enemy is
-    double enemyX = event.getX();  // Enemy's X position
-    double enemyY = event.getY();  // Enemy's Y position
+    // 1. Remember where the opponent is
+    double opponentX = event.getX();  // Opponent's X position
+    double opponentY = event.getY();  // Opponent's Y position
 
     // 2. Remember where *we* are
     double myX = getX();           // My bot's X position
     double myY = getY();           // My bot's Y position
 
     // 3. Find the distance between us
-    double dx = enemyX - myX;      // How far apart we are in X
-    double dy = enemyY - myY;      // How far apart we are in Y
+    double dx = opponentX - myX;      // How far apart we are in X
+    double dy = opponentY - myY;      // How far apart we are in Y
 
     // 4. Use the Pythagorean theorem to get the total distance
     double distance = Math.sqrt(dx * dx + dy * dy);
 
-    System.out.println("Enemy detected at: " + distance + " pixels");
+    System.out.println("Opponent detected at: " + distance + " pixels");
 
     // Fire with stronger power if close, weaker if far
     if (distance < 100) {
@@ -81,7 +81,7 @@ public void onScannedBot(ScannedBotEvent event) {
 
 ### Summary:
 
-* Override `onScannedBot` to react to enemies.
+* Override `onScannedBot` to react to opponents.
 * Use the data in `ScannedBotEvent` to decide when and how to fire.
 
 ---

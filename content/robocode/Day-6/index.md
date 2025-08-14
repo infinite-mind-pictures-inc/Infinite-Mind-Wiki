@@ -26,3 +26,4 @@ tags:
 - [Conditions & Logic](/robocode/Day-6/02_conditions_and_logic)
 - [Loops](/robocode/Day-6/03_loops)
 - [Reactionary Logic](/robocode/Day-6/04_reactionary_logic)
+- [Variable Scope](/robocode/Day-6/05_variable_scope)

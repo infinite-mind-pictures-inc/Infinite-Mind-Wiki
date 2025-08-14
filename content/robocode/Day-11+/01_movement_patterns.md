@@ -8,6 +8,8 @@ tags:
   - intermediate
 ---
 
+The `set*` movement methods like `setTurnLeft`, `setTurnRight`, `setForward`, and `setBack` queue actions to run on the next turn. Call them from your `run()` loop or an event handler such as `onScannedRobot` so your bot can turn and move in the same tick.
+
 > Smart movement keeps your bot alive.
 
 Try mixing circles and zigzags to dodge bullets:

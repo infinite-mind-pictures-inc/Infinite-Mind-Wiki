@@ -75,7 +75,7 @@ public class ReactiveBot extends Bot {
 ## Navigation
 
 ⬅️ [Back: Loops](/robocode/Day-6/03_loops)
-➡️ [Next: Day 7](/robocode/Day-7/index)
+➡️ [Next: Variable Scope](/robocode/Day-6/05_variable_scope)
 
 <iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

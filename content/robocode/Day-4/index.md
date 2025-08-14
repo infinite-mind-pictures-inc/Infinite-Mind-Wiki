@@ -25,3 +25,4 @@ tags:
 - [ScannedBotEvent](/robocode/Day-4/02_scanned_bot_event)
 - [HitByBulletEvent](/robocode/Day-4/03_hit_by_bullet_event)
 - [HitWallEvent](/robocode/Day-4/05_hit_wall_event)
+- [Minigame](/robocode/Day-4/04_minigame)

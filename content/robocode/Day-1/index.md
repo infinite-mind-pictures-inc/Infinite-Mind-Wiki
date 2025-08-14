@@ -31,3 +31,4 @@ tags:
 - [Setup Troubleshooting](/robocode/Day-1/setup_troubleshooting)
 - [Hello World Program](/robocode/Day-1/03_hello_world)
 - [Player Profiles](/robocode/Day-1/04_player_profiles)
+- [Minigame](/robocode/Day-1/05_minigame)

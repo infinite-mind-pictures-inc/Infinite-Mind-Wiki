@@ -16,7 +16,7 @@ Before you write a single line of code, it helps to map out what your robot will
 
 ---
 
-# 🚦 Simple Event Flow – **Robocode Tank Royale** Bot
+# 🚦 Clear Event Flow – **Robocode Tank Royale** Bot
 
 This flowchart shows **what happens each game tick**. In Tank Royale the game engine automatically calls the three event methods *first*. If none of them fire, your `run()` code is the **fallback** that keeps your bot moving and scanning.
 
@@ -86,7 +86,7 @@ This flowchart shows **what happens each game tick**. In Tank Royale the game 
 
 ---
 
-✏️ **Your Task:** Copy this flow on paper, adjust the numbers (retreat distance, firepower, dodge angle) to your liking, and then mirror each box in your Java code. Visual planning keeps your bot’s logic clear and easy to debug!
+✏️ **Your Task:** Copy this flow on paper, adjust the numbers (retreat distance, firepower, dodge angle) to your liking, and then mirror each box in your Java code. Visual planning keeps your bot’s logic clear and straightforward to debug!
 
 
 ---

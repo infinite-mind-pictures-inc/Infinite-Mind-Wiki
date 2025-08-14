@@ -91,7 +91,7 @@ Your instructor will give you a file:
 
 - `PlayerBotLauncher.jar`
 
-Save this file somewhere easy to find, such as a folder on your Desktop. You can name the folder `PlayerBot`.
+Save this file somewhere convenient to find, such as a folder on your Desktop. You can name the folder `PlayerBot`.
 
 ---
 

@@ -17,7 +17,7 @@ tags:
 
 * Store information using Java variables
 * Choose the right datatype for robot state (ints, doubles, strings)
-* Use variables to control simple robot movements
+* Use variables to control basic robot movements
 
 > Ready to dive into **Day 3** 😎
 - [Variables and Datatypes](/robocode/Day-3/00_variables_and_datatypes)

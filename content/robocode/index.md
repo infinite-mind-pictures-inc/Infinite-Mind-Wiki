@@ -23,7 +23,7 @@ A gentle, supportive start for all learners. This week emphasizes **accessibilit
 Students will:
 
 - 💻 Set up Java and Robocode using multiple entry points
-- ✍️ Write simple programs with variables, loops, and conditions
+- ✍️ Write basic programs with variables, loops, and conditions
 - ⚙️ Build and move their first robot — safely and creatively
 - 📃 Practice `System.out.println` debugging as a reflection tool
 

@@ -23,4 +23,4 @@ bot.turnGunRightRadians(Utils.normalRelativeAngle(
 bot.fire(firePower);
 ```
 
-This simple approach predicts a straight-line path. Experiment with different `firePower` values to balance accuracy and energy.
+This basic approach predicts a straight-line path. Experiment with different `firePower` values to balance accuracy and energy.

@@ -24,7 +24,7 @@ You will practice **testing and improving your robot** based on what you observe
 
 ## 🔧 Debugging Tools
 
-Use these simple tricks to track down bugs:
+Use these handy tricks to track down bugs:
 
 - Print messages using `System.out.println()` to see what your bot is doing.
 - Test your bot after _each small change_.

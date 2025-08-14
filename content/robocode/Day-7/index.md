@@ -18,7 +18,7 @@ tags:
 
 - Break robot behavior into reusable methods
 - Organize your code into classes for clarity
-- Adopt naming conventions for easy collaboration
+- Adopt naming conventions for smooth collaboration
 - Catch and handle runtime errors with `try/catch`
 - Practice step-by-step debugging in VS Code
 - Prevent crashes so your robot keeps fighting

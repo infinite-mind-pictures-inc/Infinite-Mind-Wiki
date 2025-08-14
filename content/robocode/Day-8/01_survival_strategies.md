@@ -19,7 +19,7 @@ Your goal in Robocode isn’t just to win with brute force — it’s to survive
 Here are some smart moves to stay alive longer:
 
 * **💡 Energy Awareness** – Fire smaller bullets (low power) when your energy is low. Don’t run out of juice while trying to get a knockout.
-* **🏃 Constant Motion** – Never stop moving. A stationary tank is an easy target.
+* **🏃 Constant Motion** – Never stop moving. A stationary tank is a vulnerable target.
 * **↪️ Perpendicular Turning** – When you're scanned or hit, turn 90° to the opponent. It helps you dodge future shots.
 * **🧱 Wall Smoothing** – Near the edges of the arena, curve your path slightly to avoid getting trapped.
 * **🎲 Random Dodge** – Mix up your movements with random speeds and turns so opponents can't predict you.

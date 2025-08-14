@@ -23,7 +23,7 @@ If the arena is 800 wide and 600 tall, the middle is at (400, 300).
 
 ---
 
-## 🔄 Turning Directions (Easy as Turning a Toy Car!)
+## 🔄 Turning Directions (As intuitive as turning a toy car!)
 
 Think of angles like spinning a spinner or turning your body. Angles are like direction numbers:
 

@@ -8,7 +8,7 @@ tags:
   - intermediate
 ---
 
-## 4 – Dodge When Hit (Super Simple)
+## 4 – Dodge When Hit (Direct Approach)
 
 When a bullet hits your robot, the `onHitByBullet` method runs.
 
@@ -48,7 +48,7 @@ double y = getY();
 
 …and use `getDirection()` to decide which way is safest.
 
-But for now, this two‑line dodge keeps things simple and fun.
+But for now, this two‑line dodge keeps things concise and fun.
 
 [Minigame](/robocode/Day-4/04_minigame)
 

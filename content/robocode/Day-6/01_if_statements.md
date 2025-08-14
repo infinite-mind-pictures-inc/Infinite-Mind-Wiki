@@ -117,7 +117,7 @@ if (getGunHeat() == 0) {
 
 - Always start with the most **important** check first.
 - Use `{}` to group multiple lines of code.
-- Keep conditions simple and readable.
+- Keep conditions concise and readable.
 
 ---
 

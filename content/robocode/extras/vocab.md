@@ -279,7 +279,7 @@ Truncation is useful when you need the whole number part of a value and want to 
 
 ## 1.29 Primitive Data Types
 
-**Definition:** Basic data types built into Java that store simple values (not objects).
+**Definition:** Basic data types built into Java that store plain values (not objects).
 **Example:**
 
 ```java

@@ -15,7 +15,7 @@ tags:
 * In Robocode your radar sees an opponent robot at slightly different angles each tick (game step).
 * Those readings can jump around because the opponent moves or because of tiny measurement errors.
 * A jumpy red dot on your compass makes aiming messy – your turret might wiggle wildly.
-* **Exponential averaging** calms the dot down by blending the newest angle with the earlier average, giving you a smooth, easy‑to‑follow path.
+* **Exponential averaging** calms the dot down by blending the newest angle with the earlier average, giving you a smooth, clear path.
 
 ---
 

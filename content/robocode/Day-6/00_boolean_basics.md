@@ -12,7 +12,7 @@ tags:
 
 # Understanding Booleans
 
-`boolean` values represent **true** or **false**. In Robocode you often use them to track simple on/off states.
+`boolean` values represent **true** or **false**. In Robocode you often use them to track basic on/off states.
 
 ```java
 boolean targetLocked = false;

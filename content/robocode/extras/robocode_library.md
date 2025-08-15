@@ -166,6 +166,7 @@ You were hit.
 @Override public void onHitByBullet(HitByBulletEvent e) {
     setBack(100);
     setTurnRight(45);
+    go(); // run queued commands
 }
 ```
 

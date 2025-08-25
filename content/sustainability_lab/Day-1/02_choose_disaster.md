@@ -23,7 +23,7 @@ Your EARTH Knight’s story continues with a critical choice: **What kind of nat
 
 This choice sets the stage for Day 2 — where you’ll need to survive what you’ve imagined. Think like a storyteller and a city planner: What would your character fear? What would they prepare for?
 
-Pick a biome and safe spot to shelter, and make sure to record your `/tp` coordinates so you can return when the storm hits.
+Pick a biome and safe spot to shelter, then use `/sethome` to save it. When the storm hits, use `/home` to return quickly.
 
 ## Next Steps
 

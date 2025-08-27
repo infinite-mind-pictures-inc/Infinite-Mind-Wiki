@@ -20,5 +20,5 @@ Use these JavaDocs as a reference when implementing features in your robot.
 ⬅️ [Back: Sweeping Left & Right](/robocode/Day-9/01_sweeping_left_right)
 ➡️ [Next: Day 10](/robocode/Day-10/index)
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+<iframe src="https://infinite-mind-pictures-inc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

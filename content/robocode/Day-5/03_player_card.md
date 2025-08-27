@@ -12,7 +12,7 @@ tags:
 
 Choose the method that matches your course:
 
-- **Self-paced** learners: use the [player card generator website](https://axyl-casc.github.io/WikiMinigames/cardgen/).
+- **Self-paced** learners: use the [player card generator website](https://infinite-mind-pictures-inc.github.io/WikiMinigames/cardgen/).
 - **Instructor-led** courses: submit your details through the [player card Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeO3NAcXqPCaacO21ZvApGUHdzv9Nuon2acvDtka6GBHQW6Hw/viewform?usp=header).
 
    <img src="/images/low/robocode/example_upload_forum.webp" alt="example_forum_upload" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
@@ -37,5 +37,5 @@ A crisp screenshot looks great on your player card!
 ⬅️ [Back: Wrapping Up](/robocode/Day-5/02_wrap_up)
 ➡️ [Next: Day 6](/robocode/Day-6/index)
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+<iframe src="https://infinite-mind-pictures-inc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

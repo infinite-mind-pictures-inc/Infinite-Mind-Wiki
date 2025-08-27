@@ -172,5 +172,5 @@ See if you can:
 
 💡 _Understanding the game by playing it will make your AI robot smarter when you start programming it later!_
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+<iframe src="https://infinite-mind-pictures-inc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

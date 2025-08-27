@@ -84,5 +84,5 @@ for (int i = 0; i < 3; i++) {
 ⬅️ [Back: Reactionary Logic](/robocode/Day-6/04_reactionary_logic)
 ➡️ [Next: Day 7](/robocode/Day-7/index)
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+<iframe src="https://infinite-mind-pictures-inc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

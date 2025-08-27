@@ -32,5 +32,5 @@ A crisp screenshot looks great on your player card!
 ⬅️ [Back: Wrapping Up](/robocode/Day-10/02_wrap_up)
 ➡️ [Next: Day 11+](/robocode/Day-11+/index)
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+<iframe src="https://infinite-mind-pictures-inc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

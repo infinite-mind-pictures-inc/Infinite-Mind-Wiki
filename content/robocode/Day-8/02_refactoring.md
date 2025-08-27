@@ -25,5 +25,5 @@ Refactoring keeps your bot maintainable while you iterate on new strategies.
 ⬅️ [Back: Survival Strategies](/robocode/Day-8/01_survival_strategies)
 ➡️ [Next: Day 9: Robot Building!](/robocode/Day-9/00_build_showcase)
 
-<iframe src="https://axyl-casc.github.io/WikiMinigames/checklist.html"
+<iframe src="https://infinite-mind-pictures-inc.github.io/WikiMinigames/checklist.html"
   style="width: 100%; height: 100%; min-height: 600px; border: none; border-radius: 8px;"></iframe>

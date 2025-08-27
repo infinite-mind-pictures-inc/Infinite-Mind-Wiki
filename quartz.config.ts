@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl:"axyl-casc.github.io/Infinite-Mind-Wiki",
+    baseUrl:"infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

@@ -8,10 +8,10 @@ This is a digital garden built using [Quartz 4](https://quartz.jzhao.xyz), a lig
 
 ### 1. Clone this repository
 
-* Open the **GitHub Desktop** application.
-* Click **File → Clone Repository...**
-* Enter: `https://github.com/axyl-casc/Infinite-Mind-Wiki.git`
-* Choose a local path to clone the project.
+- Open the **GitHub Desktop** application.
+- Click **File → Clone Repository...**
+- Enter: `https://github.com/infinite-mind-pictures-inc/Infinite-Mind-Wiki.git`
+- Choose a local path to clone the project.
 
 ### 2. Install dependencies
 
@@ -45,11 +45,11 @@ Run `run.bat` on Windows or `./run.sh` on macOS/Linux to host the website on [ht
 
 ## 🧠 Writing Notes
 
-* All notes live in the `content/` folder.
-* Use standard `.md` (Markdown) files.
-* You can link between notes using `[[wiki-links]]`.
-* Organize notes in subfolders (like `philosophy/`, `science/`, etc.) to create sidebar categories.
-* Every file can have frontmatter:
+- All notes live in the `content/` folder.
+- Use standard `.md` (Markdown) files.
+- You can link between notes using `[[wiki-links]]`.
+- Organize notes in subfolders (like `philosophy/`, `science/`, etc.) to create sidebar categories.
+- Every file can have frontmatter:
 
   ```yaml
   ---
@@ -62,8 +62,8 @@ Run `run.bat` on Windows or `./run.sh` on macOS/Linux to host the website on [ht
 
 ## 🖼️ Sidebar Folders
 
-* Quartz auto-generates sidebar structure based on folder paths.
-* You can customize sidebar behavior in `quartz.config.ts`:
+- Quartz auto-generates sidebar structure based on folder paths.
+- You can customize sidebar behavior in `quartz.config.ts`:
 
   ```ts
   sidebar: {
@@ -81,25 +81,24 @@ This repo uses **GitHub Actions** to auto-deploy Quartz to GitHub Pages whenever
 
 ### URL
 
-> 📎 [https://axyl-casc.github.io/Infinite-Mind-Wiki](https://axyl-casc.github.io/Infinite-Mind-Wiki)
+> 📎 [https://infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki](https://infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki)
 
 ### GitHub Pages is set up to:
 
-* Use `main` as the source branch
-* Deploy via GitHub Actions from the `public/` folder
-* Use `baseUrl: "axyl-casc.github.io/Infinite-Mind-Wiki"` in `quartz.config.ts`
-
+- Use `main` as the source branch
+- Deploy via GitHub Actions from the `public/` folder
+- Use `baseUrl: "infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki"` in `quartz.config.ts`
 
 ## 🤖 Deployment Workflow
 
 Found in `.github/workflows/jekyll-gh-pages.yml`:
 
-* Installs Node
-* Installs Python and Pillow
-* Builds Quartz
-* Compresses images via `build.py`
-* Uploads `public/` as a GitHub Pages artifact
-* Deploys with `actions/deploy-pages@v4`
+- Installs Node
+- Installs Python and Pillow
+- Builds Quartz
+- Compresses images via `build.py`
+- Uploads `public/` as a GitHub Pages artifact
+- Deploys with `actions/deploy-pages@v4`
 
 You do **not** need to manage this manually unless customizing.
 
@@ -107,4 +106,4 @@ You do **not** need to manage this manually unless customizing.
 
 ## 💬 Questions?
 
-Issues and feature requests welcome — submit them via the [Issues tab](https://github.com/axyl-casc/Infinite-Mind-Wiki/issues).
+Issues and feature requests welcome — submit them via the [Issues tab](https://github.com/infinite-mind-pictures-inc/Infinite-Mind-Wiki/issues).

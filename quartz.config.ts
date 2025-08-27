@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl:"infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki",
+    baseUrl: "infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Orbitron", // Sci-fi / gaming feel
-        body: "Inter",       // Clean and modern
+        body: "Inter", // Clean and modern
         code: "JetBrains Mono",
       },
       colors: {
@@ -35,8 +35,8 @@ const config: QuartzConfig = {
           gray: "#a0a0b0",
           darkgray: "#444458",
           dark: "#1b1b25",
-          secondary: "#005f99",       // Primary brand color
-          tertiary: "#00b2ca",        // Accent
+          secondary: "#005f99", // Primary brand color
+          tertiary: "#00b2ca", // Accent
           highlight: "rgba(0, 95, 153, 0.1)",
           textHighlight: "#ffff0080", // Yellow glow
         },
@@ -87,7 +87,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-        rssSlug: "rss"
+        rssSlug: "rss",
       }),
       Plugin.Assets(),
       Plugin.Static(),
@@ -97,6 +97,5 @@ const config: QuartzConfig = {
     ],
   },
 }
-
 
 export default config

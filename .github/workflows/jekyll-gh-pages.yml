@@ -2,7 +2,7 @@ name: Deploy Quartz site to GitHub Pages
 
 on:
   schedule:
-    - cron: '0 22 * * *'          # 4 pm MDT / 3 pm MST
+    - cron: "0 22 * * *" # 4 pm MDT / 3 pm MST
   workflow_dispatch:
 
 permissions:
@@ -52,7 +52,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install Python dependencies
         run: pip install .

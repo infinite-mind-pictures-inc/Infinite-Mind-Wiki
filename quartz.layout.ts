@@ -8,9 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Outschool": "https://outschool.com/teachers/Infinite-Mind-Pictures-Inc",
+      Outschool: "https://outschool.com/teachers/Infinite-Mind-Pictures-Inc",
       "RSS Feed": "https://infinite-mind-pictures-inc.github.io/Infinite-Mind-Wiki/rss.xml",
-      "Contact Us": "https://www.infinitemind.games/contact-us"
+      "Contact Us": "https://www.infinitemind.games/contact-us",
     },
   }),
 }
